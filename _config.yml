@@ -30,3 +30,5 @@ markdown: kramdown
 #plugins:
 #  - jekyll-feed
 
+
+theme: jekyll-theme-midnight
