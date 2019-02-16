@@ -31,4 +31,4 @@ markdown: kramdown
 #  - jekyll-feed
 
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
