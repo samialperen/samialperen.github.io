@@ -28,7 +28,8 @@ CoS Number, British Council'e gerekli belgelerin gönderilmesinin ardından alı
 * Erasmus Ofisinden alacağınız hibe yazısı (grant letter)
 * Learning Agreement for Traineeship (Before the mobility)
 * Kabul mektubu (learning agreement)
-* CoS Bilgi Formu (Information for Tier-5 COS Form) (Özenli bir şekilde doldurmanızı tavsiye ediyorum.)
+* CoS Bilgi Formu (Information for Tier-5 COS Form) (Özenli bir şekilde 
+doldurmanızı tavsiye ediyorum.)
 * Sabıka Kaydı (Criminal Record)
 * Öğrenci Belgesi (Student Certificate)
 * Transcript 
@@ -40,10 +41,13 @@ Tüm bahsedilen bu belgeleri tek bir .pdf haline getirip okulunuzun Erasmus ofis
 
 CoS için gerekli belgeleri doldururken dikkat etmeniz gereken bazı önemli noktalar:
 ``` 
-* Acceptance letter from host organisation should be stamped. If organization doesn't use stamp, it should be notified officially.
-* If any additional allowance is indicated on the application form, they are required to be listed on the application for as well.
+* Acceptance letter from host organisation should be stamped. If organization 
+doesn't use stamp, it should be notified officially.
+* If any additional allowance is indicated on the application form, they are 
+required to be listed on the application for as well.
 * Erasmus LA for Traineeship should be filled fully and comprehensively. 
-* " Is the work placement supernumerary?" question at the 5th page of the application form has to be answered as "YES"
+* " Is the work placement supernumerary?" question at the 5th page of the 
+application form has to be answered as "YES"
 ```
 
 CoS Number alma süreci zaman alan bir süreç ve yoğunluğa göre 6 haftaya kadar vakit alabilir. Bu sebeple elinizi çabuk tutup bir an önce gerekli evrakları hazırlayıp numaranızı alın. Ben hibe sonuçları açıklanmadan önce çoğu evrağı hazırladığım için Mart ayında Cos Number'a başvurmuştum ve 2 gün sonra numaram gelmişti. Ben erken davrandığım için bu kadar hızlı geldiğini düşünüyorum zira o zaman danışmanım bile şaşırmıştı nasıl bu kadar hızlı geldiğine. Siz gene de son ana bırakmayın çünkü Nisan-Haziran ayları arası British Council'in en yoğun olduğu zamanlar. Yukarıda bahsettiğim belgelerin bazılarının fotoğrafını aşağıda görebilirsiniz.
@@ -59,13 +63,57 @@ CoS Number alma süreci zaman alan bir süreç ve yoğunluğa göre 6 haftaya ka
 
 ## CoS Number'ı Kullanarak Tier 5 Vizesi Alma Süreci
 
+CoS Number başvurusunu halletiğimize göre artık asıl vize başvurusuna geçebiliriz. Asıl vize başvuruları [Visa4UK](https://www.visa4uk.fco.gov.uk/) üzerinden yapılıyor. Sitede bir sürü doldurmanız gereken yer var o yüzden tavsiyem CoS number'ı beklerken siteye kaydolup vize başvurusuna başlamanız. CoS Number'ınız gelince onu da ekleyip başvurunuzu tamamlamanız.
 
+British Council size CoS Number'ı gönderdiği mailinde en güncel Tier 5 başvuru rehberinin de pdf halini ek olarak gönderiyor. Bu rehberde **Visa4UK**'den nasıl başvuru yapacağınız detaylı bir şekilde anlatılıyor. Size daha CoS Number gelmediğini düşünerek, [bana gelen rehberin pdf hali](/static/erasmus-staj-ingiltere/Tier5OnlineGuide.pdf)'ni paylaşıyorum. 
 
+**Visa4UK**'e kaydolup bu rehberi de takip ederek VAF9 formunu düzgünce doldurun. Vize başvurusu için gereken belgeler:
+```
+* Pasaportunuz ve fotokopisi
+* Varsa eski pasaportlarınız
+* TC Kimlik ve fotokopisi
+* Öğrenci Belgeniz
+* Transkript
+* Acceptance Letter
+* Learning Agreement Before the Mobility
+* Tier 5 CoS Application Formu
+* Hibe Yazısı (Grant Letter)
+* VAF9 Formu (Visa4UK'de doldurduğumuz)
+* CoS Number Maintenance Letter (CoS Başvurusu yaptıktan sonra British 
+Council'in size gönderdiği ve üstünde size özel CoS numaranızın yazdığı belge)
+* Seyahat ve sağlık sigortanız (Erasmus için kaza, mesuliyet ve sağlık  
+sigortalarının hepsi bir arada isteniyor. Bankalarda yapılan sigortalar 
+genelde geçerli olmuyor. O yüzden sigorta acentalarından yaptırın ve 
+kesinlikle kaza, mesuliyet ve sağlık sigortalarının hepsini yapıyorlar mı 
+diye sorun!)
+* Ailenizin ya(da) sizin gelirle ilgili tüm belgeleriniz (maaş bordrosu, 
+tapu, ruhsat, banka hesap dökümleri vs)
+* Ailenizin size sponsor olacağına dair imzalı bir dilekçe
+* Sizin geri döneceğinizi bildirdiğiniz dilekçe
+(Bu iki dilekçe için taslakları aşağıdaki kısımdan indirebilirsiniz.)
+* Uçak Biletleri
+* Staj boyunca kalacağınız yeri gösteren bir belge
+* Vize randevunuzun **barkodlu** onay belgesi (appointment confirmation)
+```
+**Dilekçe Taslakları:**
 
+[Sponsor için dilekçe taslağı](/static/erasmus-staj-ingiltere/sponsor_dilekce.docx)
 
+[Kendi dilekçenizin taslağı](/static/erasmus-staj-ingiltere/kendi_dilekceniz.doc)
 
+**NOT:** Uçak biletleri ve kalacak yer konusunda karar birazcık size kalmış. Bazı insanlar ikisini de sadece geçici rezervasyon yaptırıp o şekilde başvuruyor. Bazıları kalacak yer göstermeden başvuruyor. İki şekilde de yapıp vize alan arkadaşlarım oldu. Ben garantici davranıp ikisini de göstermiştim. Belgelerinize güveniyorsanız ikisini de ayarlamanın ekonomik olarak tabii ki bir avantajı oluyor.
 
+**Visa4UK**'de başvurunuzu tamamladıktan sonra aracı kurum olan [TLScontact](https://uk.tlscontact.com/)'ın sitesine girip üye olmayı unutmayın. Vize görüşmesine hangi şehirde gidecekseniz o şehirdeki **TLScontact**'ın websitesine kaydolun.
 
+Bütün belgelerinizin ekstra fotokopinizi falan alıp kendinizi hiç yormayın. Vize görüşmesinde belgelerinizi taratıp size geri veriyorlar. Umarım atladığım bir yer yoktur. Referans vermesi açısından benim vizem yaklaşık 10 günde çıkmıştı ama duruma göre bu süre 3-4 haftayı da bulabiliyormuş. 
+
+Herhangi bir sorunuz olursa yorum kısmından sorabilirsiniz. Bu arada ben herhangi bir danışmanlık şirketine falan gitmedim. Kendim internetten araştırıp hallettim. Size de tavsiyem aynı şekilde yapmanız. **Boş yere vize danışmanlık şirketlerine para vermeyin. Tüm bilgiler internette mevcut! O parayla isterseniz İngiltere dönüşünde bana ufak bir hediye alabilirsiniz :))**
+
+Tier 5 ile ilgili ekstra bilgi için [**gov.uk**'in yayınladığı dosyalara bakabilirsiniz.](/static/erasmus-staj-ingiltere/20160816 Annex E Participant Tier 5 Guidelines and Sponsorship Duties.pdf)
+
+Bol şans diliyorum :)
+
+![HP Potions Room](/images/erasmus-staji-ingiltere/potion_room_hp.JPG)
 
 
 
