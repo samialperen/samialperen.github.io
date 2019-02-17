@@ -13,7 +13,7 @@ img {
 <img src="../images/profile.JPG">
 
 Hey, I am Sami Alperen Akgun. Welcome to my personal blog! In this blog, I will
-try to share my experience and thoughts about academic life, travel, literature
+try to share my experience and thoughts about academic life, travel, literature,
 technology, music, movies and TV-series. The language of the posts could be
 either in English or Turkish. My main goal in the life is to move humans and 
 robots close to each other through my research in robotics and 
