@@ -98,55 +98,75 @@ $ git push origin master
 ```
 
 Now you and everybody else can see your website at https://username.github.io
+
 Congratulations!!
 
 ## 2-)CUSTOMIZE YOUR BLOG 
 **Add Comment Section Into Your Blog**
+
 In order to allow readers to comment on your posts, you can use very common
 service named [Disqus](https://disqus.com/home). Sign up and do not forget 
-your Disqus username.
-Go username.github.io directory and create a directory named _includes
+your Disqus username (your website short-name). For me, it is https-samialperen-
+github-io as it can be seen in below. 
+
+![disqus_short_name](/images/github-pages-tutorial/disqus_short_name.png)
+
+Go to your website git repository directory and open _config.yaml
 ```
 $ cd username.github.io
-$ mkdir _includes
+$ gedit _config.yaml
 ```
-Go _includes directory and create a html snippet code named comments.html
+
+When you use jekyll new to create your website, it uses jekyll minima theme 
+by default and it is quite easy to add comment section to this theme. If you are
+using different theme, then the procedure might be different.
+
+At the end of _config.yaml file add this:
 ```
-$ cd _includes
-$ touch comments.html 
-$ gedit comments.html
+disqus:
+    shortname: your_disqus_website_shortname
 ```
-Paste this code:
-```{% raw %}
-{% if page.comments %}
-<!-- Add Disqus comments. -->
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-  var disqus_shortname = 'YOUR_DISQUS_USERNAME'; // required: replace example with your forum shortname
-  var disqus_identifier = "{{ site.disqusid }}{{ page.url | replace:'index.html','' }}";
+Change your_disqus_website_shortname to yours. 
 
-  /* * * DON'T EDIT BELOW THIS LINE * * */
-  (function() {
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}
-{% endraw %}```
-
-
-
-Change YOUR_DISQUS_USERNAME with yours.
-
-Now create another directory named _layouts under username.github.io if it 
-does not exist.
+Lastly, do not forget to add your website url in _config.yaml file.
 ```
-$ cd ..
-$ mkdir _layouts
+url: "https://username.github.io"
+```
+Here is an example _config.yaml:
+```
+title: Your awesome title
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://samialperen.github.io"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+#plugins:
+#  - jekyll-feed
+disqus:
+    shortname: https-samialperen-github-io
+```
+Commit and push your changes into github and you can see comment section at the
+end of your posts. 
+
+![comment_section](/images/github-pages-tutorial/comment_section.png)
+
+
+
+
+
+
  
+
+
+
 
 
 
