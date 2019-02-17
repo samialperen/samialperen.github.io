@@ -9,3 +9,4 @@ image: /images/erasmus-staji-ingiltere/trafalgar.JPG
 
 ![trafalgar square](/images/erasmus-staji-ingiltere/trafalgar.JPG)
 
+
