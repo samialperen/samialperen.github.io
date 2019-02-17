@@ -30,7 +30,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/about_me.html">About Me</a></div>
+        <div class="trigger"><a class="page-link" href="/about_me.html">About Me</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -114,8 +114,7 @@ Now it is time to install jekyll.</p>
 </ul>
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ ls
-config.yaml    _layouts    _sass ....
-_posts      _includes       about.md ...
+config.yaml _posts about.md ...
 </code></pre></div></div>
 <ul>
   <li>Thanks to jekyll we can view our website locally without committing to 
@@ -192,10 +191,68 @@ disqus:
     shortname: https-samialperen-github-io
 </code></pre></div></div>
 <p>Commit and push your changes into github and you can see comment section at the
-end of your posts.</p>
+end of your posts like below:
+<img src="/images/github-pages-tutorial/comment_section.png" alt="comment_section" /></p>
 
-<p><img src="/images/github-pages-tutorial/comment_section.png" alt="comment_section" /></p>
+<p><strong>Write New Blog Posts</strong></p>
 
+<p>Now you will understand power of markdowns and jekyll better. To write new blog 
+posts create a markdown file under username.github.io/_posts directory.</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ cd username.github.io/_posts
+$ touch 2019-02-01-github-pages-tutorial.markdown
+$ gedit 2019-02-01-github-pages-tutorial.markdown
+</code></pre></div></div>
+<p>Write your blog post as you wish regarding markdown syntax. The only thing
+you need to be careful is markdown file name. It should obey the following
+format:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>YYYY-MM-DD-post-name.markdown
+</code></pre></div></div>
+<p>Moreover, at the beginning of the markdown file you need to write a few lines</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+layout: post
+title:  "Post Title"
+date:   Post-Date    #should be same with filename
+---
+</code></pre></div></div>
+<p>Here is an example markdown file of jekyll:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2019-01-31 16:20:13 +0300
+categories: jekyll update
+---
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+
+&lt;figure class="highlight"&gt;&lt;pre&gt;&lt;code class="language-ruby" data-lang="ruby"&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;print_hi&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;name&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+  &lt;span class="nb"&gt;puts&lt;/span&gt; &lt;span class="s2"&gt;"Hi, &lt;/span&gt;&lt;span class="si"&gt;#{&lt;/span&gt;&lt;span class="nb"&gt;name&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;
+&lt;span class="k"&gt;end&lt;/span&gt;
+&lt;span class="n"&gt;print_hi&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Tom'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="c1"&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+</code></pre></div></div>
+<p>If you have difficulties with markdown file syntax, you can follow 
+<a href="https://www.markdowntutorial.com/">markdown_tutorials</a>. It is super easy to 
+learn.</p>
+
+<p><strong>Add Google Analytics to Your Blog</strong></p>
+
+<p>If you want to analyze your visitors and get more information about page views,
+you can add Google Analytics to your blog. Please see step 7 of <a href="https://briancaffey.github.io/2016/03/17/jekyll-tutorial.html">this tutorial</a>.</p>
+
+<p>That’s all for this tutorial. I hope it helps for anybody who wants to create
+his/her own blog without having too much trouble. The best thing about github
+pages is that it is totally free. :)</p>
 
   </div><a class="u-url" href="/2019/02/01/github-pages-tutorial.html" hidden></a>
 </article>

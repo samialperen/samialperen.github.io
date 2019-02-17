@@ -71,8 +71,7 @@ $ sudo gem install bundler
 
 ```
 $ ls
-config.yaml    _layouts    _sass ....
-_posts      _includes       about.md ...
+config.yaml _posts about.md ...
 ```
 * Thanks to jekyll we can view our website locally without committing to 
 github. This allows to easily check changes we have made before commits.
@@ -154,41 +153,71 @@ disqus:
     shortname: https-samialperen-github-io
 ```
 Commit and push your changes into github and you can see comment section at the
-end of your posts. 
-
+end of your posts like below:
 ![comment_section](/images/github-pages-tutorial/comment_section.png)
 
+**Write New Blog Posts**
+
+Now you will understand power of markdowns and jekyll better. To write new blog 
+posts create a markdown file under username.github.io/_posts directory. 
+```
+$ cd username.github.io/_posts
+$ touch 2019-02-01-github-pages-tutorial.markdown
+$ gedit 2019-02-01-github-pages-tutorial.markdown
+```
+Write your blog post as you wish regarding markdown syntax. The only thing
+you need to be careful is markdown file name. It should obey the following
+format:
+````
+YYYY-MM-DD-post-name.markdown
+````
+Moreover, at the beginning of the markdown file you need to write a few lines
+```
+---
+layout: post
+title:  "Post Title"
+date:   Post-Date    #should be same with filename
+---
+```
+Here is an example markdown file of jekyll:
+```
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2019-01-31 16:20:13 +0300
+categories: jekyll update
+---
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+```
+If you have difficulties with markdown file syntax, you can follow 
+[markdown_tutorials](https://www.markdowntutorial.com/). It is super easy to 
+learn.
+
+**Add Google Analytics to Your Blog**
+
+If you want to analyze your visitors and get more information about page views,
+you can add Google Analytics to your blog. Please see step 7 of [this tutorial](
+https://briancaffey.github.io/2016/03/17/jekyll-tutorial.html).
 
 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+That's all for this tutorial. I hope it helps for anybody who wants to create
+his/her own blog without having too much trouble. The best thing about github
+pages is that it is totally free. :)
