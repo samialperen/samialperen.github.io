@@ -3,7 +3,10 @@ layout: post
 title:  "How to Create Your Own Blog with Github Pages and Jekyll"
 date:   2019-02-01 11:49:13 +0300
 comments: true
+image: /images/github-pages-tutorial/github-pages-cover.jpeg
 ---
+
+![Github Pages Cover](/images/github-pages-tutorial/github-pages-cover.jpeg)
 
 In this tutorial, I will try to explain all the necessary steps to create your 
 own blog using github pages and Jekyll. I will assume that you have already 
