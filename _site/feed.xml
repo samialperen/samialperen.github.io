@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-18T11:28:04+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">How to Convert .py to .exe without Requiring a Python Installation to Windows</title><link href="http://localhost:4000/2019/02/18/py2exe.html" rel="alternate" type="text/html" title="How to Convert .py to .exe without Requiring a Python Installation to Windows" /><published>2019-02-18T00:00:00+03:00</published><updated>2019-02-18T00:00:00+03:00</updated><id>http://localhost:4000/2019/02/18/py2exe</id><content type="html" xml:base="http://localhost:4000/2019/02/18/py2exe.html">&lt;p&gt;&lt;img src=&quot;/images/py2exe/py2exe.jpg&quot; alt=&quot;Py2Exe Cover&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-18T11:35:37+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">How to Convert .py to .exe without Requiring a Python Installation to Windows</title><link href="http://localhost:4000/2019/02/18/py2exe.html" rel="alternate" type="text/html" title="How to Convert .py to .exe without Requiring a Python Installation to Windows" /><published>2019-02-18T00:00:00+03:00</published><updated>2019-02-18T00:00:00+03:00</updated><id>http://localhost:4000/2019/02/18/py2exe</id><content type="html" xml:base="http://localhost:4000/2019/02/18/py2exe.html">&lt;p&gt;&lt;img src=&quot;/images/py2exe/py2exe.jpg&quot; alt=&quot;Py2Exe Cover&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Sometimes you may need to convert your .py scripts into Windows executables. All we want is actually very clear. We want to create self compatible Windows executable files from .py scripts so that they can run in Windows machines without requiring any further installation to Windows machine. Thankfully, there is a nice and easy way to do this, which is &lt;a href=&quot;http://www.py2exe.org/&quot;&gt;py2exe&lt;/a&gt;. According to the original source of py2exe, py2exe is a &lt;strong&gt;Python Distutils&lt;/strong&gt; extension which converts Python scripts into executable Windows programs, able to run without requiring a Python installation.&lt;/p&gt;
 
@@ -6,12 +6,14 @@
 
 &lt;p&gt;Let’s learn how to install Python and py2exe and lastly an example conversion from .py into .exe using py2exe.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;WARNING!&lt;/strong&gt; &lt;strong&gt;You need to do this operation in Windows.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WARNING!:&lt;/strong&gt; &lt;strong&gt;You need to do these operations in Windows.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;step-1-python-installation&quot;&gt;Step 1: Python Installation&lt;/h3&gt;
 &lt;p&gt;Download python from official website. For example, &lt;a href=&quot;https://www.python.org/downloads/release/python-343/&quot;&gt;python 3.4.3&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Download Windows x86 MSI Installer if you are using 64 bit machine and install python 3.4.3 using this installer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WARNING!:&lt;/strong&gt; py2exe has some compatibility problems with higher versions of Python. Therefore, if it is not, do not use python version 3.5. or more. If it is a must for you then, &lt;a href=&quot;https://stackoverflow.com/questions/41570359/how-can-i-convert-a-py-to-exe-for-python&quot;&gt;this&lt;/a&gt; stackoverflow discussion might help.&lt;/p&gt;
+
+&lt;p&gt;Download Windows x86 MSI Installer if you are using 64 bit machine. Install python using the installer.&lt;/p&gt;
 
 &lt;p&gt;Select &lt;code class=&quot;highlighter-rouge&quot;&gt;C:\Python34&lt;/code&gt; (default location for installation)&lt;/p&gt;
 
@@ -23,10 +25,10 @@
 &lt;p&gt;Python 3.4.3 installer automatically adjust environmental variable paths, so hopefully you will not have any problem.
 However, if you have any problem, follow &lt;a href=&quot;https://simpletutorials.com/c/1613/How+to+Add+Python+3+directories+to+your+PATH+in+Windows+7&quot;&gt;this tutorial&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://simpletutorials.com/c/1522/Installing+Python+3+%2832+bit%29+on+Windows&quot;&gt;Here&lt;/a&gt; is an another tutorial to install python into Windows.&lt;/p&gt;
+&lt;p&gt;In case of difficulty, &lt;a href=&quot;https://simpletutorials.com/c/1522/Installing+Python+3+%2832+bit%29+on+Windows&quot;&gt;here&lt;/a&gt; is an another tutorial to install python into Windows.&lt;/p&gt;
 
 &lt;h3 id=&quot;step-2-py2exe-installation&quot;&gt;Step 2: py2exe Installation&lt;/h3&gt;
-&lt;p&gt;Open windows commandline (cmd) and go to the directory which contain installed python scripts. If you chose default directory before to install python
+&lt;p&gt;Open windows commandline (cmd) and go to the directory which contain installed python scripts. If you chose default directory to install python
 then it will be:&lt;/p&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd C:\Python34\Scripts
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -34,9 +36,9 @@ then it will be:&lt;/p&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ pip install py2exe
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;h3 id=&quot;step-3-convert-your-py-script-to-exe&quot;&gt;Step 3: Convert your .py Script to .exe&lt;/h3&gt;
-&lt;p&gt;In order to do so, first you need to create a &lt;strong&gt;setup.py&lt;/strong&gt; script which calls py2exe and your script.&lt;/p&gt;
+&lt;p&gt;First you need to create a &lt;strong&gt;setup.py&lt;/strong&gt; script which calls py2exe and your script.&lt;/p&gt;
 
-&lt;p&gt;Suppose you have a python script named hello.py and you want to convert it to .exe.In this case an example setup.py will be:&lt;/p&gt;
+&lt;p&gt;Suppose you have a python script named hello.py and you want to convert it to .exe. In this case an example setup.py will be:&lt;/p&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;from distutils.core import setup
 import py2exe
 

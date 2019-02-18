@@ -54,12 +54,14 @@
 
 <p>Let’s learn how to install Python and py2exe and lastly an example conversion from .py into .exe using py2exe.</p>
 
-<p><strong>WARNING!</strong> <strong>You need to do this operation in Windows.</strong></p>
+<p><strong>WARNING!:</strong> <strong>You need to do these operations in Windows.</strong></p>
 
 <h3 id="step-1-python-installation">Step 1: Python Installation</h3>
 <p>Download python from official website. For example, <a href="https://www.python.org/downloads/release/python-343/">python 3.4.3</a></p>
 
-<p>Download Windows x86 MSI Installer if you are using 64 bit machine and install python 3.4.3 using this installer.</p>
+<p><strong>WARNING!:</strong> py2exe has some compatibility problems with higher versions of Python. Therefore, if it is not, do not use python version 3.5. or more. If it is a must for you then, <a href="https://stackoverflow.com/questions/41570359/how-can-i-convert-a-py-to-exe-for-python">this</a> stackoverflow discussion might help.</p>
+
+<p>Download Windows x86 MSI Installer if you are using 64 bit machine. Install python using the installer.</p>
 
 <p>Select <code class="highlighter-rouge">C:\Python34</code> (default location for installation)</p>
 
@@ -71,10 +73,10 @@
 <p>Python 3.4.3 installer automatically adjust environmental variable paths, so hopefully you will not have any problem.
 However, if you have any problem, follow <a href="https://simpletutorials.com/c/1613/How+to+Add+Python+3+directories+to+your+PATH+in+Windows+7">this tutorial</a>.</p>
 
-<p><a href="https://simpletutorials.com/c/1522/Installing+Python+3+%2832+bit%29+on+Windows">Here</a> is an another tutorial to install python into Windows.</p>
+<p>In case of difficulty, <a href="https://simpletutorials.com/c/1522/Installing+Python+3+%2832+bit%29+on+Windows">here</a> is an another tutorial to install python into Windows.</p>
 
 <h3 id="step-2-py2exe-installation">Step 2: py2exe Installation</h3>
-<p>Open windows commandline (cmd) and go to the directory which contain installed python scripts. If you chose default directory before to install python
+<p>Open windows commandline (cmd) and go to the directory which contain installed python scripts. If you chose default directory to install python
 then it will be:</p>
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ cd C:\Python34\Scripts
 </code></pre></div></div>
@@ -82,9 +84,9 @@ then it will be:</p>
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ pip install py2exe
 </code></pre></div></div>
 <h3 id="step-3-convert-your-py-script-to-exe">Step 3: Convert your .py Script to .exe</h3>
-<p>In order to do so, first you need to create a <strong>setup.py</strong> script which calls py2exe and your script.</p>
+<p>First you need to create a <strong>setup.py</strong> script which calls py2exe and your script.</p>
 
-<p>Suppose you have a python script named hello.py and you want to convert it to .exe.In this case an example setup.py will be:</p>
+<p>Suppose you have a python script named hello.py and you want to convert it to .exe. In this case an example setup.py will be:</p>
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>from distutils.core import setup
 import py2exe
 
