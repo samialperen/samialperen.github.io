@@ -12,7 +12,7 @@ layout: home
     {% assign total = total | plus: 1 %}
 
   {% endfor %}
-  <h1 class="page-heading">Recent Posts ({{ total }})</h1>
+  <h1 class="page-heading">All Posts ({{ total }})</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -33,6 +33,5 @@ layout: home
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

@@ -48,6 +48,8 @@
   <div class="post-content e-content" itemprop="articleBody">
     <p><img src="/images/py2exe/py2exe.jpg" alt="Py2Exe Cover" /></p>
 
+<p><strong>EDIT:</strong> If you are using different libraries, installing Python directly to Windows could be cumbersome. Configuring py2exe’s “setup.py” may also require extra effort. I offer another alternative for this case. Please see at the end of this post.</p>
+
 <p>Sometimes you may need to convert your .py scripts into Windows executables. All we want is actually very clear. We want to create self compatible Windows executable files from .py scripts so that they can run in Windows machines without requiring any further installation to Windows machine. Thankfully, there is a nice and easy way to do this, which is <a href="http://www.py2exe.org/">py2exe</a>. According to the original source of py2exe, py2exe is a <strong>Python Distutils</strong> extension which converts Python scripts into executable Windows programs, able to run without requiring a Python installation.</p>
 
 <p><strong>IMPORTANT NOTE:</strong> You will need to install proper Python version to your Windows machine to make this conversion using py2exe. In this case, you can say “But you said without requiring a Python Installation!”. Well, what we mean by this phrase is that once you made this conversion, you can run converted .exe files in any Windows machine and you do not need to install anything to that machines. However, you need to install required programs to make this conversion. Now, I guess it is more clear, right?</p>
@@ -59,7 +61,7 @@
 <h3 id="step-1-python-installation">Step 1: Python Installation</h3>
 <p>Download python from official website. For example, <a href="https://www.python.org/downloads/release/python-343/">python 3.4.3</a></p>
 
-<p><strong>WARNING!:</strong> py2exe has some compatibility problems with higher versions of Python. Therefore, if it is not, do not use python version 3.5. or more. If it is a must for you then, <a href="https://stackoverflow.com/questions/41570359/how-can-i-convert-a-py-to-exe-for-python">this</a> stackoverflow discussion might help.</p>
+<p><strong>WARNING!:</strong> py2exe has some compatibility problems with higher versions of Python. Therefore, if it is not required, do not use python version 3.5. or more. If it is a must for you then, <a href="https://stackoverflow.com/questions/41570359/how-can-i-convert-a-py-to-exe-for-python">this</a> stackoverflow discussion might help.</p>
 
 <p>Download Windows x86 MSI Installer if you are using 64 bit machine. Install python using the installer.</p>
 
@@ -104,7 +106,26 @@ setup(console=['hello.py'])
 </code></pre></div></div>
 <p>If everything goes fine, you will be able to see hello.exe in <code class="highlighter-rouge">C:\Tutorial\Dist</code> directory.</p>
 
-<p>I hope this will be useful for you. :)</p>
+<h3 id="edit-for-python-scripts-with-lots-of-library-imports">EDIT: For Python Scripts with Lots of Library Imports</h3>
+<p>As I mentioned, if you are using different libraries, installing Python directly to Windows could be cumbersome. Configuring py2exe’s “setup.py” may also require extra effort. For this case, I will recommend you to use either <strong>Anaconda</strong> or <strong>Miniconda</strong> to install Python to Windows and use <strong>pyinstaller</strong> instead of <strong>py2exe</strong> to convert .py scripts to .exe.</p>
+
+<p>For example, I generally use Python <strong>Pandas</strong> library a lot and it is generally difficult to install it to Windows. I used Pyinstaller with Miniconda to convert my python script with Pandas library to windows executable.</p>
+
+<ul>
+  <li>
+    <p>First, follow <a href="https://pyinstaller.readthedocs.io/en/v3.3.1/installation.html">this link</a> to install Python to Windows using Anaconda/Miniconda.</p>
+  </li>
+  <li>
+    <p>Install the libraries you used in python script. (Using pip will be advantageous)</p>
+  </li>
+  <li>
+    <p>Go to your .py script directory and run Pyinstaller.</p>
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ pyinstaller your_script.py
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<p>That’s it! I hope this will be useful for you. :)</p>
 
   </div><a class="u-url" href="/2019/02/18/py2exe.html" hidden></a>
 </article>
