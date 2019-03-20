@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-17T00:49:43+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">How to study for the TOEFL? Where to Start?</title><link href="http://localhost:4000/2019/03/08/toefl-preparation.html" rel="alternate" type="text/html" title="How to study for the TOEFL? Where to Start?" /><published>2019-03-08T00:00:00+03:00</published><updated>2019-03-08T00:00:00+03:00</updated><id>http://localhost:4000/2019/03/08/toefl-preparation</id><content type="html" xml:base="http://localhost:4000/2019/03/08/toefl-preparation.html">&lt;p&gt;&lt;img src=&quot;/images/toefl/toefl.png&quot; alt=&quot;TOEFL&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-20T23:39:30+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">Best Sources to Follow Robotics Research and Stay Tuned</title><link href="http://localhost:4000/2019/03/19/robotics-resources.html" rel="alternate" type="text/html" title="Best Sources to Follow Robotics Research and Stay Tuned" /><published>2019-03-19T00:00:00+03:00</published><updated>2019-03-19T00:00:00+03:00</updated><id>http://localhost:4000/2019/03/19/robotics-resources</id><content type="html" xml:base="http://localhost:4000/2019/03/19/robotics-resources.html">&lt;p&gt;&lt;img src=&quot;/images/robotics-sources/Robotics2.jpg&quot; alt=&quot;Robotics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are interested in robotics and want to learn recent research done in the field, I have some suggestions for you to follow.&lt;/p&gt;
+
+&lt;h3 id=&quot;robohub&quot;&gt;Robohub&lt;/h3&gt;
+&lt;p&gt;Robohub is an amazing website to follow robotics research. It provides daily news about robotics, but the best thing I like about Robohub is &lt;strong&gt;Robohub Podcasts&lt;/strong&gt;. While you are commuting to college/work, listening these podcasts informs you about recent work of professors, graduate students and companies in Robotics. You can visit Robohub website using &lt;a href=&quot;https://robohub.org&quot;&gt;this link&lt;/a&gt;. Robohub podcasts can be found in &lt;a href=&quot;https://robohub.org/podcast/&quot;&gt;here&lt;/a&gt; or you can follow &lt;a href=&quot;https://soundcloud.com/robohubpodcast&quot;&gt;Robohub Channel&lt;/a&gt; on Soundcloud. In this way, you also have a chance to listen these amazing podcasts on your mobile phone.&lt;/p&gt;
+
+&lt;h3 id=&quot;cmu-ri-seminars&quot;&gt;CMU RI Seminars&lt;/h3&gt;
+&lt;p&gt;Carnegie Mellon University Robotics Institute (CMU-RI) holds excellent seminars regarding all subfields of Robotics. In these seminars, very successfull researchers introduces their recent research in robotics to CMU students. Fortunately, CMU records these seminars and publishes them on their Youtube channel. Please don’t forget to visit &lt;a href=&quot;https://www.youtube.com/user/cmurobotics&quot;&gt;CMU RI Youtube Channel&lt;/a&gt;. It would be wisely to watch these videos instead of killing time in computer game videos :).&lt;/p&gt;
+
+&lt;h3 id=&quot;ieee-spectrum---robotics&quot;&gt;IEEE Spectrum - Robotics&lt;/h3&gt;
+&lt;p&gt;Of course, it is impossible to not mentioning about IEEE Spectrum when the subject is related to engineering. &lt;a href=&quot;https://spectrum.ieee.org/robotics&quot;&gt;IEEE Spectrum - Robotics&lt;/a&gt; provides the newest information about robotics.&lt;/p&gt;
+
+&lt;h3 id=&quot;singularity-hub---robotics&quot;&gt;Singularity Hub - Robotics&lt;/h3&gt;
+&lt;p&gt;Although it is not updated as frequently as IEEE Spectrum, &lt;a href=&quot;https://singularityhub.com/tag/robotics&quot;&gt;Singularity Hub - Robotics&lt;/a&gt; section can be a good source to discover fascinating work in robotics.&lt;/p&gt;
+
+&lt;p&gt;There are many other sources to follow. You can check them via &lt;a href=&quot;https://blog.feedspot.com/robot_blogs/&quot;&gt;this link&lt;/a&gt;. I just tried to give my favourite ones.&lt;/p&gt;
+
+&lt;h2 id=&quot;conferences--journals&quot;&gt;Conferences &amp;amp; Journals&lt;/h2&gt;
+&lt;p&gt;I also want to mention about some well-known robotic conferences &amp;amp; journals. Attending one of the conferences would be fantastic, but generally not quite possible. However, even if you don’t attend, you should check later for published papers. They generally don’t make published papers directly available to public in a short time, i.e. it takes some time to reach these papers online. However, you can use previously mentioned sources to follow conferences. These sources usually creates some special edition posts for conferences.&lt;/p&gt;
+
+&lt;p&gt;You can learn dates of all IEEE Conferences via &lt;a href=&quot;https://www.ieee.org/conferences&quot;&gt;this link&lt;/a&gt; at “Upcoming Conferences” section.&lt;/p&gt;
+
+&lt;p&gt;Here are some of the best Robotics Conferences &amp;amp; Journals that I follow:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conferences&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra&quot;&gt;IEEE International Conference on Robotics And Automation (ICRA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros&quot;&gt;International Conference on Intelligent Robots and Systems (IROS)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.roboticsconference.org/&quot;&gt;Robotics: Science and Systems (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Journals&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ijrr.org/&quot;&gt;The International Journal of Robotics Research (IJRR)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/servlet/opac?punumber=8860&quot;&gt;IEEE Transactions on Robotics (T-RO)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lastly, I would like to talk about &lt;strong&gt;ResearchGate&lt;/strong&gt; website. I can simply say that it is Facebook of scientists and engineers. My favorite thing about this website is when you add your research of interest to your profile, &lt;strong&gt;ResearchGate&lt;/strong&gt; suggests you possible papers regarding your research interest. You can use &lt;a href=&quot;https://www.researchgate.net/&quot;&gt;this link&lt;/a&gt; to visit the website. For this purpose, you can use &lt;strong&gt;Mendeley&lt;/strong&gt; as well. Please visit &lt;a href=&quot;https://www.mendeley.com/&quot;&gt;Mendeley Website&lt;/a&gt; for more information.&lt;/p&gt;
+
+&lt;p&gt;That’s all for this post. I hope you like it. If you know other sources, feel free to use comment section.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/robotics-sources/Robotics2.jpg" /></entry><entry><title type="html">How to study for the TOEFL? Where to Start?</title><link href="http://localhost:4000/2019/03/08/toefl-preparation.html" rel="alternate" type="text/html" title="How to study for the TOEFL? Where to Start?" /><published>2019-03-08T00:00:00+03:00</published><updated>2019-03-08T00:00:00+03:00</updated><id>http://localhost:4000/2019/03/08/toefl-preparation</id><content type="html" xml:base="http://localhost:4000/2019/03/08/toefl-preparation.html">&lt;p&gt;&lt;img src=&quot;/images/toefl/toefl.png&quot; alt=&quot;TOEFL&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You need to take the TOEFL, and you have limited time to study. You start to search online for study tips and materials and &lt;strong&gt;WOW!&lt;/strong&gt;. There are too much information and you do not know where to start. Do not worry, I had the same situation, but I managed to solve it. In this post, I will try to explain my own strategy.&lt;/p&gt;
 
