@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-20T23:39:30+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">Best Sources to Follow Robotics Research and Stay Tuned</title><link href="http://localhost:4000/2019/03/19/robotics-resources.html" rel="alternate" type="text/html" title="Best Sources to Follow Robotics Research and Stay Tuned" /><published>2019-03-19T00:00:00+03:00</published><updated>2019-03-19T00:00:00+03:00</updated><id>http://localhost:4000/2019/03/19/robotics-resources</id><content type="html" xml:base="http://localhost:4000/2019/03/19/robotics-resources.html">&lt;p&gt;&lt;img src=&quot;/images/robotics-sources/Robotics2.jpg&quot; alt=&quot;Robotics&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-26T16:07:06+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">How to Study for the GRE?</title><link href="http://localhost:4000/2019/03/26/gre-preparation.html" rel="alternate" type="text/html" title="How to Study for the GRE?" /><published>2019-03-26T00:00:00+03:00</published><updated>2019-03-26T00:00:00+03:00</updated><id>http://localhost:4000/2019/03/26/gre-preparation</id><content type="html" xml:base="http://localhost:4000/2019/03/26/gre-preparation.html">&lt;p&gt;&lt;img src=&quot;/images/gre/gre-logo.jpg&quot; alt=&quot;GRE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to apply for a graduate school, you will probably need to take the GRE test. Generally, most of the colleges in USA requires GRE while some colleges in Canada or Europe also requires GRE score for application. You should check each school of your interest to see whether they need a GRE score or not.&lt;/p&gt;
+
+&lt;p&gt;Let’s say (unluckily) you need a GRE score to apply your dream school. You started to search for online to learn what the GRE is and how to study. However, you found a lot of information, and you got lost. You can be relaxed now because this post is for you.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-gre&quot;&gt;What is GRE?&lt;/h3&gt;
+&lt;p&gt;GRE is composed of three different parts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Analytical Writing: 2 Questions per Section – 1 Section Total&lt;/li&gt;
+  &lt;li&gt;Verbal Reasoning (Verbal): 20 Questions per Section – 2 Section Total&lt;/li&gt;
+  &lt;li&gt;Quantitative Reasoning (Quant): 20 Questions per Section –2 Section Total&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition, you will have an experimental unscored section which will be either Verbal or Quant.&lt;/p&gt;
+
+&lt;p&gt;Score ranges of these three different parts are (Minimum to Maximum):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Analytical Writing: 0-6&lt;/li&gt;
+  &lt;li&gt;Verbal: 130-170&lt;/li&gt;
+  &lt;li&gt;Quant: 130-170&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;GRE scores are a bit strange especially for Verbal or Quant parts. If you did not give a correct answer to any questions in these parts, you will 
+get 130 score, and if you answered all questions correctly, you will get 170 max score in that part. You might think that in this case each question has 1 point since Verbal and Quant sections has 40 questions total. However, this is the confusing part. GRE scores are not linear. If you had only one wrong answers, this does not mean that you will get 169 score. I know this is confusing, but unfortunately this is the situation. Don’t mind about scores, just try to get maximum score possible. In any case, if you are curious about GRE scores, visit &lt;a href=&quot;https://www.ets.org/gre/revised_general/scores/how/&quot;&gt;this website&lt;/a&gt;. You can also follow &lt;a href=&quot;https://www.kaptest.com/gre/what-is-the-gre&quot;&gt;this link&lt;/a&gt; to learn more about GRE sections individually.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-study&quot;&gt;How to Study?&lt;/h3&gt;
+&lt;p&gt;After registering for the GRE using &lt;a href=&quot;https://www.ets.org/gre&quot;&gt;ETS Website&lt;/a&gt;, it will give you two different example question sets to study for the GRE. I recommend you to solve these tests at the last stage like one day before the real exam.&lt;/p&gt;
+
+&lt;p&gt;First of all, check minimum requirements of each school that you are applying and specify your target score for each part of the GRE. For example, if you are an engineering student, most probably you need to score perfect in Quant section, moderate in Analytical Writing section and relatively poor in Verbal part. Of course, scoring perfect in all sections is the best, but not achievable in short term. Furthermore, I am not sure that you even need to score perfect in Verbal for engineering applications since it is quite difficult and even natives have hard times during the test. As I mentioned before, checking minimum requirements of applied schools could be nice guideline for you to determine target score for each part of the GRE.&lt;/p&gt;
+
+&lt;p&gt;After determining your target score, you should start to learn about question types in each part of the exam. Like the TOEFL, understanding question types and specific answers for them is essential to succeed. For this purpose, I would recommend you to use &lt;strong&gt;The Princeton Review: Cracking the GRE PREMIUM&lt;/strong&gt; book. It is published each year, so please try to use the newest one. This book will introduce you all question types in different sections and give tips how to approach them. You can either follow all the sections or just the ones that you feel week. Personally, I believe if you are an engineering student, you won’t even need to look for Quant section because it is super easy for a person who has enough engineering background in math.&lt;/p&gt;
+
+&lt;p&gt;After studying all the question types and specific answer to them in different sections, now you are actually ready to practice. For practice, I can recommend you to use &lt;a href=&quot;https://gre.kmf.com/&quot;&gt;GRE kmf website&lt;/a&gt;. This website perfectly mimics the original GRE system and all the exams in &lt;strong&gt;Model Test&lt;/strong&gt; section are real exams which are used in the past. In my opinion, the difficulty of the original exam is almost same with the exams in &lt;strong&gt;kmf&lt;/strong&gt;. However, you may need a &lt;strong&gt;chinise VPN&lt;/strong&gt; to reach the website. To learn how to achieve this, please visit my &lt;a href=&quot;https://samialperen.github.io/2019/03/08/toefl-preparation.html&quot;&gt;TOEFL preperation post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lastly, I can recommend some apps to install on your mobile phone for GRE preparation.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Magoosh GRE Flashcards: This app is perfect for vocabulary.&lt;/li&gt;
+  &lt;li&gt;Galvanize GRE Test Prep Math &amp;amp; Verbal: This application provides example questions for GRE. You can use this app to be familiar with all kinds of questions. It is especially very useful to use while you commute.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are good at math, you can prepare for GRE within one or two week easily. If your math is not very good (which is totally fine), it may take up to 2-3 months to fully prepare for the exam depending on your level.&lt;/p&gt;
+
+&lt;p&gt;I wish this post will be useful, and you will be able to reach your target score!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/gre/gre-logo.jpg" /></entry><entry><title type="html">Best Sources to Follow Robotics Research and Stay Tuned</title><link href="http://localhost:4000/2019/03/19/robotics-resources.html" rel="alternate" type="text/html" title="Best Sources to Follow Robotics Research and Stay Tuned" /><published>2019-03-19T00:00:00+03:00</published><updated>2019-03-19T00:00:00+03:00</updated><id>http://localhost:4000/2019/03/19/robotics-resources</id><content type="html" xml:base="http://localhost:4000/2019/03/19/robotics-resources.html">&lt;p&gt;&lt;img src=&quot;/images/robotics-sources/Robotics2.jpg&quot; alt=&quot;Robotics&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you are interested in robotics and want to learn recent research done in the field, I have some suggestions for you to follow.&lt;/p&gt;
 
