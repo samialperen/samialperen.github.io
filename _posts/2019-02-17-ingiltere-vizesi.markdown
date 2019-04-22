@@ -48,6 +48,9 @@ required to be listed on the application for as well.
 * Erasmus LA for Traineeship should be filled fully and comprehensively. 
 * " Is the work placement supernumerary?" question at the 5th page of the 
 application form has to be answered as "YES"
+* Kabul mektubunuzda Student Job Title/Job Title sizin staj yapacağınız yer 
+tarafından yazılmalıdır. CoS formlarındaki Student Job Title/Job Type kısımları 
+da kabul mektubuna uygun olarak doldurulmalıdır.
 ```
 
 CoS Number alma süreci zaman alan bir süreç ve yoğunluğa göre 6 haftaya kadar vakit alabilir. Bu sebeple elinizi çabuk tutup bir an önce gerekli evrakları hazırlayıp numaranızı alın. Ben hibe sonuçları açıklanmadan önce çoğu evrağı hazırladığım için Mart ayında Cos Number'a başvurmuştum ve 2 gün sonra numaram gelmişti. Ben erken davrandığım için bu kadar hızlı geldiğini düşünüyorum zira o zaman danışmanım bile şaşırmıştı nasıl bu kadar hızlı geldiğine. Siz gene de son ana bırakmayın çünkü Nisan-Haziran ayları arası British Council'in en yoğun olduğu zamanlar. Yukarıda bahsettiğim belgelerin bazılarının fotoğrafını aşağıda görebilirsiniz.
@@ -105,7 +108,9 @@ tapu, ruhsat, banka hesap dökümleri vs)
 
 **Visa4UK**'de başvurunuzu tamamladıktan sonra aracı kurum olan [TLScontact](https://uk.tlscontact.com/)'ın sitesine girip üye olmayı unutmayın. Vize görüşmesine hangi şehirde gidecekseniz o şehirdeki **TLScontact**'ın websitesine kaydolun.
 
-Bütün belgelerinizin ekstra fotokopinizi falan alıp kendinizi hiç yormayın. Vize görüşmesinde belgelerinizi taratıp size geri veriyorlar. Umarım atladığım bir yer yoktur. Referans vermesi açısından benim vizem yaklaşık 10 günde çıkmıştı ama duruma göre bu süre 3-4 haftayı da bulabiliyormuş. 
+**NOT:** Bütün belgelerinizin ekstra fotokopisini falan alıp kendinizi hiç yormayın. Vize görüşmesinde belgelerinizi taratıp size geri veriyorlar. Dolayısıyla belgelerinizin ıslak imzalı olmasına da gerek yok. Renkli yazdırdığınız sürece bir problem olacağını sanmıyorum. Boşu boşuna ıslak imzalı belgeler için posta ile uğraşmayın.
+
+Umarım atladığım bir yer yoktur. Referans vermesi açısından benim vizem yaklaşık 10 günde çıkmıştı ama duruma göre bu süre 3-4 haftayı da bulabiliyormuş. 
 
 Herhangi bir sorunuz olursa yorum kısmından sorabilirsiniz. Bu arada ben herhangi bir danışmanlık şirketine falan gitmedim. Kendim internetten araştırıp hallettim. Size de tavsiyem aynı şekilde yapmanız. **Boş yere vize danışmanlık şirketlerine para vermeyin. Tüm bilgiler internette mevcut! O parayla isterseniz İngiltere dönüşünde bana ufak bir hediye alabilirsiniz :))**
 
