@@ -24,4 +24,6 @@ disqus:
 # Add google-analytics
 google_analytics: UA-138872115-1   
 
-
+# Improve google search result
+plugins:
+  - jekyll-seo-tag
