@@ -21,6 +21,7 @@ theme: minima
 disqus:
     shortname: https-samialperen-github-io
     
-    
+# Add google-analytics
+google_analytics: UA-138872115-1   
 
 
