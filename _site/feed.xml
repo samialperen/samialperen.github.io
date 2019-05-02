@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-25T17:36:35+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">Best Free Online Courses (Especially for ECE, CS and ME Students)</title><link href="http://localhost:4000/2019/04/10/best-onlinecourses.html" rel="alternate" type="text/html" title="Best Free Online Courses (Especially for ECE, CS and ME Students)" /><published>2019-04-10T00:00:00+03:00</published><updated>2019-04-10T00:00:00+03:00</updated><id>http://localhost:4000/2019/04/10/best-onlinecourses</id><content type="html" xml:base="http://localhost:4000/2019/04/10/best-onlinecourses.html">&lt;p&gt;&lt;img src=&quot;/images/best-courses/best-courses.jpg&quot; alt=&quot;Best Courses&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-02T14:10:51+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">Terminator: A Linux Terminal Emulator with Multiple Terminals in One</title><link href="http://localhost:4000/2019/04/21/ubuntu-terminator.html" rel="alternate" type="text/html" title="Terminator: A Linux Terminal Emulator with Multiple Terminals in One" /><published>2019-04-21T00:00:00+03:00</published><updated>2019-04-21T00:00:00+03:00</updated><id>http://localhost:4000/2019/04/21/ubuntu-terminator</id><content type="html" xml:base="http://localhost:4000/2019/04/21/ubuntu-terminator.html">&lt;p&gt;&lt;img src=&quot;/images/terminator/8.png&quot; alt=&quot;My Terminal with ROS&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As linux users, we all suffer from the default linux terminal when we try to call multiple terminals. We open new terminal each time and after some time, it becomes quite difficult to navigate between terminals. I had suffered from this during the time where I was trying to learn &lt;strong&gt;Robot Operating System (ROS)&lt;/strong&gt; because you need to call each script of ROS from another terminal, and default linux terminal made me crazy. Thanks to my friend Jean Pierre, I discovered an amazing Linux Terminal Emulator &lt;strong&gt;Terminator&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The beauty about &lt;strong&gt;Terminator&lt;/strong&gt; is that it provides the ability to create multiple terminals in just one window. IT also allows you to change other terminal properties such as fonts, fonts colours, background color etc. In this post, I will try to explain installation of Terminator in Linux and give some tips that I frequently use.&lt;/p&gt;
+
+&lt;h3 id=&quot;installation&quot;&gt;Installation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ubuntu-Based Distributions
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo apt-get install terminator
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fedore &amp;amp; Other Derivatives
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ dnf install terminator
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s it. It is installed successfully.&lt;/p&gt;
+
+&lt;h3 id=&quot;usage--tips&quot;&gt;Usage &amp;amp; Tips&lt;/h3&gt;
+
+&lt;p&gt;After installation, just call the terminal with &lt;code class=&quot;highlighter-rouge&quot;&gt;CTRL + ALT + T&lt;/code&gt; 
+&lt;img src=&quot;/images/terminator/1.png&quot; alt=&quot;Initial Terminator Startup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Right click to terminal and choose split-horizontally or vertically.
+&lt;img src=&quot;/images/terminator/2.png&quot; alt=&quot;Split&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see, now we have two terminals in one window. You can navigate between terminals using &lt;code class=&quot;highlighter-rouge&quot;&gt;ALT+Arrow Keys&lt;/code&gt;
+&lt;img src=&quot;/images/terminator/3.png&quot; alt=&quot;Multiple Terminals&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can further split terminals.
+&lt;img src=&quot;/images/terminator/4.png&quot; alt=&quot;Further Split&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Right click to &lt;strong&gt;Preferences&lt;/strong&gt;. You can customize your terminal as you wish.
+&lt;img src=&quot;/images/terminator/5.png&quot; alt=&quot;Preferences&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you go &lt;strong&gt;Keybindings&lt;/strong&gt; tab, you will see that there is a keyboard shortcut for almost every operation. I prefer to use default shortcuts, but you can change if you want. 
+&lt;img src=&quot;/images/terminator/6.png&quot; alt=&quot;Keyboard Shortcuts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some shortcuts that I use commonly:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ctrl + Shift + O  –&amp;gt; Split Horizontally&lt;/li&gt;
+  &lt;li&gt;Ctrl + Shift + E  –&amp;gt; Split Vertically&lt;/li&gt;
+  &lt;li&gt;Ctrl + Shift + W  –&amp;gt; Close the Selected Terminal Window&lt;/li&gt;
+  &lt;li&gt;Alt + Arrow Keys –&amp;gt; Navigate Between Terminal Windows&lt;/li&gt;
+  &lt;li&gt;Ctrl + Shift + X –&amp;gt; (De)Maximise the Selected Terminal Window&lt;/li&gt;
+  &lt;li&gt;Alt + A –&amp;gt; Select all Terminals (For example, very useful when you try to connect using ssh and you need more terminals)&lt;/li&gt;
+  &lt;li&gt;Alt + G –&amp;gt; Deselect all Terminals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My terminal looks like below while I am working with ROS.
+&lt;img src=&quot;/images/terminator/7.png&quot; alt=&quot;My Terminal with ROS&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s all for this post. I wish it would be useful :)&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/terminator/8.png" /></entry><entry><title type="html">Best Free Online Courses (Especially for ECE, CS and ME Students)</title><link href="http://localhost:4000/2019/04/10/best-onlinecourses.html" rel="alternate" type="text/html" title="Best Free Online Courses (Especially for ECE, CS and ME Students)" /><published>2019-04-10T00:00:00+03:00</published><updated>2019-04-10T00:00:00+03:00</updated><id>http://localhost:4000/2019/04/10/best-onlinecourses</id><content type="html" xml:base="http://localhost:4000/2019/04/10/best-onlinecourses.html">&lt;p&gt;&lt;img src=&quot;/images/best-courses/best-courses.jpg&quot; alt=&quot;Best Courses&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We all know that courses we take in the college is not enough. It is always good to not limit yourself. You might want to go deeper in a subject that you are interested. It doesn’t matter whether it is directly related to your department or your academic interest. It is even better if you improve yourself with different concepts. This will help you to connect pieces together. Don’t forget that interdisciplinary work is the best!&lt;/p&gt;
 
@@ -367,7 +422,7 @@ bitip de oraya gittiğinizde çektiğiniz bütün çileyi unutacaksınız.&lt;/p
 * Kabul mektubu (learning agreement)
 * CoS Bilgi Formu (Information for Tier-5 COS Form) (Özenli bir şekilde 
 doldurmanızı tavsiye ediyorum.)
-* Sabıka Kaydı (Criminal Record)
+* Sabıka Kaydı (Criminal Record) (E-devlet)
 * Öğrenci Belgesi (Student Certificate)
 * Transcript 
 * Tier 5 COS Application Form (Erasmus Plus sitesinden indirilecek)

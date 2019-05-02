@@ -30,7 +30,7 @@ CoS Number, British Council'e gerekli belgelerin gönderilmesinin ardından alı
 * Kabul mektubu (learning agreement)
 * CoS Bilgi Formu (Information for Tier-5 COS Form) (Özenli bir şekilde 
 doldurmanızı tavsiye ediyorum.)
-* Sabıka Kaydı (Criminal Record)
+* Sabıka Kaydı (Criminal Record) (E-devlet)
 * Öğrenci Belgesi (Student Certificate)
 * Transcript 
 * Tier 5 COS Application Form (Erasmus Plus sitesinden indirilecek)

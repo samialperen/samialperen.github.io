@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Terminator: A Linux Terminal Emulator with Multiple Terminals in One | Personal Blog of Sami Alperen Akgün</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Terminator: A Linux Terminal Emulator with Multiple Terminals in One" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference." />
+<meta property="og:description" content="Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference." />
+<link rel="canonical" href="http://localhost:4000/2019/04/21/ubuntu-terminator.html" />
+<meta property="og:url" content="http://localhost:4000/2019/04/21/ubuntu-terminator.html" />
+<meta property="og:site_name" content="Personal Blog of Sami Alperen Akgün" />
+<meta property="og:image" content="http://localhost:4000/images/terminator/8.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-04-21T00:00:00+03:00" />
+<script type="application/ld+json">
+{"description":"Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference.","@type":"BlogPosting","url":"http://localhost:4000/2019/04/21/ubuntu-terminator.html","image":"http://localhost:4000/images/terminator/8.png","headline":"Terminator: A Linux Terminal Emulator with Multiple Terminals in One","dateModified":"2019-04-21T00:00:00+03:00","datePublished":"2019-04-21T00:00:00+03:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2019/04/21/ubuntu-terminator.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Personal Blog of Sami Alperen Akgün" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Personal Blog of Sami Alperen Akgün</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about_me.html">About Me</a><a class="page-link" href="/hakkimda.html">Hakkımda</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Terminator: A Linux Terminal Emulator with Multiple Terminals in One</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2019-04-21T00:00:00+03:00" itemprop="datePublished">Apr 21, 2019
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p><img src="/images/terminator/8.png" alt="My Terminal with ROS" /></p>
+
+<p>As linux users, we all suffer from the default linux terminal when we try to call multiple terminals. We open new terminal each time and after some time, it becomes quite difficult to navigate between terminals. I had suffered from this during the time where I was trying to learn <strong>Robot Operating System (ROS)</strong> because you need to call each script of ROS from another terminal, and default linux terminal made me crazy. Thanks to my friend Jean Pierre, I discovered an amazing Linux Terminal Emulator <strong>Terminator</strong>.</p>
+
+<p>The beauty about <strong>Terminator</strong> is that it provides the ability to create multiple terminals in just one window. IT also allows you to change other terminal properties such as fonts, fonts colours, background color etc. In this post, I will try to explain installation of Terminator in Linux and give some tips that I frequently use.</p>
+
+<h3 id="installation">Installation</h3>
+
+<ul>
+  <li>Ubuntu-Based Distributions
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt-get install terminator
+</code></pre></div>    </div>
+  </li>
+  <li>Fedore &amp; Other Derivatives
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ dnf install terminator
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<p>That’s it. It is installed successfully.</p>
+
+<h3 id="usage--tips">Usage &amp; Tips</h3>
+
+<p>After installation, just call the terminal with <code class="highlighter-rouge">CTRL + ALT + T</code> 
+<img src="/images/terminator/1.png" alt="Initial Terminator Startup" /></p>
+
+<p>Right click to terminal and choose split-horizontally or vertically.
+<img src="/images/terminator/2.png" alt="Split" /></p>
+
+<p>As you can see, now we have two terminals in one window. You can navigate between terminals using <code class="highlighter-rouge">ALT+Arrow Keys</code>
+<img src="/images/terminator/3.png" alt="Multiple Terminals" /></p>
+
+<p>You can further split terminals.
+<img src="/images/terminator/4.png" alt="Further Split" /></p>
+
+<p>Right click to <strong>Preferences</strong>. You can customize your terminal as you wish.
+<img src="/images/terminator/5.png" alt="Preferences" /></p>
+
+<p>When you go <strong>Keybindings</strong> tab, you will see that there is a keyboard shortcut for almost every operation. I prefer to use default shortcuts, but you can change if you want. 
+<img src="/images/terminator/6.png" alt="Keyboard Shortcuts" /></p>
+
+<p>Here are some shortcuts that I use commonly:</p>
+<ul>
+  <li>Ctrl + Shift + O  –&gt; Split Horizontally</li>
+  <li>Ctrl + Shift + E  –&gt; Split Vertically</li>
+  <li>Ctrl + Shift + W  –&gt; Close the Selected Terminal Window</li>
+  <li>Alt + Arrow Keys –&gt; Navigate Between Terminal Windows</li>
+  <li>Ctrl + Shift + X –&gt; (De)Maximise the Selected Terminal Window</li>
+  <li>Alt + A –&gt; Select all Terminals (For example, very useful when you try to connect using ssh and you need more terminals)</li>
+  <li>Alt + G –&gt; Deselect all Terminals</li>
+</ul>
+
+<p>My terminal looks like below while I am working with ROS.
+<img src="/images/terminator/7.png" alt="My Terminal with ROS" /></p>
+
+<p>That’s all for this post. I wish it would be useful :)</p>
+
+  </div><a class="u-url" href="/2019/04/21/ubuntu-terminator.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Personal Blog of Sami Alperen Akgün</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Personal Blog of Sami Alperen Akgün</li><li><a class="u-email" href="mailto:sami.alperen.akgun@gmail.com">sami.alperen.akgun@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://www.facebook.com/samialperen"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#facebook"></use></svg> <span class="username">samialperen</span></a></li><li><a href="https://github.com/samialperen"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">samialperen</span></a></li><li><a href="https://instagram.com/alpernakgun"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#instagram"></use></svg> <span class="username">alpernakgun</span></a></li><li><a href="https://www.linkedin.com/in/sami-alperen-akgun"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">sami-alperen-akgun</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
