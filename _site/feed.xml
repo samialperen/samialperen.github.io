@@ -1,4 +1,110 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-02T14:10:51+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">Terminator: A Linux Terminal Emulator with Multiple Terminals in One</title><link href="http://localhost:4000/2019/04/21/ubuntu-terminator.html" rel="alternate" type="text/html" title="Terminator: A Linux Terminal Emulator with Multiple Terminals in One" /><published>2019-04-21T00:00:00+03:00</published><updated>2019-04-21T00:00:00+03:00</updated><id>http://localhost:4000/2019/04/21/ubuntu-terminator</id><content type="html" xml:base="http://localhost:4000/2019/04/21/ubuntu-terminator.html">&lt;p&gt;&lt;img src=&quot;/images/terminator/8.png&quot; alt=&quot;My Terminal with ROS&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-25T10:53:02+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)</title><link href="http://localhost:4000/2019/05/15/canada-studypermit.html" rel="alternate" type="text/html" title="How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)" /><published>2019-05-15T00:00:00+03:00</published><updated>2019-05-15T00:00:00+03:00</updated><id>http://localhost:4000/2019/05/15/canada-studypermit</id><content type="html" xml:base="http://localhost:4000/2019/05/15/canada-studypermit.html">&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/canada-flag.jpg&quot; alt=&quot;Canada Flag&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;general-information-and-required-documents&quot;&gt;General Information and Required Documents&lt;/h3&gt;
+
+&lt;p&gt;If you are going to Canada for educational purposes like language school, undergraduate/graduate studies, and you are going to stay more than 6 months, then you need to take a &lt;strong&gt;Study Permit&lt;/strong&gt;. Of course, this depends on your home country.&lt;/p&gt;
+
+&lt;p&gt;In this post, I am going to share my experience about getting Canada Study Permit. My hometown is &lt;strong&gt;Turkey&lt;/strong&gt;, so all information in here will be related to application from Turkey. Yet, general procedure is pretty much same. Only some documents might differ.&lt;/p&gt;
+
+&lt;p&gt;I followed &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html&quot;&gt;Canada Immigration and Citizenship website&lt;/a&gt; as a main source. You should check it out for more information.&lt;/p&gt;
+
+&lt;p&gt;First of all, the school that you are accepted in Canada should be one of the designated learning institutions (DLI). According to the Canada Immigration and Citizenship website, a designated learning institution (DLI) is a school approved by a provincial or territorial government to host international students. You will need an acceptance letter from a DLI. Check whether your school is a DLI or not using &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html&quot;&gt;this&lt;/a&gt; link.&lt;/p&gt;
+
+&lt;p&gt;I prepared my documents by taking reference &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/get-documents.html&quot;&gt;Canada Immigration and Citizenship website document list&lt;/a&gt;. Here are the necessary documents:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Proof of acceptance (Acceptance letter from a DLI)&lt;/li&gt;
+  &lt;li&gt;Valid Passport and Old Passports (if you have)&lt;/li&gt;
+  &lt;li&gt;One Digital Biometric Photo&lt;/li&gt;
+  &lt;li&gt;Proof of financial support:
+    &lt;ul&gt;
+      &lt;li&gt;A letter from the school giving you money. It should include the amount of funding you will get with tuition fee. (personally I had just one acceptance letter from the university. The funding amount is written on that, but Tuition isn’t)&lt;/li&gt;
+      &lt;li&gt;My bank statements for the past 6 months&lt;/li&gt;
+      &lt;li&gt;Sponsorship Letter from my father. &lt;a href=&quot;/static/canada-studypermit/sponsorship-template.docx&quot;&gt;Here&lt;/a&gt; is the template to download. Change it according to your situation. I just provided it to give you a clue about its format.&lt;/li&gt;
+      &lt;li&gt;My sponsor’s 6 month salary roll&lt;/li&gt;
+      &lt;li&gt;My sponsor’s bank statements (I didn’t provide)&lt;/li&gt;
+      &lt;li&gt;House Title Deed (if applicable)&lt;/li&gt;
+      &lt;li&gt;Vehicle License (if applicable)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Letter of explanation: This is probably the most important document of yours. You need to clearly explain why you want to take study permit. You can attach any file you want to letter of explanation. Please don’t forget that this file is the only thing that gives you a chance to convince visa officer. It is stated as optional in the website, but I personally believe that it should be MUST! &lt;a href=&quot;/static/canada-studypermit/letter-of-explanation-template.docx&quot;&gt;Here&lt;/a&gt; is the template to download. I attached below files to my letter of explanation:
+    &lt;ul&gt;
+      &lt;li&gt;Student Certificate&lt;/li&gt;
+      &lt;li&gt;TOEFL Score&lt;/li&gt;
+      &lt;li&gt;GRE Score&lt;/li&gt;
+      &lt;li&gt;Transcript&lt;/li&gt;
+      &lt;li&gt;Curriculum Vitae (CV)&lt;/li&gt;
+      &lt;li&gt;Criminal Record (e-devlet)&lt;/li&gt;
+      &lt;li&gt;Letter of Acceptance from Universities in other countries&lt;/li&gt;
+      &lt;li&gt;My previous passport&lt;/li&gt;
+      &lt;li&gt;My National ID (Turkey)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Minimum amount of money that you need to show for financial support is stated as Tuition + 10.000 CAD per year for one  student (Outside Quebec, 2019 Year). You should check Canada Immigration website above to see the required amount applicable for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; I personally didn’t provide any accommodation arrangement or flight tickets to get study permit.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-apply&quot;&gt;How to Apply?&lt;/h3&gt;
+
+&lt;p&gt;You can apply for study permit in either &lt;strong&gt;online&lt;/strong&gt; or via &lt;strong&gt;VFS Global&lt;/strong&gt;. VFS Global is a legal intermediary establishment for Canada visa applications. Depending on your country, there might be another establishment rather than VFS Global.&lt;/p&gt;
+
+&lt;p&gt;I preferred to apply online since it is easy and you don’t have to give extra money to VFS Global. To apply online, first visit &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html&quot;&gt;this&lt;/a&gt; link to create an account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/1.png&quot; alt=&quot;Sign Up Options&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are two different sign up options: via &lt;strong&gt;Sign-in Partner&lt;/strong&gt; or via &lt;strong&gt;GCkey&lt;/strong&gt;. Sign-in Partner option is for the people who have a Canadian bank account. Use GCkey if you don’t have Canadian bank account or a partner bank account (which is probably your case if you are applying in Turkey).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/2.png&quot; alt=&quot;GCkey Sign Up&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During sign-up process, please be careful and provide necessary information correctly. Moreover, you need to create some security questions with answers for yourself. These questions and answers will be super important since you are going to use one of them at each time you enter the &lt;strong&gt;CiC&lt;/strong&gt; website. Therefore, don’t forget to take a note!&lt;/p&gt;
+
+&lt;p&gt;After signing in to your account, you need to create a new application. For this purpose, scroll down &lt;strong&gt;Start an Application&lt;/strong&gt; section and click &lt;strong&gt;Apply to come to Canada&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/3.png&quot; alt=&quot;Start an Application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click &lt;strong&gt;Visitor visa, study and/or work permit&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/4.png&quot; alt=&quot;Study Permit Button&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you will need to fill out a survey to find out whether you are eligible to apply a study permit. This survey at the end creates a personalized document checklist for your account to upload necessary documents.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/5.png&quot; alt=&quot;Application Survey&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can save your answers and exit the survey anytime you want using &lt;strong&gt;Save and Exit Questionnaire&lt;/strong&gt; button at the bottom left. You can proceed next pages of survey using &lt;strong&gt;Next&lt;/strong&gt; button at the bottom right.&lt;/p&gt;
+
+&lt;p&gt;After completion of the survey, you should be able to see &lt;strong&gt;Documents to Submit&lt;/strong&gt; page like below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/6.png&quot; alt=&quot;Documents to Submit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see, there are some other extra documents to upload:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Application for Study Permit Made Outside of Canada (IMM1294)&lt;/li&gt;
+  &lt;li&gt;Family Information (IMM5645)&lt;/li&gt;
+  &lt;li&gt;Schedule 1 - Application for a Temporary Resident Visa Made Outside Canada (IMM5257)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can download these documents by clicking document name.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; You need to use new versions of &lt;strong&gt;Adobe Reader&lt;/strong&gt; to open and edit these documents.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; You need to upload &lt;strong&gt;Letter of Explanation&lt;/strong&gt; with its attachments to &lt;strong&gt;Client Information&lt;/strong&gt; part.&lt;/p&gt;
+
+&lt;p&gt;After uploading all the documents, you will pay the visa application fee online and your application will be completed. When there is an update about your document, you will receive an email to check your &lt;strong&gt;CiC&lt;/strong&gt; account.&lt;/p&gt;
+
+&lt;p&gt;To read the message, you need to enter your account and click &lt;strong&gt;Check Full Application Status&lt;/strong&gt; under &lt;strong&gt;Vie the applications you submitted&lt;/strong&gt; part.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/8.png&quot; alt=&quot;Check Full Applcation Status&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Scrool down to &lt;strong&gt;Messages about your application&lt;/strong&gt; part and you will see the messages regarding your application. Click them to read.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/7.png&quot; alt=&quot;CiC Messages&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you haven’t been in Canada before, you may need to give &lt;strong&gt;Biometrics&lt;/strong&gt;. Thanks to survey you have filled out, if you need to give biometrics, you are going to pay necessary &lt;strong&gt;Biometrics Fee&lt;/strong&gt; and after a few days (for ex, 1 day for my application) you will receive a message &lt;strong&gt;Biometrics Collection Letter&lt;/strong&gt; which requests biometrics of yours. You need to visit &lt;strong&gt;VFS Global&lt;/strong&gt; to give biometrics. All detailed information is covered in received &lt;strong&gt;Biometrics Collection Letter&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;After giving Biometrics, there is nothing to do left. All you need to is to wait. I got my study permit at my first attempt and it took exactly &lt;strong&gt;1 Month&lt;/strong&gt;. I paid &lt;strong&gt;150 CaD Study Permit Fee&lt;/strong&gt; and &lt;strong&gt;85 CaD Biometrics Fee&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;That’s all for this post. I wish you can get your visa at the first time you applied. If you have any questions, don’t hesitate to use comment section below. Study permit application might seem a bit complicated at first, but trust me it is not. Start to prepare documents early and don’t spend money on Visa Consultancy.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/canada-studypermit/canada-flag.jpg" /></entry><entry><title type="html">Terminator: A Linux Terminal Emulator with Multiple Terminals in One</title><link href="http://localhost:4000/2019/04/21/ubuntu-terminator.html" rel="alternate" type="text/html" title="Terminator: A Linux Terminal Emulator with Multiple Terminals in One" /><published>2019-04-21T00:00:00+03:00</published><updated>2019-04-21T00:00:00+03:00</updated><id>http://localhost:4000/2019/04/21/ubuntu-terminator</id><content type="html" xml:base="http://localhost:4000/2019/04/21/ubuntu-terminator.html">&lt;p&gt;&lt;img src=&quot;/images/terminator/8.png&quot; alt=&quot;My Terminal with ROS&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As linux users, we all suffer from the default linux terminal when we try to call multiple terminals. We open new terminal each time and after some time, it becomes quite difficult to navigate between terminals. I had suffered from this during the time where I was trying to learn &lt;strong&gt;Robot Operating System (ROS)&lt;/strong&gt; because you need to call each script of ROS from another terminal, and default linux terminal made me crazy. Thanks to my friend Jean Pierre, I discovered an amazing Linux Terminal Emulator &lt;strong&gt;Terminator&lt;/strong&gt;.&lt;/p&gt;
 
@@ -514,213 +620,4 @@ tapu, ruhsat, banka hesap dökümleri vs)
 
 &lt;p&gt;Bol şans diliyorum :)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/erasmus-staji-ingiltere/potion_room_hp.JPG&quot; alt=&quot;HP Potions Room&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/erasmus-staji-ingiltere/trafalgar.JPG" /></entry><entry><title type="html">How to Create Your Own Blog with Github Pages and Jekyll</title><link href="http://localhost:4000/2019/02/01/github-pages-tutorial.html" rel="alternate" type="text/html" title="How to Create Your Own Blog with Github Pages and Jekyll" /><published>2019-02-01T11:49:13+03:00</published><updated>2019-02-01T11:49:13+03:00</updated><id>http://localhost:4000/2019/02/01/github-pages-tutorial</id><content type="html" xml:base="http://localhost:4000/2019/02/01/github-pages-tutorial.html">&lt;p&gt;&lt;img src=&quot;/images/github-pages-tutorial/github-pages-cover.jpeg&quot; alt=&quot;Github Pages Cover&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In this tutorial, I will try to explain all the necessary steps to create your 
-own blog using github pages and Jekyll. I will assume that you have already 
-known git and how to use it. If you don’t, you do not need to worry at all.
-There are many tutorials to learn github like &lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot;&gt;this one&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;1-setting-up-the-blog&quot;&gt;1-)SETTING UP THE BLOG&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;First Step:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The first thing you need is to create a github repository for your blog and
-match it with your local files. In order to do this, follow &lt;a href=&quot;https://pages.github.com/&quot;&gt;github pages
-tutorial&lt;/a&gt;. It explains how to setup your own website.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Second Step:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;So far we managed to create our own website on github, but whatabout Jekyll?
-What is it? Jekyll is some kind of a system that allows you to create nice HTML
-webpages without any need to write ugly HTML codes. Instead, it converts your 
-writings which are in markdown format (don’t worry it is super easy) to HTML
-webpage format. Sounds nice, right?&lt;/p&gt;
-
-&lt;p&gt;Until here you should be able to see your website https://username.github.io/
-Now it is time to install jekyll.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;First install ruby.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ubuntu 16.04 or 18.04:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo apt-get install ruby-dev
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Ubuntu 14.04:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo apt-get install rubygems-integration
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Ubuntu 12&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo apt-get install rubygems
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Install jekyll using rubygem&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo gem install jekyll
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;Go your website directory&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd username.github.io
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;It needs to be empty so delete everything&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo rm -rf * 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;Now create new jekyll&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ jekyll new .
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;If you have any problem about bundler in this step install bundler as well&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo gem install bundler
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;Run ls to check.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ls
-config.yaml _posts about.md ...
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;Thanks to jekyll we can view our website locally without committing to 
-github. This allows to easily check changes we have made before commits.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ jekyll serve
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;This command will publish your website locally. Look for the line&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Server address: http://127.0.0.1:4000/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;You can see what your website will look like by visiting this local adress in 
-your web browser.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Third Step&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you are happy with the look of your website, you need to publish all the 
-changes to github to make it available at &lt;a href=&quot;https://username.github.io/&quot;&gt;https://username.github.io/&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git add *
-$ git commit -m &quot;Website is online&quot;
-$ git push origin master
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Now you and everybody else can see your website at https://username.github.io&lt;/p&gt;
-
-&lt;p&gt;Congratulations!!&lt;/p&gt;
-
-&lt;h2 id=&quot;2-customize-your-blog&quot;&gt;2-)CUSTOMIZE YOUR BLOG&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Add Comment Section Into Your Blog&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In order to allow readers to comment on your posts, you can use very common
-service named &lt;a href=&quot;https://disqus.com/home&quot;&gt;Disqus&lt;/a&gt;. Sign up and do not forget 
-your Disqus username (your website short-name). For me, it is https-samialperen-
-github-io as it can be seen in below.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/github-pages-tutorial/disqus_short_name.png&quot; alt=&quot;disqus_short_name&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Go to your website git repository directory and open _config.yaml&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd username.github.io
-$ gedit _config.yaml
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;When you use jekyll new to create your website, it uses jekyll minima theme 
-by default and it is quite easy to add comment section to this theme. If you are
-using different theme, then the procedure might be different.&lt;/p&gt;
-
-&lt;p&gt;At the end of _config.yaml file add this:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;disqus:
-    shortname: your_disqus_website_shortname
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Change your_disqus_website_shortname to yours.&lt;/p&gt;
-
-&lt;p&gt;Lastly, do not forget to add your website url in _config.yaml file.&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;url: &quot;https://username.github.io&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Here is an example _config.yaml:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;title: Your awesome title
-email: your-email@example.com
-description: &amp;gt;- # this means to ignore newlines until &quot;baseurl:&quot;
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: &quot;&quot; # the subpath of your site, e.g. /blog
-url: &quot;https://samialperen.github.io&quot;
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-markdown: kramdown
-theme: minima
-#plugins:
-#  - jekyll-feed
-disqus:
-    shortname: https-samialperen-github-io
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Commit and push your changes into github and you can see comment section at the
-end of your posts like below:
-&lt;img src=&quot;/images/github-pages-tutorial/comment_section.png&quot; alt=&quot;comment_section&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Write New Blog Posts&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Now you will understand power of markdowns and jekyll better. To write new blog 
-posts create a markdown file under username.github.io/_posts directory.&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd username.github.io/_posts
-$ touch 2019-02-01-github-pages-tutorial.markdown
-$ gedit 2019-02-01-github-pages-tutorial.markdown
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Write your blog post as you wish regarding markdown syntax. The only thing
-you need to be careful is markdown file name. It should obey the following
-format:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;YYYY-MM-DD-post-name.markdown
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Moreover, at the beginning of the markdown file you need to write a few lines&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
-layout: post
-title:  &quot;Post Title&quot;
-date:   Post-Date    #should be same with filename
----
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Here is an example markdown file of jekyll:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
-layout: post
-title:  &quot;Welcome to Jekyll!&quot;
-date:   2019-01-31 16:20:13 +0300
-categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-
-&amp;lt;figure class=&quot;highlight&quot;&amp;gt;&amp;lt;pre&amp;gt;&amp;lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&amp;gt;&amp;lt;span class=&quot;k&quot;&amp;gt;def&amp;lt;/span&amp;gt; &amp;lt;span class=&quot;nf&quot;&amp;gt;print_hi&amp;lt;/span&amp;gt;&amp;lt;span class=&quot;p&quot;&amp;gt;(&amp;lt;/span&amp;gt;&amp;lt;span class=&quot;nb&quot;&amp;gt;name&amp;lt;/span&amp;gt;&amp;lt;span class=&quot;p&quot;&amp;gt;)&amp;lt;/span&amp;gt;
-  &amp;lt;span class=&quot;nb&quot;&amp;gt;puts&amp;lt;/span&amp;gt; &amp;lt;span class=&quot;s2&quot;&amp;gt;&quot;Hi, &amp;lt;/span&amp;gt;&amp;lt;span class=&quot;si&quot;&amp;gt;#{&amp;lt;/span&amp;gt;&amp;lt;span class=&quot;nb&quot;&amp;gt;name&amp;lt;/span&amp;gt;&amp;lt;span class=&quot;si&quot;&amp;gt;}&amp;lt;/span&amp;gt;&amp;lt;span class=&quot;s2&quot;&amp;gt;&quot;&amp;lt;/span&amp;gt;
-&amp;lt;span class=&quot;k&quot;&amp;gt;end&amp;lt;/span&amp;gt;
-&amp;lt;span class=&quot;n&quot;&amp;gt;print_hi&amp;lt;/span&amp;gt;&amp;lt;span class=&quot;p&quot;&amp;gt;(&amp;lt;/span&amp;gt;&amp;lt;span class=&quot;s1&quot;&amp;gt;'Tom'&amp;lt;/span&amp;gt;&amp;lt;span class=&quot;p&quot;&amp;gt;)&amp;lt;/span&amp;gt;
-&amp;lt;span class=&quot;c1&quot;&amp;gt;#=&amp;amp;gt; prints 'Hi, Tom' to STDOUT.&amp;lt;/span&amp;gt;&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&amp;lt;/figure&amp;gt;
-
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;If you have difficulties with markdown file syntax, you can follow 
-&lt;a href=&quot;https://www.markdowntutorial.com/&quot;&gt;markdown_tutorials&lt;/a&gt;. It is super easy to 
-learn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Add Google Analytics to Your Blog&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you want to analyze your visitors and get more information about page views,
-you can add Google Analytics to your blog. Please see step 7 of &lt;a href=&quot;https://briancaffey.github.io/2016/03/17/jekyll-tutorial.html&quot;&gt;this tutorial&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;That’s all for this tutorial. I hope it helps for anybody who wants to create
-his/her own blog without having too much trouble. The best thing about github
-pages is that it is totally free. :)&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/github-pages-tutorial/github-pages-cover.jpeg" /></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/erasmus-staji-ingiltere/potion_room_hp.JPG&quot; alt=&quot;HP Potions Room&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/erasmus-staji-ingiltere/trafalgar.JPG" /></entry></feed>
