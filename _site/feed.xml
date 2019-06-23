@@ -1,4 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-14T12:03:05+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">TransferWise: Send Money Abroad at Lowest Possible Cost</title><link href="http://localhost:4000/2019/06/14/transferwise.html" rel="alternate" type="text/html" title="TransferWise: Send Money Abroad at Lowest Possible Cost" /><published>2019-06-14T00:00:00+03:00</published><updated>2019-06-14T00:00:00+03:00</updated><id>http://localhost:4000/2019/06/14/transferwise</id><content type="html" xml:base="http://localhost:4000/2019/06/14/transferwise.html">&lt;p&gt;&lt;img src=&quot;/images/transferwise/tw.webp&quot; alt=&quot;TransferWise&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-23T12:12:59+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">My Observations about Being a Good/Bad Lecturer</title><link href="http://localhost:4000/2019/06/22/lecturer.html" rel="alternate" type="text/html" title="My Observations about Being a Good/Bad Lecturer" /><published>2019-06-22T00:00:00+03:00</published><updated>2019-06-22T00:00:00+03:00</updated><id>http://localhost:4000/2019/06/22/lecturer</id><content type="html" xml:base="http://localhost:4000/2019/06/22/lecturer.html">&lt;p&gt;&lt;img src=&quot;/images/lecturer/college-lecture.jpg&quot; alt=&quot;Lecturer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In this post, I would like to share my observations about lecturers I encountered throughout my undergraduate life in Electrical and Electronics Engineering. Although, I really enjoy being an engineer and I chose my field on purpose, there were only few lecturers whose teaching style is really good. I am especially thankful to &lt;strong&gt;Prof. Umut Orguner&lt;/strong&gt; and his perfect teaching style. I hope I can be as good as him.&lt;/p&gt;
+
+&lt;p&gt;In my opinion, here are some effective and useful methods my professors use:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;At the beginning of the lectures (like 5-10 minutes), reminding what we did in the last lecture and then smoothly switching to that day’s lecture. In this way, even if I couldn’t revise previous lecture, I can still understand that day’s lecture clearly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Asking students whether they have any questions regarding the content by pausing intentionally between different parts of the lecture.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Of course, having a readable handwriting :)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Explaining the lecture in a simple way and without assuming students already know it. For example, while studying state space representation, reminding how to take 3x3 matrices inverse instead of saying “You have already learnt this!”.
+If the part that students need to remember is too long, providing enough extra study material like handsheet for students to remember.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Providing an overall picture of the course content and connecting different subjects of the lecture smoothly. It is important to know name of the concept/method/problem you are studying.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If possible, giving a real life example regarding the content. Even if real life problem is much more complicated, knowing physical correspondence helps better understanding and motivates students.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Being honest to students. Instead of pretending to know everything, admitting you don’t know that particular thing and willing to learn more for the next lecture (if it is related).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sharing some funny and informative videos regarding lecture (if possible) at the last part of the lecture. We all know that last minutes of the lecture might be boring. In this way, I believe both students and lecturer be happy. During the time that I was taking an &lt;strong&gt;Electromechanical Energy Conversion&lt;/strong&gt; course, our lecturer shows us videos related to course content like magnets, dc motors, electric motor etc. at the of the lecture. I remember how much I enjoy during that time. Our lecturer name is &lt;strong&gt;Mr. Ozan Keysan&lt;/strong&gt;. He is also a great lecturer. &lt;a href=&quot;http://keysan.me/&quot;&gt;Here&lt;/a&gt; is his blog address.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Providing problem sets with solutions to help students apprehend the subject.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sharing previous years exams to give an idea about structure of the exam.
+I believe even one example is enough.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Giving challenging homeworks, but asking easy questions in the exam. In my opinion, this is really a good strategy since you learn the subject quite well thanks to homeworks, and thanks to relatively easy exams, you don’t concern about grades and only focus to learn. I am grateful to &lt;strong&gt;Mr. Mert Ankarali&lt;/strong&gt; for this. You can visit his blog using &lt;a href=&quot;https://blog.metu.edu.tr/mertan/&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I personally prefer traditional classroom style where lecturer uses blackboard and students take notes. However, sometimes it is necessary to use some visualization to not waste too much time for drawing to board. For this style, providing lecture notes with some intentional blanks for students to fill works very well. For example, in &lt;strong&gt;Signal and Systems&lt;/strong&gt; course, we had printed lecture notes whose 70% was already filled, but some parts were empty like answers of the examples and some warnings. Lecturer also used the same lecture notes and as students we were only writing necessary parts. In this way, we can follow the lecture easily, and we have wonderful and complete lecture notes. For me, this method is quite beneficial.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Preparing lecture content weekly as well to have comprehensive knowledge of subjects and adjusting lecture time perfectly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sharing anonymous questionnaires about course to get feedback.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Unfortunately, good lecturers I encountered can be counted on the fingers of one hand. Most of the time, I face with really bad lecturers. Either they really know the subject, but suck at teaching or they don’t care teaching at all. Of course, we can still learn from them what we shouldn’t do.&lt;/p&gt;
+
+&lt;p&gt;Here are some common characteristics of bad lecturers I have seen:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using the same voice tone throughout the lecture, which makes students sleepy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Following &lt;strong&gt;Powerpoint Slides&lt;/strong&gt; blindly i.e. only reading what is written in slides.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wasting too much time on unimportant things in the lecture. For example, stucking at unnecessary and unrelated student questions and spending too much time to answer them.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Deeply explaining concepts that are already covered by other lectures. I can give an example to describe this point. In one course spending two weeks to explain linearization procedure (which is just a step for that course) while in the same semester there is another course that we have already learnt linearization procedure deeply and very well. Instead, lecturer should shortly remind it in 10-20 minutes. It is important to analyze the curriculum and be aware of what and how much students know.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Related to previous point, not following other courses of students in same semester and pretending that your course is the only course that students are dealing with. This causes to having extremely heavy workload in specific weeks and reduces motivation of students. Believe me, as students we always appreciate professors who are aware of our situation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pretending to know everything related to course and not giving students a chance to ask questions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Making fun of students’ questions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Preparing exams that are almost not related at all what is studied in classroom.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This point happens especially for laboratory courses. Teaching simple stuff in lab hours and requiring extremely difficult lab projects from students to complete. I am aware of the fact that university is a place for students to make research and learn by themselves, but still keeping everything to students doesn’t make sense at all. I remember that in our digital electronics laboratory, we studied simple hello world or if-else structure in verilog language, but image recognition algorithm was given as a term project which should be implemented in FPGA using Verilog. That was the first time we programmed FPGA and thanks to this project I literally hated electronics courses.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of course, all these points are relative. Maybe other students disagree with me, but anyway, I wanted to share my observations to not forget what I went through in my undergraduate life. Hopefully, I will not do the things I don’t like when I was student.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/lecturer/college-lecture.jpg" /></entry><entry><title type="html">TransferWise: Send Money Abroad at Lowest Possible Cost</title><link href="http://localhost:4000/2019/06/14/transferwise.html" rel="alternate" type="text/html" title="TransferWise: Send Money Abroad at Lowest Possible Cost" /><published>2019-06-14T00:00:00+03:00</published><updated>2019-06-14T00:00:00+03:00</updated><id>http://localhost:4000/2019/06/14/transferwise</id><content type="html" xml:base="http://localhost:4000/2019/06/14/transferwise.html">&lt;p&gt;&lt;img src=&quot;/images/transferwise/tw.webp&quot; alt=&quot;TransferWise&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;TransferWise&lt;/strong&gt; is a UK-based money transfer service which allows its users to transfer money internationally at lowest possible transfer fee. It achieves this by using two local transfers instead of one international transaction.&lt;/p&gt;
 
@@ -775,63 +862,4 @@ to make more practice. Convert the language of website to English and go for &lt
 
 &lt;p&gt;If you can not get your target score, do not be sad. Remember that TOEFL does not measure your proficieny in English. It measures how much you know the exam format. This is sad, but unfortunately true! Therefore, do not lose your hope. Analyze your mistakes and start to practice from the section which you did not perform well.&lt;/p&gt;
 
-&lt;p&gt;I hope you will be succesfull!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/toefl/toefl.png" /></entry><entry><title type="html">How to Find a Flat in Europe (Specifically in Berlin)?</title><link href="http://localhost:4000/2019/03/02/accommodation.html" rel="alternate" type="text/html" title="How to Find a Flat in Europe (Specifically in Berlin)?" /><published>2019-03-02T00:00:00+03:00</published><updated>2019-03-02T00:00:00+03:00</updated><id>http://localhost:4000/2019/03/02/accommodation</id><content type="html" xml:base="http://localhost:4000/2019/03/02/accommodation.html">&lt;p&gt;&lt;img src=&quot;/images/accommodation_berlin/berlinfromreichstag.JPG&quot; alt=&quot;Berlin Cover&quot; /&gt;&lt;/p&gt;
-&lt;center&gt; Picture 1: View from the top of Reichstag Building &lt;/center&gt;
-
-&lt;p&gt;In this post, I am going to share my knowledge about how to find a flat in Europe. I will explain everything using Berlin example because I had quite difficult times to find an accommodation for short (3 month duration) stay in Berlin. However, you can use same tricks and methods to find an accommodation in any place. Only websites and names will be changed. In here, I will try to give a general guideline to start. Of course, everything will be depended on your effort and luck.&lt;/p&gt;
-
-&lt;p&gt;You may be wondering why finding a place to rent could be a problem if you are not used to it. If this is the case, you will be surprised. The main reason behind this is that more and more people moves to favorite cities in Europe, but available property number stays constant. For example, Berlin is one of the problematic cities regarding this issue because although it is a capital of Germany, it is still way cheaper than capitals of other European countries. &lt;strong&gt;Berliners&lt;/strong&gt; (people who live in Berlin) search a place for rent even if they do not need to. This becomes a habit for Berliners. You should be the same! This is the first rule.  :)&lt;/p&gt;
-
-&lt;p&gt;I guess you understand importance of the problem, but how to solve it? My first suggestion is that you should start to look for a place as soon as possible. Please don’t wait until the last minute! The best option is arranging a place before arrival. Otherwise, it is highly possible that you will find a place either too far away from the center or too expensive.&lt;/p&gt;
-
-&lt;p&gt;There are some alternatives to rent a flat:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;1-)&lt;/strong&gt; &lt;a href=&quot;https://www.airbnb.com/&quot;&gt;Airbnb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;2-)&lt;/strong&gt; Totally Empty House&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;3-)&lt;/strong&gt; Shared Room (Wohngemeinschaft (WG) in German)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;4-)&lt;/strong&gt; Furnished Apartments&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Number &lt;strong&gt;1&lt;/strong&gt; generally costs too much for duration of stays longer than 30 day, so it is not suggested. However, in the worst case you can stay in Airbnb in your first weeks to find a place. Keep this in mind!&lt;/p&gt;
-
-&lt;p&gt;I do not know too much about Number &lt;strong&gt;2&lt;/strong&gt;, but you can try to visit &lt;a href=&quot;https://www.immobilienscout24.de/wohnen/mietwohnungen.html&quot;&gt;Immobilienscout24&lt;/a&gt;. Nonetheless, it is obvious that renting a totally empty house is not suggested since it is too tiring for the first time.&lt;/p&gt;
-
-&lt;p&gt;Number &lt;strong&gt;3&lt;/strong&gt; is too common in Berlin. In shared rooms you have a personal room in a normal house, but other parts of the house is common like kitchen and bathroom. Different people are looking for different tenants and housemates. Hence, please be honest and say your expectations from the flat. For instance, if you want to stay in a calm and silent place, you should not stay with housemates who makes home parties. I think WGs are the best option for students and newcomers to city. It is cheap and you will have a chance to meet and live with different people and get to know the city.&lt;/p&gt;
-
-&lt;p&gt;In order to find a WG, you can either use well-known and widely used websites or facebook groups. However, please be careful since there are a lot of &lt;strong&gt;scam&lt;/strong&gt; posts and &lt;strong&gt;cheaters&lt;/strong&gt; to foul people.&lt;/p&gt;
-
-&lt;p&gt;Common websites to find a WG:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wg-gesucht.de/&quot;&gt;wg-gesucht&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.studenten-wg.de&quot;&gt;studenten-wg&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wg-suche.de/&quot;&gt;wg-suche&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.wgfinden.de&quot;&gt;wg-finden&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In order to find facebook groups search for “WG in Berlin”, “Shared Room in Berlin”, “Erasmus Berlin 2019” etc. keywords in Facebook. In these groups, you can check available rooms. You can also create a post to state your need of WG, but again be careful about &lt;strong&gt;scam&lt;/strong&gt;! Here are some facebook groups that I know:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/79516702871/?fref=ts&quot;&gt;Nett-Werk Berlin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/WG.Zimmer.frei.in.Berlin?fref=ts&quot;&gt;Shared Rooms in Berlin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/wg.wohnung.berlin/&quot;&gt;WG-Zimmer &amp;amp; Wohnungen Berlin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/wg.zimmer.wohnung.berlin.room.flat.apartment/?ref=br_rs&quot;&gt;WG Zimmer Wohnung&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can also join the facebook group &lt;a href=&quot;https://www.facebook.com/groups/1744464679140962/?ref=br_rs&quot;&gt;New Wave in Berlin&lt;/a&gt;. This group was founded by young Turkish people to create a platform for solidarity. Even if you are not Turkish, feel free to send a request to join. You can ask any question in this group regarding Berlin or Germany.&lt;/p&gt;
-
-&lt;p&gt;Number &lt;strong&gt;4&lt;/strong&gt; is preferred mostly by people who either do not want to live with other people or have a family. Most of the furnished apartments are studio or 1+1. If you are looking for an house with 2 bedrooms, then you will need to spend more time. As far as I know, landlords may be too meticulous about their tenant selection, so try to be specific and explain every criterion of yourself and do not get offended by rejections. Here are some websites that I have heard to find furnished apartments:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wunderflats.com/&quot;&gt;wunderflats&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.coming-home.org/suche_2.php?Ort=Berlin&quot;&gt;coming-home&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.spotahome.com/berlin&quot;&gt;spotahome&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.white-apartments.com/&quot;&gt;white-apartments&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The procedure will be more or less same with other cities. I personally applied same procedure to find an accommodation in London and it works! Of course you need to find corresponding websites or groups. :)&lt;/p&gt;
-
-&lt;p&gt;I wish good luck for your seeking. You can see pictures of Bulowstrasse and Dennewitzplatz, where my shared room was located. I found this place two weeks before of my arrival to Berlin, so whatever happens, do not give up hope!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/accommodation_berlin/bulowstrasse.jpg&quot; alt=&quot;Bulowstrasse&quot; /&gt;&lt;/p&gt;
-&lt;center&gt; Picture 2: Bulowstrasse - Schoneberg &lt;/center&gt;
-&lt;p&gt;&lt;img src=&quot;/images/accommodation_berlin/dennewitzplatz.jpg&quot; alt=&quot;Dennewitzplatz&quot; /&gt;&lt;/p&gt;
-&lt;center&gt; Picture 3: Dennewitzplatz and American Church &lt;/center&gt;</content><author><name></name></author><summary type="html">Picture 1: View from the top of Reichstag Building</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/accommodation_berlin/berlinfromreichstag.JPG" /></entry></feed>
+&lt;p&gt;I hope you will be succesfull!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/toefl/toefl.png" /></entry></feed>
