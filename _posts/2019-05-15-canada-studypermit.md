@@ -100,7 +100,7 @@ Scrool down to **Messages about your application** part and you will see the mes
 
 If you haven't been in Canada before, you may need to give **Biometrics**. Thanks to survey you have filled out, if you need to give biometrics, you are going to pay necessary **Biometrics Fee** and after a few days (for ex, 1 day for my application) you will receive a message **Biometrics Collection Letter** which requests biometrics of yours. You need to visit **VFS Global** to give biometrics. All detailed information is covered in received **Biometrics Collection Letter**. 
 
-After giving Biometrics, there is nothing to do left. All you need to is to wait. I got my study permit at my first attempt and it took exactly **1 Month**. I paid **150 CaD Study Permit Fee** and **85 CaD Biometrics Fee**.
+After giving Biometrics, there is nothing to do left. All you need to do is to wait. I got my study permit at my first attempt and it took exactly **1 Month**. I paid **150 CaD Study Permit Fee** and **85 CaD Biometrics Fee**.
 
 That's all for this post. I wish you can get your visa at the first time you applied. If you have any questions, don't hesitate to use comment section below. Study permit application might seem a bit complicated at first, but trust me it is not. Start to prepare documents early and don't spend money on Visa Consultancy.
 
