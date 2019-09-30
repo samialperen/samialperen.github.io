@@ -9,10 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://samialperen.github.io"
 
 # Social media 
-instagram_username: alpernakgun
 github_username:  samialperen
 linkedin_username: sami-alperen-akgun
-facebook_username: samialperen
 
 markdown: kramdown
 theme: minima
