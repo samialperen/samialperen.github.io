@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-29T23:29:12-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine</title><link href="http://localhost:4000/2019/06/25/martin-eden.html" rel="alternate" type="text/html" title="Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine" /><published>2019-06-25T00:00:00-04:00</published><updated>2019-06-25T00:00:00-04:00</updated><id>http://localhost:4000/2019/06/25/martin-eden</id><content type="html" xml:base="http://localhost:4000/2019/06/25/martin-eden.html">&lt;p&gt;&lt;img src=&quot;/images/martin-eden/martin.jpg&quot; alt=&quot;Lecturer&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-13T00:39:31-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">Visual Studio Code: Free Source-Code Editor for All Languages</title><link href="http://localhost:4000/2019/10/13/visual-studio-code.html" rel="alternate" type="text/html" title="Visual Studio Code: Free Source-Code Editor for All Languages" /><published>2019-10-13T00:00:00-04:00</published><updated>2019-10-13T00:00:00-04:00</updated><id>http://localhost:4000/2019/10/13/visual-studio-code</id><content type="html" xml:base="http://localhost:4000/2019/10/13/visual-studio-code.html">&lt;p&gt;&lt;img src=&quot;/images/visual-studio-code/1.jpg&quot; alt=&quot;Visual Studio Code&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the end, I found a perfect source-code editor for myself thanks to my friend Austin (yeey!). Previously, I was using &lt;strong&gt;PyCharm&lt;/strong&gt; for Python and &lt;strong&gt;Qt Creator&lt;/strong&gt; for C++. However, switching between them was quite tiring. After lots of different editor trials, &lt;strong&gt;Visual Studio Code&lt;/strong&gt; saved me from all the trouble. It is a free source-code editor developed by Microsoft. It can be used in all Linux, macOS or Windows computers. It contains editor, debugging tool,  embedded git control and Github (my favorite property), syntax highlighting, intelligent code completion, snippets and much more than you expect from a code-editor.&lt;/p&gt;
+
+&lt;p&gt;You can download it using &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;this&lt;/a&gt; link. After installation, I strongly recommend to follow &lt;a href=&quot;https://code.visualstudio.com/docs/getstarted/tips-and-tricks&quot;&gt;tips and tricks page&lt;/a&gt;. This page will give you quick review of editor and introduce all the cool properties. You have to install different &lt;strong&gt;code extensions&lt;/strong&gt; to start coding such as Python one. To find out how to do it, see &lt;strong&gt;Extensions&lt;/strong&gt; section of tips and tricks page. Except from tips and tricks page, each language extension has its own getting started tutorial like &lt;a href=&quot;https://code.visualstudio.com/docs/python/python-tutorial&quot;&gt;Getting Started with Python in VS Code&lt;/a&gt;. Before starting coding in a specific programming language, visit corresponding getting started page.&lt;/p&gt;
+
+&lt;p&gt;Now, thanks to &lt;strong&gt;VS Code&lt;/strong&gt; , you can code and test (debug) your project in one window. It also allows you to upload your code to Github in the same window. Lastly, you can google different users’ preferences and favorite keyboard shortcuts like &lt;a href=&quot;https://vslive.com/Blogs/News-and-Tips/2015/04/5-VS-Keyboard-Shortcuts.aspx&quot;&gt;this&lt;/a&gt; to get best experience from the editor.&lt;/p&gt;
+
+&lt;p&gt;Happy coding!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/visual-studio-code/1.jpg" /></entry><entry><title type="html">The Robot Report: Website to Explore News related to Robotics Applications</title><link href="http://localhost:4000/2019/09/30/robotreport.html" rel="alternate" type="text/html" title="The Robot Report: Website to Explore News related to Robotics Applications" /><published>2019-09-30T00:00:00-04:00</published><updated>2019-09-30T00:00:00-04:00</updated><id>http://localhost:4000/2019/09/30/robotreport</id><content type="html" xml:base="http://localhost:4000/2019/09/30/robotreport.html">&lt;p&gt;&lt;img src=&quot;/images/robot-report/1.jpg&quot; alt=&quot;The Robot Report&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Robot Report&lt;/strong&gt; is an amazing robotics news website. If you are interested
+in robotics, you should definitely check it out. It is different than other 
+sources that I mentioned in my previous &lt;a href=&quot;https://samialperen.github.io/2019/03/19/robotics-resources.html&quot;&gt;post&lt;/a&gt;. This website focuses on newest robotics applications from business perspective. It introduces companies and their work related to robotics. Even if you are not interested in business side, I believe it is still useful to follow it in order to have a better understanding of your research and broaden your horizon. Checking coolest robots and autonomous systems in the morning while enjoying your coffee is a good start for the day :). You can check the website using &lt;a href=&quot;https://www.therobotreport.com/&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/robot-report/1.jpg" /></entry><entry><title type="html">Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine</title><link href="http://localhost:4000/2019/06/25/martin-eden.html" rel="alternate" type="text/html" title="Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine" /><published>2019-06-25T00:00:00-04:00</published><updated>2019-06-25T00:00:00-04:00</updated><id>http://localhost:4000/2019/06/25/martin-eden</id><content type="html" xml:base="http://localhost:4000/2019/06/25/martin-eden.html">&lt;p&gt;&lt;img src=&quot;/images/martin-eden/martin.jpg&quot; alt=&quot;Lecturer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Jack London. Uzun zamandır beni en çok etkileyen kitaplardan biri olan Martin Eden’in yazarı büyük üstad. Yaşadığı hayat hakkında bilgi edindikten sonra ayrı bir saygı duydum kendisine. Size de tanıtmak amaçlı çok kısa ondan bahsetmek istiyorum.&lt;/p&gt;
 
@@ -811,87 +823,4 @@ try to implement some cool stuff. If you want to work on hardware &lt;a href=&qu
 
 &lt;p&gt;&lt;a href=&quot;https://samialperen.github.io/2019/03/08/toefl-preparation.html&quot;&gt;How to study for the TOEFL? Where to Start?&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;That’s all for this post. If you have any questions, please don’t hesitate to use comment section. I wish you will be accepted to your dream school!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/graduate-application/grad-school.jpg" /></entry><entry><title type="html">How to Study for the GRE?</title><link href="http://localhost:4000/2019/03/26/gre-preparation.html" rel="alternate" type="text/html" title="How to Study for the GRE?" /><published>2019-03-26T00:00:00-04:00</published><updated>2019-03-26T00:00:00-04:00</updated><id>http://localhost:4000/2019/03/26/gre-preparation</id><content type="html" xml:base="http://localhost:4000/2019/03/26/gre-preparation.html">&lt;p&gt;&lt;img src=&quot;/images/gre/gre-logo.jpg&quot; alt=&quot;GRE&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you want to apply for a graduate school, you will probably need to take the GRE test. Generally, most of the colleges in USA requires GRE while some colleges in Canada or Europe also requires GRE score for application. You should check each school of your interest to see whether they need a GRE score or not.&lt;/p&gt;
-
-&lt;p&gt;Let’s say (unluckily) you need a GRE score to apply your dream school. You started to search for online to learn what the GRE is and how to study. However, you found a lot of information, and you got lost. You can be relaxed now because this post is for you.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-is-gre&quot;&gt;What is GRE?&lt;/h3&gt;
-&lt;p&gt;GRE is composed of three different parts:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Analytical Writing: 2 Questions per Section – 1 Section Total&lt;/li&gt;
-  &lt;li&gt;Verbal Reasoning (Verbal): 20 Questions per Section – 2 Section Total&lt;/li&gt;
-  &lt;li&gt;Quantitative Reasoning (Quant): 20 Questions per Section –2 Section Total&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In addition, you will have an experimental unscored section which will be either Verbal or Quant.&lt;/p&gt;
-
-&lt;p&gt;Score ranges of these three different parts are (Minimum to Maximum):&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Analytical Writing: 0-6&lt;/li&gt;
-  &lt;li&gt;Verbal: 130-170&lt;/li&gt;
-  &lt;li&gt;Quant: 130-170&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;GRE scores are a bit strange especially for Verbal or Quant parts. If you did not give a correct answer to any questions in these parts, you will 
-get 130 score, and if you answered all questions correctly, you will get 170 max score in that part. You might think that in this case each question has 1 point since Verbal and Quant sections has 40 questions total. However, this is the confusing part. GRE scores are not linear. If you had only one wrong answers, this does not mean that you will get 169 score. I know this is confusing, but unfortunately this is the situation. Don’t mind about scores, just try to get maximum score possible. In any case, if you are curious about GRE scores, visit &lt;a href=&quot;https://www.ets.org/gre/revised_general/scores/how/&quot;&gt;this website&lt;/a&gt;. You can also follow &lt;a href=&quot;https://www.kaptest.com/gre/what-is-the-gre&quot;&gt;this link&lt;/a&gt; to learn more about GRE sections individually.&lt;/p&gt;
-
-&lt;h3 id=&quot;how-to-study&quot;&gt;How to Study?&lt;/h3&gt;
-&lt;p&gt;After registering for the GRE using &lt;a href=&quot;https://www.ets.org/gre&quot;&gt;ETS Website&lt;/a&gt;, it will give you two different example question sets to study for the GRE. I recommend you to solve these tests at the last stage like one day before the real exam.&lt;/p&gt;
-
-&lt;p&gt;First of all, check minimum requirements of each school that you are applying and specify your target score for each part of the GRE. For example, if you are an engineering student, most probably you need to score perfect in Quant section, moderate in Analytical Writing section and relatively poor in Verbal part. Of course, scoring perfect in all sections is the best, but not achievable in short term. Furthermore, I am not sure that you even need to score perfect in Verbal for engineering applications since it is quite difficult and even natives have hard times during the test. As I mentioned before, checking minimum requirements of applied schools could be nice guideline for you to determine target score for each part of the GRE.&lt;/p&gt;
-
-&lt;p&gt;After determining your target score, you should start to learn about question types in each part of the exam. Like the TOEFL, understanding question types and specific answers for them is essential to succeed. For this purpose, I would recommend you to use &lt;strong&gt;The Princeton Review: Cracking the GRE PREMIUM&lt;/strong&gt; book. It is published each year, so please try to use the newest one. This book will introduce you all question types in different sections and give tips how to approach them. You can either follow all the sections or just the ones that you feel week. Personally, I believe if you are an engineering student, you won’t even need to look for Quant section because it is super easy for a person who has enough engineering background in math.&lt;/p&gt;
-
-&lt;p&gt;After studying all the question types and specific answer to them in different sections, now you are actually ready to practice. For practice, I can recommend you to use &lt;a href=&quot;https://gre.kmf.com/&quot;&gt;GRE kmf website&lt;/a&gt;. This website perfectly mimics the original GRE system and all the exams in &lt;strong&gt;Model Test&lt;/strong&gt; section are real exams which are used in the past. In my opinion, the difficulty of the original exam is almost same with the exams in &lt;strong&gt;kmf&lt;/strong&gt;. However, you may need a &lt;strong&gt;chinise VPN&lt;/strong&gt; to reach the website. To learn how to achieve this, please visit my &lt;a href=&quot;https://samialperen.github.io/2019/03/08/toefl-preparation.html&quot;&gt;TOEFL preperation post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Lastly, I can recommend some apps to install on your mobile phone for GRE preparation.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Magoosh GRE Flashcards: This app is perfect for vocabulary.&lt;/li&gt;
-  &lt;li&gt;Galvanize GRE Test Prep Math &amp;amp; Verbal: This application provides example questions for GRE. You can use this app to be familiar with all kinds of questions. It is especially very useful to use while you commute.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you are good at math, you can prepare for GRE within one or two week easily. If your math is not very good (which is totally fine), it may take up to 2-3 months to fully prepare for the exam depending on your level.&lt;/p&gt;
-
-&lt;p&gt;I wish this post will be useful, and you will be able to reach your target score!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/gre/gre-logo.jpg" /></entry><entry><title type="html">Best Sources to Follow Robotics Research and Stay Tuned</title><link href="http://localhost:4000/2019/03/19/robotics-resources.html" rel="alternate" type="text/html" title="Best Sources to Follow Robotics Research and Stay Tuned" /><published>2019-03-19T00:00:00-04:00</published><updated>2019-03-19T00:00:00-04:00</updated><id>http://localhost:4000/2019/03/19/robotics-resources</id><content type="html" xml:base="http://localhost:4000/2019/03/19/robotics-resources.html">&lt;p&gt;&lt;img src=&quot;/images/robotics-sources/Robotics2.jpg&quot; alt=&quot;Robotics&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you are interested in robotics and want to learn recent research done in the field, I have some suggestions for you to follow.&lt;/p&gt;
-
-&lt;h3 id=&quot;robohub&quot;&gt;Robohub&lt;/h3&gt;
-&lt;p&gt;Robohub is an amazing website to follow robotics research. It provides daily news about robotics, but the best thing I like about Robohub is &lt;strong&gt;Robohub Podcasts&lt;/strong&gt;. While you are commuting to college/work, listening these podcasts informs you about recent work of professors, graduate students and companies in Robotics. You can visit Robohub website using &lt;a href=&quot;https://robohub.org&quot;&gt;this link&lt;/a&gt;. Robohub podcasts can be found in &lt;a href=&quot;https://robohub.org/podcast/&quot;&gt;here&lt;/a&gt; or you can follow &lt;a href=&quot;https://soundcloud.com/robohubpodcast&quot;&gt;Robohub Channel&lt;/a&gt; on Soundcloud. In this way, you also have a chance to listen these amazing podcasts on your mobile phone.&lt;/p&gt;
-
-&lt;h3 id=&quot;cmu-ri-seminars&quot;&gt;CMU RI Seminars&lt;/h3&gt;
-&lt;p&gt;Carnegie Mellon University Robotics Institute (CMU-RI) holds excellent seminars regarding all subfields of Robotics. In these seminars, very successfull researchers introduces their recent research in robotics to CMU students. Fortunately, CMU records these seminars and publishes them on their Youtube channel. Please don’t forget to visit &lt;a href=&quot;https://www.youtube.com/user/cmurobotics&quot;&gt;CMU RI Youtube Channel&lt;/a&gt;. It would be wisely to watch these videos instead of killing time in computer game videos :).&lt;/p&gt;
-
-&lt;h3 id=&quot;ieee-spectrum---robotics&quot;&gt;IEEE Spectrum - Robotics&lt;/h3&gt;
-&lt;p&gt;Of course, it is impossible to not mentioning about IEEE Spectrum when the subject is related to engineering. &lt;a href=&quot;https://spectrum.ieee.org/robotics&quot;&gt;IEEE Spectrum - Robotics&lt;/a&gt; provides the newest information about robotics.&lt;/p&gt;
-
-&lt;h3 id=&quot;singularity-hub---robotics&quot;&gt;Singularity Hub - Robotics&lt;/h3&gt;
-&lt;p&gt;Although it is not updated as frequently as IEEE Spectrum, &lt;a href=&quot;https://singularityhub.com/tag/robotics&quot;&gt;Singularity Hub - Robotics&lt;/a&gt; section can be a good source to discover fascinating work in robotics.&lt;/p&gt;
-
-&lt;p&gt;There are many other sources to follow. You can check them via &lt;a href=&quot;https://blog.feedspot.com/robot_blogs/&quot;&gt;this link&lt;/a&gt;. I just tried to give my favourite ones.&lt;/p&gt;
-
-&lt;h2 id=&quot;conferences--journals&quot;&gt;Conferences &amp;amp; Journals&lt;/h2&gt;
-&lt;p&gt;I also want to mention about some well-known robotic conferences &amp;amp; journals. Attending one of the conferences would be fantastic, but generally not quite possible. However, even if you don’t attend, you should check later for published papers. They generally don’t make published papers directly available to public in a short time, i.e. it takes some time to reach these papers online. However, you can use previously mentioned sources to follow conferences. These sources usually creates some special edition posts for conferences.&lt;/p&gt;
-
-&lt;p&gt;You can learn dates of all IEEE Conferences via &lt;a href=&quot;https://www.ieee.org/conferences&quot;&gt;this link&lt;/a&gt; at “Upcoming Conferences” section.&lt;/p&gt;
-
-&lt;p&gt;Here are some of the best Robotics Conferences &amp;amp; Journals that I follow:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Conferences&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra&quot;&gt;IEEE International Conference on Robotics And Automation (ICRA)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros&quot;&gt;International Conference on Intelligent Robots and Systems (IROS)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.roboticsconference.org/&quot;&gt;Robotics: Science and Systems (RSS)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Journals&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ijrr.org/&quot;&gt;The International Journal of Robotics Research (IJRR)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/servlet/opac?punumber=8860&quot;&gt;IEEE Transactions on Robotics (T-RO)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lastly, I would like to talk about &lt;strong&gt;ResearchGate&lt;/strong&gt; website. I can simply say that it is Facebook of scientists and engineers. My favorite thing about this website is when you add your research of interest to your profile, &lt;strong&gt;ResearchGate&lt;/strong&gt; suggests you possible papers regarding your research interest. You can use &lt;a href=&quot;https://www.researchgate.net/&quot;&gt;this link&lt;/a&gt; to visit the website. For this purpose, you can use &lt;strong&gt;Mendeley&lt;/strong&gt; as well. Please visit &lt;a href=&quot;https://www.mendeley.com/&quot;&gt;Mendeley Website&lt;/a&gt; for more information.&lt;/p&gt;
-
-&lt;p&gt;That’s all for this post. I hope you like it. If you know other sources, feel free to use comment section.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/robotics-sources/Robotics2.jpg" /></entry></feed>
+&lt;p&gt;That’s all for this post. If you have any questions, please don’t hesitate to use comment section. I wish you will be accepted to your dream school!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/graduate-application/grad-school.jpg" /></entry></feed>
