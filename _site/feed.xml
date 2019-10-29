@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-13T00:39:31-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">Visual Studio Code: Free Source-Code Editor for All Languages</title><link href="http://localhost:4000/2019/10/13/visual-studio-code.html" rel="alternate" type="text/html" title="Visual Studio Code: Free Source-Code Editor for All Languages" /><published>2019-10-13T00:00:00-04:00</published><updated>2019-10-13T00:00:00-04:00</updated><id>http://localhost:4000/2019/10/13/visual-studio-code</id><content type="html" xml:base="http://localhost:4000/2019/10/13/visual-studio-code.html">&lt;p&gt;&lt;img src=&quot;/images/visual-studio-code/1.jpg&quot; alt=&quot;Visual Studio Code&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
+<link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+<updated>2019-10-29T14:01:38-04:00</updated>
+<id>http://localhost:4000/</id>
+<subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle>
+<entry>
+<title>Real AdBlock Extension</title>
+<link href="http://localhost:4000/2019/10/29/adblock.html" rel="alternate" type="text/html" title="Real AdBlock Extension" />
+<published>2019-10-29T00:00:00-04:00</published>
+<updated>2019-10-29T00:00:00-04:00</updated>
+<id>http://localhost:4000/2019/10/29/adblock</id>
+<content type="html" xml:base="http://localhost:4000/2019/10/29/adblock.html">&lt;p&gt;&lt;img src=&quot;/images/adblock/1.png&quot; alt=&quot;AdBlock&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Most of the popular Adblock extensions like &lt;a href=&quot;https://getadblock.com&quot;&gt;AdBlock&lt;/a&gt; or &lt;a href=&quot;https://adblockplus.org/&quot;&gt;AdBlock Plus&lt;/a&gt; actually doesn’t provide full protection of ads. They started their way to promising this ideology, but after 2015 they became part of ridicilious &lt;strong&gt;Acceptable Ads Program&lt;/strong&gt;, which basically means that you will still see some ads even if you use these extensions. I am sure you have already experienced this before. The reason behind this issue is the above Adblock extensions either purchased by advertisement agencies or they are getting paid by them. Yeah, I know this is annoying, but no worries. I have good news for you. I found a perfect AdBlock extension (at least for now) that blocks every advertisement. Its name is &lt;strong&gt;UBlock Origin&lt;/strong&gt;. It is compatible with almost all web browsers. To get more info about it, you can visit &lt;a href=&quot;https://en.wikipedia.org/wiki/UBlock_Origin&quot;&gt;UBlock Origin Wiki page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you want to learn more about the subject, you can see this amazing &lt;a href=&quot;https://medium.com/@trybravery/please-stop-using-adblock-but-not-why-you-think-13280e76c8e7&quot;&gt;Medium post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I hope this will help!&lt;/p&gt;
+
+</content>
+<summary></summary>
+</entry>
+<entry>
+<title>Visual Studio Code: Free Source-Code Editor for All Languages</title>
+<link href="http://localhost:4000/2019/10/13/visual-studio-code.html" rel="alternate" type="text/html" title="Visual Studio Code: Free Source-Code Editor for All Languages" />
+<published>2019-10-13T00:00:00-04:00</published>
+<updated>2019-10-13T00:00:00-04:00</updated>
+<id>http://localhost:4000/2019/10/13/visual-studio-code</id>
+<content type="html" xml:base="http://localhost:4000/2019/10/13/visual-studio-code.html">&lt;p&gt;&lt;img src=&quot;/images/visual-studio-code/1.jpg&quot; alt=&quot;Visual Studio Code&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In the end, I found a perfect source-code editor for myself thanks to my friend Austin (yeey!). Previously, I was using &lt;strong&gt;PyCharm&lt;/strong&gt; for Python and &lt;strong&gt;Qt Creator&lt;/strong&gt; for C++. However, switching between them was quite tiring. After lots of different editor trials, &lt;strong&gt;Visual Studio Code&lt;/strong&gt; saved me from all the trouble. It is a free source-code editor developed by Microsoft. It can be used in all Linux, macOS or Windows computers. It contains editor, debugging tool,  embedded git control and Github (my favorite property), syntax highlighting, intelligent code completion, snippets and much more than you expect from a code-editor.&lt;/p&gt;
 
@@ -6,11 +37,31 @@
 
 &lt;p&gt;Now, thanks to &lt;strong&gt;VS Code&lt;/strong&gt; , you can code and test (debug) your project in one window. It also allows you to upload your code to Github in the same window. Lastly, you can google different users’ preferences and favorite keyboard shortcuts like &lt;a href=&quot;https://vslive.com/Blogs/News-and-Tips/2015/04/5-VS-Keyboard-Shortcuts.aspx&quot;&gt;this&lt;/a&gt; to get best experience from the editor.&lt;/p&gt;
 
-&lt;p&gt;Happy coding!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/visual-studio-code/1.jpg" /></entry><entry><title type="html">The Robot Report: Website to Explore News related to Robotics Applications</title><link href="http://localhost:4000/2019/09/30/robotreport.html" rel="alternate" type="text/html" title="The Robot Report: Website to Explore News related to Robotics Applications" /><published>2019-09-30T00:00:00-04:00</published><updated>2019-09-30T00:00:00-04:00</updated><id>http://localhost:4000/2019/09/30/robotreport</id><content type="html" xml:base="http://localhost:4000/2019/09/30/robotreport.html">&lt;p&gt;&lt;img src=&quot;/images/robot-report/1.jpg&quot; alt=&quot;The Robot Report&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Happy coding!&lt;/p&gt;
+</content>
+<summary></summary>
+</entry>
+<entry>
+<title>The Robot Report: Website to Explore News related to Robotics Applications</title>
+<link href="http://localhost:4000/2019/09/30/robotreport.html" rel="alternate" type="text/html" title="The Robot Report: Website to Explore News related to Robotics Applications" />
+<published>2019-09-30T00:00:00-04:00</published>
+<updated>2019-09-30T00:00:00-04:00</updated>
+<id>http://localhost:4000/2019/09/30/robotreport</id>
+<content type="html" xml:base="http://localhost:4000/2019/09/30/robotreport.html">&lt;p&gt;&lt;img src=&quot;/images/robot-report/1.jpg&quot; alt=&quot;The Robot Report&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;The Robot Report&lt;/strong&gt; is an amazing robotics news website. If you are interested
 in robotics, you should definitely check it out. It is different than other 
-sources that I mentioned in my previous &lt;a href=&quot;https://samialperen.github.io/2019/03/19/robotics-resources.html&quot;&gt;post&lt;/a&gt;. This website focuses on newest robotics applications from business perspective. It introduces companies and their work related to robotics. Even if you are not interested in business side, I believe it is still useful to follow it in order to have a better understanding of your research and broaden your horizon. Checking coolest robots and autonomous systems in the morning while enjoying your coffee is a good start for the day :). You can check the website using &lt;a href=&quot;https://www.therobotreport.com/&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/robot-report/1.jpg" /></entry><entry><title type="html">Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine</title><link href="http://localhost:4000/2019/06/25/martin-eden.html" rel="alternate" type="text/html" title="Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine" /><published>2019-06-25T00:00:00-04:00</published><updated>2019-06-25T00:00:00-04:00</updated><id>http://localhost:4000/2019/06/25/martin-eden</id><content type="html" xml:base="http://localhost:4000/2019/06/25/martin-eden.html">&lt;p&gt;&lt;img src=&quot;/images/martin-eden/martin.jpg&quot; alt=&quot;Lecturer&quot; /&gt;&lt;/p&gt;
+sources that I mentioned in my previous &lt;a href=&quot;https://samialperen.github.io/2019/03/19/robotics-resources.html&quot;&gt;post&lt;/a&gt;. This website focuses on newest robotics applications from business perspective. It introduces companies and their work related to robotics. Even if you are not interested in business side, I believe it is still useful to follow it in order to have a better understanding of your research and broaden your horizon. Checking coolest robots and autonomous systems in the morning while enjoying your coffee is a good start for the day :). You can check the website using &lt;a href=&quot;https://www.therobotreport.com/&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+</content>
+<summary></summary>
+</entry>
+<entry>
+<title>Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine</title>
+<link href="http://localhost:4000/2019/06/25/martin-eden.html" rel="alternate" type="text/html" title="Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine" />
+<published>2019-06-25T00:00:00-04:00</published>
+<updated>2019-06-25T00:00:00-04:00</updated>
+<id>http://localhost:4000/2019/06/25/martin-eden</id>
+<content type="html" xml:base="http://localhost:4000/2019/06/25/martin-eden.html">&lt;p&gt;&lt;img src=&quot;/images/martin-eden/martin.jpg&quot; alt=&quot;Lecturer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Jack London. Uzun zamandır beni en çok etkileyen kitaplardan biri olan Martin Eden’in yazarı büyük üstad. Yaşadığı hayat hakkında bilgi edindikten sonra ayrı bir saygı duydum kendisine. Size de tanıtmak amaçlı çok kısa ondan bahsetmek istiyorum.&lt;/p&gt;
 
@@ -57,7 +108,18 @@ sources that I mentioned in my previous &lt;a href=&quot;https://samialperen.git
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Her insanın başka bir insandan öğreneceği bir şeyler olduğunan inanan ben kendi elimizle yarattığımız bu sosyal normlardan ve sınıflardan toplum olarak kurtulacağımız günü iple çekiyorum, her ne kadar pek umutlu olmasam da. Buralara kadar okuyan olur mu bilmiyorum ama gelen kişiye de bir &lt;a href=&quot;https://www.youtube.com/watch?v=Ituzi_-9RJI&quot;&gt;şarkı&lt;/a&gt; bırakayım madem. Sevgiyle kalın…&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/martin-eden/martin.jpg" /></entry><entry><title type="html">My Observations about Being a Good/Bad Lecturer</title><link href="http://localhost:4000/2019/06/22/lecturer.html" rel="alternate" type="text/html" title="My Observations about Being a Good/Bad Lecturer" /><published>2019-06-22T00:00:00-04:00</published><updated>2019-06-22T00:00:00-04:00</updated><id>http://localhost:4000/2019/06/22/lecturer</id><content type="html" xml:base="http://localhost:4000/2019/06/22/lecturer.html">&lt;p&gt;&lt;img src=&quot;/images/lecturer/college-lecture.jpg&quot; alt=&quot;Lecturer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Her insanın başka bir insandan öğreneceği bir şeyler olduğunan inanan ben kendi elimizle yarattığımız bu sosyal normlardan ve sınıflardan toplum olarak kurtulacağımız günü iple çekiyorum, her ne kadar pek umutlu olmasam da. Buralara kadar okuyan olur mu bilmiyorum ama gelen kişiye de bir &lt;a href=&quot;https://www.youtube.com/watch?v=Ituzi_-9RJI&quot;&gt;şarkı&lt;/a&gt; bırakayım madem. Sevgiyle kalın…&lt;/p&gt;
+
+</content>
+<summary></summary>
+</entry>
+<entry>
+<title>My Observations about Being a Good/Bad Lecturer</title>
+<link href="http://localhost:4000/2019/06/22/lecturer.html" rel="alternate" type="text/html" title="My Observations about Being a Good/Bad Lecturer" />
+<published>2019-06-22T00:00:00-04:00</published>
+<updated>2019-06-22T00:00:00-04:00</updated>
+<id>http://localhost:4000/2019/06/22/lecturer</id>
+<content type="html" xml:base="http://localhost:4000/2019/06/22/lecturer.html">&lt;p&gt;&lt;img src=&quot;/images/lecturer/college-lecture.jpg&quot; alt=&quot;Lecturer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In this post, I would like to share my observations about lecturers I encountered throughout my undergraduate life in Electrical and Electronics Engineering. Although, I really enjoy being an engineer and I chose my field on purpose, there were only few lecturers whose teaching style is really good. I am especially thankful to &lt;strong&gt;Prof. Umut Orguner&lt;/strong&gt; and his perfect teaching style. I hope I can be as good as him.&lt;/p&gt;
 
@@ -144,7 +206,17 @@ I believe even one example is enough.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Of course, all these points are relative. Maybe other students disagree with me, but anyway, I wanted to share my observations to not forget what I went through in my undergraduate life. Hopefully, I will not do the things I don’t like when I was student.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/lecturer/college-lecture.jpg" /></entry><entry><title type="html">TransferWise: Send Money Abroad at Lowest Possible Cost</title><link href="http://localhost:4000/2019/06/14/transferwise.html" rel="alternate" type="text/html" title="TransferWise: Send Money Abroad at Lowest Possible Cost" /><published>2019-06-14T00:00:00-04:00</published><updated>2019-06-14T00:00:00-04:00</updated><id>http://localhost:4000/2019/06/14/transferwise</id><content type="html" xml:base="http://localhost:4000/2019/06/14/transferwise.html">&lt;p&gt;&lt;img src=&quot;/images/transferwise/tw.webp&quot; alt=&quot;TransferWise&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Of course, all these points are relative. Maybe other students disagree with me, but anyway, I wanted to share my observations to not forget what I went through in my undergraduate life. Hopefully, I will not do the things I don’t like when I was student.&lt;/p&gt;
+</content>
+<summary></summary>
+</entry>
+<entry>
+<title>TransferWise: Send Money Abroad at Lowest Possible Cost</title>
+<link href="http://localhost:4000/2019/06/14/transferwise.html" rel="alternate" type="text/html" title="TransferWise: Send Money Abroad at Lowest Possible Cost" />
+<published>2019-06-14T00:00:00-04:00</published>
+<updated>2019-06-14T00:00:00-04:00</updated>
+<id>http://localhost:4000/2019/06/14/transferwise</id>
+<content type="html" xml:base="http://localhost:4000/2019/06/14/transferwise.html">&lt;p&gt;&lt;img src=&quot;/images/transferwise/tw.webp&quot; alt=&quot;TransferWise&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;TransferWise&lt;/strong&gt; is a UK-based money transfer service which allows its users to transfer money internationally at lowest possible transfer fee. It achieves this by using two local transfers instead of one international transaction.&lt;/p&gt;
 
@@ -179,7 +251,17 @@ I believe even one example is enough.&lt;/p&gt;
 &lt;p&gt;Here is a simple diagram that shows how system works:
 &lt;img src=&quot;/images/transferwise/tw2.jpg&quot; alt=&quot;TransferWise 3&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;You don’t need to worry about the safety of the system. I personally used it and it works perfect. You can further search Google for user comments about TransferWise. Thanks to TransferWise, you don’t need to pay 45$ transaction fee for a 500$ transfer :) Boo &lt;strong&gt;Western Union&lt;/strong&gt;!!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/transferwise/tw.webp" /></entry><entry><title type="html">Berlin Living &amp;amp; Travel Guide</title><link href="http://localhost:4000/2019/06/02/berlin-guide.html" rel="alternate" type="text/html" title="Berlin Living &amp; Travel Guide" /><published>2019-06-02T00:00:00-04:00</published><updated>2019-06-02T00:00:00-04:00</updated><id>http://localhost:4000/2019/06/02/berlin-guide</id><content type="html" xml:base="http://localhost:4000/2019/06/02/berlin-guide.html">&lt;p&gt;&lt;img src=&quot;/images/berlin-guide/reichstag.jpg&quot; alt=&quot;Reichstag&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You don’t need to worry about the safety of the system. I personally used it and it works perfect. You can further search Google for user comments about TransferWise. Thanks to TransferWise, you don’t need to pay 45$ transaction fee for a 500$ transfer :) Boo &lt;strong&gt;Western Union&lt;/strong&gt;!!&lt;/p&gt;
+</content>
+<summary></summary>
+</entry>
+<entry>
+<title>Berlin Living &amp;amp; Travel Guide</title>
+<link href="http://localhost:4000/2019/06/02/berlin-guide.html" rel="alternate" type="text/html" title="Berlin Living &amp; Travel Guide" />
+<published>2019-06-02T00:00:00-04:00</published>
+<updated>2019-06-02T00:00:00-04:00</updated>
+<id>http://localhost:4000/2019/06/02/berlin-guide</id>
+<content type="html" xml:base="http://localhost:4000/2019/06/02/berlin-guide.html">&lt;p&gt;&lt;img src=&quot;/images/berlin-guide/reichstag.jpg&quot; alt=&quot;Reichstag&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In this post, I will try to give all necessary tips about living in Berlin, and I will also provide an awesome travel guide for you to discover the city.&lt;/p&gt;
 
@@ -551,7 +633,17 @@ I believe even one example is enough.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/event7.jpg&quot; alt=&quot;Event7&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/berlin-guide/event6.jpg&quot; alt=&quot;Event6&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/berlin-guide/reichstag.jpg" /></entry><entry><title type="html">How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)</title><link href="http://localhost:4000/2019/05/15/canada-studypermit.html" rel="alternate" type="text/html" title="How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)" /><published>2019-05-15T00:00:00-04:00</published><updated>2019-05-15T00:00:00-04:00</updated><id>http://localhost:4000/2019/05/15/canada-studypermit</id><content type="html" xml:base="http://localhost:4000/2019/05/15/canada-studypermit.html">&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/canada-flag.jpg&quot; alt=&quot;Canada Flag&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/berlin-guide/event6.jpg&quot; alt=&quot;Event6&quot; /&gt;&lt;/p&gt;
+</content>
+<summary></summary>
+</entry>
+<entry>
+<title>How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)</title>
+<link href="http://localhost:4000/2019/05/15/canada-studypermit.html" rel="alternate" type="text/html" title="How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)" />
+<published>2019-05-15T00:00:00-04:00</published>
+<updated>2019-05-15T00:00:00-04:00</updated>
+<id>http://localhost:4000/2019/05/15/canada-studypermit</id>
+<content type="html" xml:base="http://localhost:4000/2019/05/15/canada-studypermit.html">&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/canada-flag.jpg&quot; alt=&quot;Canada Flag&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;general-information-and-required-documents&quot;&gt;General Information and Required Documents&lt;/h3&gt;
 
@@ -657,7 +749,18 @@ I believe even one example is enough.&lt;/p&gt;
 
 &lt;p&gt;After giving Biometrics, there is nothing to do left. All you need to do is to wait. I got my study permit at my first attempt and it took exactly &lt;strong&gt;1 Month&lt;/strong&gt;. I paid &lt;strong&gt;150 CaD Study Permit Fee&lt;/strong&gt; and &lt;strong&gt;85 CaD Biometrics Fee&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;That’s all for this post. I wish you can get your visa at the first time you applied. If you have any questions, don’t hesitate to use comment section below. Study permit application might seem a bit complicated at first, but trust me it is not. Start to prepare documents early and don’t spend money on Visa Consultancy.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/canada-studypermit/canada-flag.jpg" /></entry><entry><title type="html">Terminator: A Linux Terminal Emulator with Multiple Terminals in One</title><link href="http://localhost:4000/2019/04/21/ubuntu-terminator.html" rel="alternate" type="text/html" title="Terminator: A Linux Terminal Emulator with Multiple Terminals in One" /><published>2019-04-21T00:00:00-04:00</published><updated>2019-04-21T00:00:00-04:00</updated><id>http://localhost:4000/2019/04/21/ubuntu-terminator</id><content type="html" xml:base="http://localhost:4000/2019/04/21/ubuntu-terminator.html">&lt;p&gt;&lt;img src=&quot;/images/terminator/8.png&quot; alt=&quot;My Terminal with ROS&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;That’s all for this post. I wish you can get your visa at the first time you applied. If you have any questions, don’t hesitate to use comment section below. Study permit application might seem a bit complicated at first, but trust me it is not. Start to prepare documents early and don’t spend money on Visa Consultancy.&lt;/p&gt;
+
+</content>
+<summary></summary>
+</entry>
+<entry>
+<title>Terminator: A Linux Terminal Emulator with Multiple Terminals in One</title>
+<link href="http://localhost:4000/2019/04/21/ubuntu-terminator.html" rel="alternate" type="text/html" title="Terminator: A Linux Terminal Emulator with Multiple Terminals in One" />
+<published>2019-04-21T00:00:00-04:00</published>
+<updated>2019-04-21T00:00:00-04:00</updated>
+<id>http://localhost:4000/2019/04/21/ubuntu-terminator</id>
+<content type="html" xml:base="http://localhost:4000/2019/04/21/ubuntu-terminator.html">&lt;p&gt;&lt;img src=&quot;/images/terminator/8.png&quot; alt=&quot;My Terminal with ROS&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As linux users, we all suffer from the default linux terminal when we try to call multiple terminals. We open new terminal each time and after some time, it becomes quite difficult to navigate between terminals. I had suffered from this during the time where I was trying to learn &lt;strong&gt;Robot Operating System (ROS)&lt;/strong&gt; because you need to call each script of ROS from another terminal, and default linux terminal made me crazy. Thanks to my friend Jean Pierre, I discovered an amazing Linux Terminal Emulator &lt;strong&gt;Terminator&lt;/strong&gt;.&lt;/p&gt;
 
@@ -712,7 +815,17 @@ I believe even one example is enough.&lt;/p&gt;
 &lt;p&gt;My terminal looks like below while I am working with ROS.
 &lt;img src=&quot;/images/terminator/7.png&quot; alt=&quot;My Terminal with ROS&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;That’s all for this post. I wish it would be useful :)&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/terminator/8.png" /></entry><entry><title type="html">Best Free Online Courses (Especially for ECE, CS and ME Students)</title><link href="http://localhost:4000/2019/04/10/best-onlinecourses.html" rel="alternate" type="text/html" title="Best Free Online Courses (Especially for ECE, CS and ME Students)" /><published>2019-04-10T00:00:00-04:00</published><updated>2019-04-10T00:00:00-04:00</updated><id>http://localhost:4000/2019/04/10/best-onlinecourses</id><content type="html" xml:base="http://localhost:4000/2019/04/10/best-onlinecourses.html">&lt;p&gt;&lt;img src=&quot;/images/best-courses/best-courses.jpg&quot; alt=&quot;Best Courses&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;That’s all for this post. I wish it would be useful :)&lt;/p&gt;
+</content>
+<summary></summary>
+</entry>
+<entry>
+<title>Best Free Online Courses (Especially for ECE, CS and ME Students)</title>
+<link href="http://localhost:4000/2019/04/10/best-onlinecourses.html" rel="alternate" type="text/html" title="Best Free Online Courses (Especially for ECE, CS and ME Students)" />
+<published>2019-04-10T00:00:00-04:00</published>
+<updated>2019-04-10T00:00:00-04:00</updated>
+<id>http://localhost:4000/2019/04/10/best-onlinecourses</id>
+<content type="html" xml:base="http://localhost:4000/2019/04/10/best-onlinecourses.html">&lt;p&gt;&lt;img src=&quot;/images/best-courses/best-courses.jpg&quot; alt=&quot;Best Courses&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We all know that courses we take in the college is not enough. It is always good to not limit yourself. You might want to go deeper in a subject that you are interested. It doesn’t matter whether it is directly related to your department or your academic interest. It is even better if you improve yourself with different concepts. This will help you to connect pieces together. Don’t forget that interdisciplinary work is the best!&lt;/p&gt;
 
@@ -747,80 +860,9 @@ try to implement some cool stuff. If you want to work on hardware &lt;a href=&qu
 
 &lt;p&gt;Don’t forget that even if you are not at the department you like, you can still follow your passion. The only thing you need is a computer with an internet connection!&lt;/p&gt;
 
-&lt;h2 id=&quot;stop-procrastinating-and-do-something-to-reach-your-dreams&quot;&gt;STOP PROCRASTINATING AND DO SOMETHING TO REACH YOUR DREAMS!&lt;/h2&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/best-courses/best-courses.jpg" /></entry><entry><title type="html">How to Apply a Graduate Program?</title><link href="http://localhost:4000/2019/04/03/graduate-application.html" rel="alternate" type="text/html" title="How to Apply a Graduate Program?" /><published>2019-04-03T00:00:00-04:00</published><updated>2019-04-03T00:00:00-04:00</updated><id>http://localhost:4000/2019/04/03/graduate-application</id><content type="html" xml:base="http://localhost:4000/2019/04/03/graduate-application.html">&lt;p&gt;&lt;img src=&quot;/images/graduate-application/grad-school.jpg&quot; alt=&quot;Graduate Application&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;stop-procrastinating-and-do-something-to-reach-your-dreams&quot;&gt;STOP PROCRASTINATING AND DO SOMETHING TO REACH YOUR DREAMS!&lt;/h2&gt;
 
-&lt;p&gt;You have some dream colleges in your mind, and you want to apply a graduate program in these colleges. However, you don’t know where to start and which documents you need. Don’t worry! In this post, I will try to explain graduate programme application procedure by providing an example.&lt;/p&gt;
-
-&lt;p&gt;The first thing you need to decide is which department you want to apply. Sometimes, there are more than one department related to your research interest. If this is the case, you can check your professor of interest’s department and courses given by the departments.&lt;/p&gt;
-
-&lt;p&gt;Let’s look at an example application. Suppose that you are interested in robotics and you want to consider University of Washington’s graduate programme. There are several departments related to robotics like Electrical and Computer Engineering, Computer Science Department or Mechanical Engineering. Some universities even has special Robotics Ph.D. programme like Carnegie Mellon University (CMU).&lt;/p&gt;
-
-&lt;p&gt;First of all, search &lt;strong&gt;University of Washington Robotics&lt;/strong&gt; in Google and visit the corresponding website.
-&lt;img src=&quot;/images/graduate-application/1.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/graduate-application/2.png&quot; alt=&quot;2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We have learned that &lt;strong&gt;Paul G. Allen School of Computer Science &amp;amp; Engineering Department&lt;/strong&gt; seems to have has various labs related to robotics. Let’s proceed further to find out specific graduate program.&lt;/p&gt;
-
-&lt;p&gt;Click &lt;strong&gt;Research &amp;amp; Innovation&lt;/strong&gt; button at the top.
-&lt;img src=&quot;/images/graduate-application/3.png&quot; alt=&quot;3&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In the new Research &amp;amp; Innovation Tab, click &lt;strong&gt;graduate program&lt;/strong&gt; link.
-&lt;img src=&quot;/images/graduate-application/4.png&quot; alt=&quot;4&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Now you can see general information such as how many students are admitted to this program, application deadline etc.
-&lt;img src=&quot;/images/graduate-application/5.png&quot; alt=&quot;5&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, we haven’t seen required documents and minimum requirements for this graduate program yet. Click &lt;strong&gt;Admissions&lt;/strong&gt; Tab at the top.
-&lt;img src=&quot;/images/graduate-application/6.png&quot; alt=&quot;6&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/graduate-application/7.png&quot; alt=&quot;7&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Yey! This is the place that we are looking for. As you can see there is a link &lt;strong&gt;APPLY NOW&lt;/strong&gt; at the end of &lt;strong&gt;Overview&lt;/strong&gt; section. You will be applying using this link, but before we need to learn minimum requirements to apply this program. For this purpose, click &lt;strong&gt;Prerequisites&lt;/strong&gt; tab.
-&lt;img src=&quot;/images/graduate-application/8.png&quot; alt=&quot;8&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As you can see in this page the requirements are:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The completion of a bachelor’s degree and a 3.0 GPA in the latest two years&lt;/li&gt;
-  &lt;li&gt;The average GRE scores of recent applicants were: Verbal 83% (including international applicants), Quantitative 93%, and Analytical 61%&lt;/li&gt;
-  &lt;li&gt;Some courses you should took during your undergraduate time like data structures, discrete math, automata theory etc.&lt;/li&gt;
-  &lt;li&gt;For international students: The minimum TOEFL-iBT score is 80, including at least 26 on the Speaking section of the test.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/graduate-application/9.png&quot; alt=&quot;9&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Let’s check &lt;strong&gt;Required Materials&lt;/strong&gt; section.
-&lt;img src=&quot;/images/graduate-application/10.png&quot; alt=&quot;10&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You can clearly see all the required materials in this webpage with all necessary information. Generally required documents for a graduate program is typical. For this case they are:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Statement of Purpose (SOP)&lt;/li&gt;
-  &lt;li&gt;Curriculum Vitae (CV)&lt;/li&gt;
-  &lt;li&gt;Three Letters of Recommendation&lt;/li&gt;
-  &lt;li&gt;List of Faculty Interest (Professors of Interest)&lt;/li&gt;
-  &lt;li&gt;GRE Score&lt;/li&gt;
-  &lt;li&gt;TOEFL Score&lt;/li&gt;
-  &lt;li&gt;Unofficial Transcript&lt;/li&gt;
-  &lt;li&gt;Application Fee&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Unfortunately you need to pay an application fee for almost all the graduate applications to colleges in USA :(. You will pay this fee at the end of your application (after submitting everything).&lt;/p&gt;
-
-&lt;p&gt;If you have any questions in your mind, don’t forget to check Frequently Asked Questions (FAQ) section. You are going to realize that almost all the questions in your mind are answered here.
-&lt;img src=&quot;/images/graduate-application/11.png&quot; alt=&quot;11&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Now you know all the necessary documents and conditions to apply. Go &lt;strong&gt;Overview&lt;/strong&gt; part and click &lt;strong&gt;Apply Now&lt;/strong&gt; button.
-&lt;img src=&quot;/images/graduate-application/12.png&quot; alt=&quot;12&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Each university has different websites for application, but everything is almost same. You are going to create a profile in the university’s application portal. In this portal, you are going to choose the exact program you want to apply, and you need to fill many information about yourself and your education. This portal also provides you to upload necessary documents.
-&lt;img src=&quot;/images/graduate-application/13.png&quot; alt=&quot;13&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;IMPORTANT NOTE:&lt;/strong&gt; Please be aware of the fact that even filling forms in the application websites for the universities takes a lot of time. For example, if you are going to apply for a graduate school directly after undergraduate, you will need to do this applications in your last year as an undergraduate student. Therefore, don’t fill forms late since you don’t want to spend significant time for this in your exam week. My biggest advice for you guys is that you should fill the forms for the universities that you are planning to apply for a graduate program whenever you have time. Even if you haven’t taken the TOEFL or the GRE it doesn’t matter. You can still fill the forms. Moreover, you can also fill the forms for the schools that you might apply, but you are not sure. If you don’t submit the application then it will not be processed. All of this will save lots of time. Trust me!&lt;/p&gt;
-
-&lt;p&gt;Depending on the applied university and program, the process and documents may vary, but more or the less it is the same. Regarding the applications you can see my other posts:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://samialperen.github.io/2019/03/26/gre-preparation.html&quot;&gt;How to Study for the GRE?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://samialperen.github.io/2019/03/08/toefl-preparation.html&quot;&gt;How to study for the TOEFL? Where to Start?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;That’s all for this post. If you have any questions, please don’t hesitate to use comment section. I wish you will be accepted to your dream school!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/graduate-application/grad-school.jpg" /></entry></feed>
+</content>
+<summary></summary>
+</entry>
+</feed>

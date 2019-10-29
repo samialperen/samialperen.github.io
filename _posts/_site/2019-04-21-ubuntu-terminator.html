@@ -1,0 +1,56 @@
+<p><img src="/images/terminator/8.png" alt="My Terminal with ROS" /></p>
+
+<p>As linux users, we all suffer from the default linux terminal when we try to call multiple terminals. We open new terminal each time and after some time, it becomes quite difficult to navigate between terminals. I had suffered from this during the time where I was trying to learn <strong>Robot Operating System (ROS)</strong> because you need to call each script of ROS from another terminal, and default linux terminal made me crazy. Thanks to my friend Jean Pierre, I discovered an amazing Linux Terminal Emulator <strong>Terminator</strong>.</p>
+
+<p>The beauty about <strong>Terminator</strong> is that it provides the ability to create multiple terminals in just one window. IT also allows you to change other terminal properties such as fonts, fonts colours, background color etc. In this post, I will try to explain installation of Terminator in Linux and give some tips that I frequently use.</p>
+
+<h3 id="installation">Installation</h3>
+
+<ul>
+  <li>Ubuntu-Based Distributions
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt-get install terminator
+</code></pre></div>    </div>
+  </li>
+  <li>Fedore &amp; Other Derivatives
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ dnf install terminator
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<p>That’s it. It is installed successfully.</p>
+
+<h3 id="usage--tips">Usage &amp; Tips</h3>
+
+<p>After installation, just call the terminal with <code class="highlighter-rouge">CTRL + ALT + T</code> 
+<img src="/images/terminator/1.png" alt="Initial Terminator Startup" /></p>
+
+<p>Right click to terminal and choose split-horizontally or vertically.
+<img src="/images/terminator/2.png" alt="Split" /></p>
+
+<p>As you can see, now we have two terminals in one window. You can navigate between terminals using <code class="highlighter-rouge">ALT+Arrow Keys</code>
+<img src="/images/terminator/3.png" alt="Multiple Terminals" /></p>
+
+<p>You can further split terminals.
+<img src="/images/terminator/4.png" alt="Further Split" /></p>
+
+<p>Right click to <strong>Preferences</strong>. You can customize your terminal as you wish.
+<img src="/images/terminator/5.png" alt="Preferences" /></p>
+
+<p>When you go <strong>Keybindings</strong> tab, you will see that there is a keyboard shortcut for almost every operation. I prefer to use default shortcuts, but you can change if you want. 
+<img src="/images/terminator/6.png" alt="Keyboard Shortcuts" /></p>
+
+<p>Here are some shortcuts that I use commonly:</p>
+<ul>
+  <li>Ctrl + Shift + O  –&gt; Split Horizontally</li>
+  <li>Ctrl + Shift + E  –&gt; Split Vertically</li>
+  <li>Ctrl + Shift + W  –&gt; Close the Selected Terminal Window</li>
+  <li>Alt + Arrow Keys –&gt; Navigate Between Terminal Windows</li>
+  <li>Ctrl + Shift + X –&gt; (De)Maximise the Selected Terminal Window</li>
+  <li>Alt + A –&gt; Select all Terminals (For example, very useful when you try to connect using ssh and you need more terminals)</li>
+  <li>Alt + G –&gt; Deselect all Terminals</li>
+</ul>
+
+<p>My terminal looks like below while I am working with ROS.
+<img src="/images/terminator/7.png" alt="My Terminal with ROS" /></p>
+
+<p>That’s all for this post. I wish it would be useful :)</p>
