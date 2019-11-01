@@ -13,4 +13,9 @@ You can download it using [this](https://code.visualstudio.com/) link. After ins
 
 Now, thanks to **VS Code** , you can code and test (debug) your project in one window. It also allows you to upload your code to Github in the same window. Lastly, you can google different users' preferences and favorite keyboard shortcuts like [this](https://vslive.com/Blogs/News-and-Tips/2015/04/5-VS-Keyboard-Shortcuts.aspx) to get best experience from the editor. 
 
+**NOTE:** If you have problems with multi-line selection short cut (Alt + Click) , that's normal. This problem occured to me as well for Ubuntu 16.04. To fix this, you need to enable multi-cursor clicking by typing following command into the terminal:
+```
+gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier "<Super>"   
+```
+
 Happy coding!
