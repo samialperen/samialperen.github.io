@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Use Ubuntu Properly: Workspaces, Shortcuts and Sliding Windows"
-date:   2019-10-29
+date:   2019-12-11
 image: /images/ubuntu-compiz/ubuntu-logo.jpg
 ---
 
