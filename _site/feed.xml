@@ -1,25 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-<generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
-<link href="https://samialperen.github.io/feed.xml" rel="self" type="application/atom+xml" />
-<link href="https://samialperen.github.io/" rel="alternate" type="text/html" />
-<updated>2019-12-11T14:30:59-05:00</updated>
-<id>https://samialperen.github.io/</id>
-<subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle>
-<entry>
-<title>Ubuntu Compiz</title>
-<link href="https://samialperen.github.io/2019/12/11/ubuntu-compiz.html" rel="alternate" type="text/html" title="Ubuntu Compiz" />
-<published>2019-12-11T00:00:00-05:00</published>
-<updated>2019-12-11T00:00:00-05:00</updated>
-<id>https://samialperen.github.io/2019/12/11/ubuntu-compiz</id>
-<content type="html" xml:base="https://samialperen.github.io/2019/12/11/ubuntu-compiz.html">&lt;p&gt;﻿—
-layout: post
-title:  “Use Ubuntu Properly: Workspaces, Shortcuts and Manage Windows”
-date:   2019-10-29
-image: /images/ubuntu-compiz/ubuntu-logo.jpg
-—&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-16T19:00:05-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">Mathpix Snip: Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot.</title><link href="http://localhost:4000/2020/02/16/mathpix.html" rel="alternate" type="text/html" title="Mathpix Snip: Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot. " /><published>2020-02-16T00:00:00-05:00</published><updated>2020-02-16T00:00:00-05:00</updated><id>http://localhost:4000/2020/02/16/mathpix</id><content type="html" xml:base="http://localhost:4000/2020/02/16/mathpix.html">&lt;p&gt;&lt;img src=&quot;/images/mathpix/1.png&quot; alt=&quot;Ubuntu Logo&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/ubuntu-compiz/ubuntu-logo.jpg&quot; alt=&quot;Ubuntu Logo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Although LaTeX and Overleaf makes your life easy when it comes to write a document and cite many papers, managing equations in LaTeX might be cumbersome sometimes. At least, that is the case for me nowadays. The problem about LaTeX and equations is even if you know all the syntax, you still need to waste a lot of time to type them into the document.&lt;/p&gt;
+
+&lt;p&gt;Luckily, I found the perfect tool to solve this problem, which is called &lt;strong&gt;Mathpix Snip&lt;/strong&gt;. This tool gives you to the ability to convert equations (either in pdf files or handwritten notes doesn’t matter) to LaTeX codes. It supports Mac, Windows and Linux. I tested on my Ubuntu 16.04 system and it worked like a charm. The program also has an app for both IOS and Android. According to the my experience, it doesn’t work 100% correct every time, but still I am impressed by its performance. Trust me, use this tool once and you are not going to regret it!&lt;/p&gt;
+
+&lt;p&gt;You can visit its official webpage using &lt;a href=&quot;https://mathpix.com/&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;P.S. I didn’t take any money to advertise this tool :). I just feel sorry that I didn’t discover it before!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/mathpix/1.png" /><media:content medium="image" url="http://localhost:4000/images/mathpix/1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Use Ubuntu Properly: Workspaces, Shortcuts and Sliding Windows</title><link href="http://localhost:4000/2019/12/11/ubuntu-compiz.html" rel="alternate" type="text/html" title="Use Ubuntu Properly: Workspaces, Shortcuts and Sliding Windows" /><published>2019-12-11T00:00:00-05:00</published><updated>2019-12-11T00:00:00-05:00</updated><id>http://localhost:4000/2019/12/11/ubuntu-compiz</id><content type="html" xml:base="http://localhost:4000/2019/12/11/ubuntu-compiz.html">&lt;p&gt;&lt;img src=&quot;/images/ubuntu-compiz/ubuntu-logo.jpg&quot; alt=&quot;Ubuntu Logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In this post, I am going to explain my way of configuring Ubuntu to make my life easier. I hope it will be useful for you as well!&lt;/p&gt;
 
@@ -27,82 +14,59 @@ image: /images/ubuntu-compiz/ubuntu-logo.jpg
 
 &lt;p&gt;First of all, you should start using &lt;strong&gt;workspaces&lt;/strong&gt;. Workspaces refer to the grouping of windows on your desktop. You can create multiple workspaces, which act like virtual desktops. Workspaces are meant to reduce clutter and make the desktop easier to navigate. Workspaces can be used to organize your work. For example, you could have all your communication windows, such as e-mail and your chat program, on one workspace, and the work you are doing on a different workspace. Your music manager could be on a third workspace. Believe me workspaces are one of the great features of Linux!&lt;/p&gt;
 
-&lt;p&gt;To enable workspaces:
-* Go &lt;code class=&quot;highlighter-rouge&quot;&gt;Systems Setting-&amp;gt;Appearance&lt;/code&gt;
-* Select &lt;code class=&quot;highlighter-rouge&quot;&gt;behavior&lt;/code&gt; tab.
-* Tick &lt;code class=&quot;highlighter-rouge&quot;&gt;enable workspaces&lt;/code&gt; box.
-&lt;img src=&quot;/images/ubuntu-compiz/1.png&quot; alt=&quot;Enable workspaces&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;To enable workspaces:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Go &lt;code class=&quot;highlighter-rouge&quot;&gt;Systems Setting-&amp;gt;Appearance&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Select &lt;code class=&quot;highlighter-rouge&quot;&gt;behavior&lt;/code&gt; tab.&lt;/li&gt;
+  &lt;li&gt;Tick &lt;code class=&quot;highlighter-rouge&quot;&gt;enable workspaces&lt;/code&gt; box.
+&lt;img src=&quot;/images/ubuntu-compiz/1.png&quot; alt=&quot;Enable workspaces&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;By default, Ubuntu provides 2x2 workspaces. I personally, don’t like this. I prefer 3x1. You can change number of workspaces using &lt;strong&gt;CompizConfig Settings Manager&lt;/strong&gt;.
-* Install CompizConfig Settings Manager
-&lt;code class=&quot;highlighter-rouge&quot;&gt;
-$ sudo apt-get install compizconfig-settings-manager
-&lt;/code&gt;
-* After installation, run CompizConfig. You can find it by typing Compiz after hitting Windows key button.
-* Navigate to General -&amp;gt; General Options -&amp;gt; Desktop Size tab.
-&lt;img src=&quot;/images/ubuntu-compiz/4.png&quot; alt=&quot;&quot; /&gt;
-* In here, you can adjust number of horizontal and vertical virtual size.
-* Now you can be able to navigate between workspaces using keyboard shortcut Ctrl + Alt + Arrow Keys.&lt;/p&gt;
+&lt;p&gt;By default, Ubuntu provides 2x2 workspaces. I personally, don’t like this. I prefer 3x1. You can change number of workspaces using &lt;strong&gt;CompizConfig Settings Manager&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Install CompizConfig Settings Manager
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo apt-get install compizconfig-settings-manager
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;After installation, run CompizConfig. You can find it by typing Compiz after hitting Windows key button.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Navigate to General -&amp;gt; General Options -&amp;gt; Desktop Size tab.
+&lt;img src=&quot;/images/ubuntu-compiz/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In here, you can adjust number of horizontal and vertical virtual size.&lt;/li&gt;
+  &lt;li&gt;Now you can be able to navigate between workspaces using keyboard shortcut Ctrl + Alt + Arrow Keys.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;CompizConfig Settings Manager (CCSM) provides also a good way to divide your screen into 4 or more spaces. To enable this feature:
-* Launch CCSM
-* Go Window Management category and click Grid.
-&lt;img src=&quot;/images/ubuntu-compiz/3.png&quot; alt=&quot;&quot; /&gt;
-* I like to divide the screen into 4 pieces. To do this select everything like below:
-&lt;img src=&quot;/images/ubuntu-compiz/2.png&quot; alt=&quot;&quot; /&gt;
-* You can see keyboard shortcuts to move pieces to desired locations in bindings tab.
- &lt;img src=&quot;/images/ubuntu-compiz/5.png&quot; alt=&quot;&quot; /&gt;
-I like the default shortcuts. For example, if you press Ctrl + Alt + 7, selected window moves to top left, or if you press Ctrl + Alt + 6, it moves to right. You can achieve this behaviour by dragging selected windows with mouse to right, left, bottom left, top left etc.&lt;/p&gt;
+&lt;p&gt;CompizConfig Settings Manager (CCSM) provides also a good way to divide your screen into 4 or more spaces. To enable this feature:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Launch CCSM&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go Window Management category and click Grid.
+&lt;img src=&quot;/images/ubuntu-compiz/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I like to divide the screen into 4 pieces. To do this select everything like below:
+&lt;img src=&quot;/images/ubuntu-compiz/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;You can see keyboard shortcuts to move pieces to desired locations in bindings tab.
+ &lt;img src=&quot;/images/ubuntu-compiz/5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;WARNING:&lt;/strong&gt; The CompizConfig Settings Manager is a powerful application. You might breaking your desktop configuration by mistake. If you encounter problems after tweaking your setup with CompizConfig, you can reset settings by:
-&lt;code class=&quot;highlighter-rouge&quot;&gt;
-$ unity --reset
-&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I like the default shortcuts. For example, if you press Ctrl + Alt + 7, selected window moves to top left, or if you press Ctrl + Alt + 6, it moves to right. You can achieve this behaviour by dragging selected windows with mouse to right, left, bottom left, top left etc.&lt;/p&gt;
 
-&lt;p&gt;CCSM has many to offer, but this post is limited with the features above. 
-I hope thanks to this post, I can manage to make your Linux experience more enjoyable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WARNING:&lt;/strong&gt; The CompizConfig Settings Manager is a powerful application. You might break your desktop configuration by mistake. If you encounter problems after tweaking your setup with CompizConfig, you can reset settings by:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ unity --reset
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-</content>
-<summary>﻿—layout: posttitle:  “Use Ubuntu Properly: Workspaces, Shortcuts and Manage Windows”date:   2019-10-29image: /images/ubuntu-compiz/ubuntu-logo.jpg—</summary>
-</entry>
-<entry>
-<title>Adblock</title>
-<link href="https://samialperen.github.io/2019/10/29/adblock.html" rel="alternate" type="text/html" title="Adblock" />
-<published>2019-10-29T00:00:00-04:00</published>
-<updated>2019-10-29T00:00:00-04:00</updated>
-<id>https://samialperen.github.io/2019/10/29/adblock</id>
-<content type="html" xml:base="https://samialperen.github.io/2019/10/29/adblock.html">&lt;p&gt;﻿—
-layout: post
-title:  “Real AdBlock Extension”
-date:   2019-10-29
-image: /images/adblock/1.png
-—&lt;/p&gt;
+&lt;p&gt;CCSM has many to offer, but this post is limited with the features above.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/adblock/1.png&quot; alt=&quot;AdBlock&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I hope thanks to this post, I can manage to make your Linux experience more enjoyable.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/ubuntu-compiz/ubuntu-logo.jpg" /><media:content medium="image" url="http://localhost:4000/images/ubuntu-compiz/ubuntu-logo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Real AdBlock Extension</title><link href="http://localhost:4000/2019/10/29/adblock.html" rel="alternate" type="text/html" title="Real AdBlock Extension" /><published>2019-10-29T00:00:00-04:00</published><updated>2019-10-29T00:00:00-04:00</updated><id>http://localhost:4000/2019/10/29/adblock</id><content type="html" xml:base="http://localhost:4000/2019/10/29/adblock.html">&lt;p&gt;&lt;img src=&quot;/images/adblock/1.png&quot; alt=&quot;AdBlock&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Most of the popular Adblock extensions like &lt;a href=&quot;https://getadblock.com&quot;&gt;AdBlock&lt;/a&gt; or &lt;a href=&quot;https://adblockplus.org/&quot;&gt;AdBlock Plus&lt;/a&gt; actually doesn’t provide full protection of ads. They started their way to promising this ideology, but after 2015 they became part of ridicilious &lt;strong&gt;Acceptable Ads Program&lt;/strong&gt;, which basically means that you will still see some ads even if you use these extensions. I am sure you have already experienced this before. The reason behind this issue is the above Adblock extensions either purchased by advertisement agencies or they are getting paid by them. Yeah, I know this is annoying, but no worries. I have good news for you. I found a perfect AdBlock extension (at least for now) that blocks every advertisement. Its name is &lt;strong&gt;UBlock Origin&lt;/strong&gt;. It is compatible with almost all web browsers. To get more info about it, you can visit &lt;a href=&quot;https://en.wikipedia.org/wiki/UBlock_Origin&quot;&gt;UBlock Origin Wiki page&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;If you want to learn more about the subject, you can see this amazing &lt;a href=&quot;https://medium.com/@trybravery/please-stop-using-adblock-but-not-why-you-think-13280e76c8e7&quot;&gt;Medium post&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I hope this will help!&lt;/p&gt;
-
-</content>
-<summary>﻿—layout: posttitle:  “Real AdBlock Extension”date:   2019-10-29image: /images/adblock/1.png—</summary>
-</entry>
-<entry>
-<title>Visual Studio Code</title>
-<link href="https://samialperen.github.io/2019/10/13/visual-studio-code.html" rel="alternate" type="text/html" title="Visual Studio Code" />
-<published>2019-10-13T00:00:00-04:00</published>
-<updated>2019-10-13T00:00:00-04:00</updated>
-<id>https://samialperen.github.io/2019/10/13/visual-studio-code</id>
-<content type="html" xml:base="https://samialperen.github.io/2019/10/13/visual-studio-code.html">&lt;p&gt;﻿—
-layout: post
-title:  “Visual Studio Code: Free Source-Code Editor for All Languages”
-date:   2019-10-13
-image: /images/visual-studio-code/1.jpg
-—&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/visual-studio-code/1.jpg&quot; alt=&quot;Visual Studio Code&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I hope this will help!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/adblock/1.png" /><media:content medium="image" url="http://localhost:4000/images/adblock/1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Visual Studio Code: Free Source-Code Editor for All Languages</title><link href="http://localhost:4000/2019/10/13/visual-studio-code.html" rel="alternate" type="text/html" title="Visual Studio Code: Free Source-Code Editor for All Languages" /><published>2019-10-13T00:00:00-04:00</published><updated>2019-10-13T00:00:00-04:00</updated><id>http://localhost:4000/2019/10/13/visual-studio-code</id><content type="html" xml:base="http://localhost:4000/2019/10/13/visual-studio-code.html">&lt;p&gt;&lt;img src=&quot;/images/visual-studio-code/1.jpg&quot; alt=&quot;Visual Studio Code&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In the end, I found a perfect source-code editor for myself thanks to my friend Austin (yeey!). Previously, I was using &lt;strong&gt;PyCharm&lt;/strong&gt; for Python and &lt;strong&gt;Qt Creator&lt;/strong&gt; for C++. However, switching between them was quite tiring. After lots of different editor trials, &lt;strong&gt;Visual Studio Code&lt;/strong&gt; saved me from all the trouble. It is a free source-code editor developed by Microsoft. It can be used in all Linux, macOS or Windows computers. It contains editor, debugging tool,  embedded git control and Github (my favorite property), syntax highlighting, intelligent code completion, snippets and much more than you expect from a code-editor.&lt;/p&gt;
 
@@ -110,50 +74,15 @@ image: /images/visual-studio-code/1.jpg
 
 &lt;p&gt;Now, thanks to &lt;strong&gt;VS Code&lt;/strong&gt; , you can code and test (debug) your project in one window. It also allows you to upload your code to Github in the same window. Lastly, you can google different users’ preferences and favorite keyboard shortcuts like &lt;a href=&quot;https://vslive.com/Blogs/News-and-Tips/2015/04/5-VS-Keyboard-Shortcuts.aspx&quot;&gt;this&lt;/a&gt; to get best experience from the editor.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; If you have problems with multi-line selection short cut (Alt + Click) , that’s normal. This problem occured to me as well for Ubuntu 16.04. To fix this, you need to enable multi-cursor clicking by typing following command into the terminal:
-&lt;code class=&quot;highlighter-rouge&quot;&gt;
-gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier &quot;&amp;lt;Super&amp;gt;&quot;   
-&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; If you have problems with multi-line selection short cut (Alt + Click) , that’s normal. This problem occured to me as well for Ubuntu 16.04. To fix this, you need to enable multi-cursor clicking by typing following command into the terminal:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier &quot;&amp;lt;Super&amp;gt;&quot;   
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Happy coding!&lt;/p&gt;
-</content>
-<summary>﻿—layout: posttitle:  “Visual Studio Code: Free Source-Code Editor for All Languages”date:   2019-10-13image: /images/visual-studio-code/1.jpg—</summary>
-</entry>
-<entry>
-<title>Robotreport</title>
-<link href="https://samialperen.github.io/2019/09/30/robotreport.html" rel="alternate" type="text/html" title="Robotreport" />
-<published>2019-09-30T00:00:00-04:00</published>
-<updated>2019-09-30T00:00:00-04:00</updated>
-<id>https://samialperen.github.io/2019/09/30/robotreport</id>
-<content type="html" xml:base="https://samialperen.github.io/2019/09/30/robotreport.html">&lt;p&gt;﻿—
-layout: post
-title:  “The Robot Report: Website to Explore News related to Robotics Applications”
-date:   2019-09-30
-image: /images/robot-report/1.jpg
-—&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/robot-report/1.jpg&quot; alt=&quot;The Robot Report&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Happy coding!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/visual-studio-code/1.jpg" /><media:content medium="image" url="http://localhost:4000/images/visual-studio-code/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Robot Report: Website to Explore News related to Robotics Applications</title><link href="http://localhost:4000/2019/09/30/robotreport.html" rel="alternate" type="text/html" title="The Robot Report: Website to Explore News related to Robotics Applications" /><published>2019-09-30T00:00:00-04:00</published><updated>2019-09-30T00:00:00-04:00</updated><id>http://localhost:4000/2019/09/30/robotreport</id><content type="html" xml:base="http://localhost:4000/2019/09/30/robotreport.html">&lt;p&gt;&lt;img src=&quot;/images/robot-report/1.jpg&quot; alt=&quot;The Robot Report&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;The Robot Report&lt;/strong&gt; is an amazing robotics news website. If you are interested
 in robotics, you should definitely check it out. It is different than other 
-sources that I mentioned in my previous &lt;a href=&quot;https://samialperen.github.io/2019/03/19/robotics-resources.html&quot;&gt;post&lt;/a&gt;. This website focuses on newest robotics applications from business perspective. It introduces companies and their work related to robotics. Even if you are not interested in business side, I believe it is still useful to follow it in order to have a better understanding of your research and broaden your horizon. Checking coolest robots and autonomous systems in the morning while enjoying your coffee is a good start for the day :). You can check the website using &lt;a href=&quot;https://www.therobotreport.com/&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;
-</content>
-<summary>﻿—layout: posttitle:  “The Robot Report: Website to Explore News related to Robotics Applications”date:   2019-09-30image: /images/robot-report/1.jpg—</summary>
-</entry>
-<entry>
-<title>Martin Eden</title>
-<link href="https://samialperen.github.io/2019/06/25/martin-eden.html" rel="alternate" type="text/html" title="Martin Eden" />
-<published>2019-06-25T00:00:00-04:00</published>
-<updated>2019-06-25T00:00:00-04:00</updated>
-<id>https://samialperen.github.io/2019/06/25/martin-eden</id>
-<content type="html" xml:base="https://samialperen.github.io/2019/06/25/martin-eden.html">&lt;p&gt;﻿—
-layout: post
-title:  “Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine”
-date:   2019-06-25
-image: /images/martin-eden/martin.jpg
-—&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/martin-eden/martin.jpg&quot; alt=&quot;Lecturer&quot; /&gt;&lt;/p&gt;
+sources that I mentioned in my previous &lt;a href=&quot;https://samialperen.github.io/2019/03/19/robotics-resources.html&quot;&gt;post&lt;/a&gt;. This website focuses on newest robotics applications from business perspective. It introduces companies and their work related to robotics. Even if you are not interested in business side, I believe it is still useful to follow it in order to have a better understanding of your research and broaden your horizon. Checking coolest robots and autonomous systems in the morning while enjoying your coffee is a good start for the day :). You can check the website using &lt;a href=&quot;https://www.therobotreport.com/&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/robot-report/1.jpg" /><media:content medium="image" url="http://localhost:4000/images/robot-report/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine</title><link href="http://localhost:4000/2019/06/25/martin-eden.html" rel="alternate" type="text/html" title="Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine" /><published>2019-06-25T00:00:00-04:00</published><updated>2019-06-25T00:00:00-04:00</updated><id>http://localhost:4000/2019/06/25/martin-eden</id><content type="html" xml:base="http://localhost:4000/2019/06/25/martin-eden.html">&lt;p&gt;&lt;img src=&quot;/images/martin-eden/martin.jpg&quot; alt=&quot;Lecturer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Jack London. Uzun zamandır beni en çok etkileyen kitaplardan biri olan Martin Eden’in yazarı büyük üstad. Yaşadığı hayat hakkında bilgi edindikten sonra ayrı bir saygı duydum kendisine. Size de tanıtmak amaçlı çok kısa ondan bahsetmek istiyorum.&lt;/p&gt;
 
@@ -200,25 +129,7 @@ image: /images/martin-eden/martin.jpg
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Her insanın başka bir insandan öğreneceği bir şeyler olduğunan inanan ben kendi elimizle yarattığımız bu sosyal normlardan ve sınıflardan toplum olarak kurtulacağımız günü iple çekiyorum, her ne kadar pek umutlu olmasam da. Buralara kadar okuyan olur mu bilmiyorum ama gelen kişiye de bir &lt;a href=&quot;https://www.youtube.com/watch?v=Ituzi_-9RJI&quot;&gt;şarkı&lt;/a&gt; bırakayım madem. Sevgiyle kalın…&lt;/p&gt;
-
-</content>
-<summary>﻿—layout: posttitle:  “Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine”date:   2019-06-25image: /images/martin-eden/martin.jpg—</summary>
-</entry>
-<entry>
-<title>Lecturer</title>
-<link href="https://samialperen.github.io/2019/06/22/lecturer.html" rel="alternate" type="text/html" title="Lecturer" />
-<published>2019-06-22T00:00:00-04:00</published>
-<updated>2019-06-22T00:00:00-04:00</updated>
-<id>https://samialperen.github.io/2019/06/22/lecturer</id>
-<content type="html" xml:base="https://samialperen.github.io/2019/06/22/lecturer.html">&lt;p&gt;﻿—
-layout: post
-title:  “My Observations about Being a Good/Bad Lecturer”
-date:   2019-06-22
-image: /images/lecturer/college-lecture.jpg
-—&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lecturer/college-lecture.jpg&quot; alt=&quot;Lecturer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Her insanın başka bir insandan öğreneceği bir şeyler olduğunan inanan ben kendi elimizle yarattığımız bu sosyal normlardan ve sınıflardan toplum olarak kurtulacağımız günü iple çekiyorum, her ne kadar pek umutlu olmasam da. Buralara kadar okuyan olur mu bilmiyorum ama gelen kişiye de bir &lt;a href=&quot;https://www.youtube.com/watch?v=Ituzi_-9RJI&quot;&gt;şarkı&lt;/a&gt; bırakayım madem. Sevgiyle kalın…&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/martin-eden/martin.jpg" /><media:content medium="image" url="http://localhost:4000/images/martin-eden/martin.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">My Observations about Being a Good/Bad Lecturer</title><link href="http://localhost:4000/2019/06/22/lecturer.html" rel="alternate" type="text/html" title="My Observations about Being a Good/Bad Lecturer" /><published>2019-06-22T00:00:00-04:00</published><updated>2019-06-22T00:00:00-04:00</updated><id>http://localhost:4000/2019/06/22/lecturer</id><content type="html" xml:base="http://localhost:4000/2019/06/22/lecturer.html">&lt;p&gt;&lt;img src=&quot;/images/lecturer/college-lecture.jpg&quot; alt=&quot;Lecturer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In this post, I would like to share my observations about lecturers I encountered throughout my undergraduate life in Electrical and Electronics Engineering. Although, I really enjoy being an engineer and I chose my field on purpose, there were only few lecturers whose teaching style is really good. I am especially thankful to &lt;strong&gt;Prof. Umut Orguner&lt;/strong&gt; and his perfect teaching style. I hope I can be as good as him.&lt;/p&gt;
 
@@ -305,24 +216,7 @@ I believe even one example is enough.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Of course, all these points are relative. Maybe other students disagree with me, but anyway, I wanted to share my observations to not forget what I went through in my undergraduate life. Hopefully, I will not do the things I don’t like when I was student.&lt;/p&gt;
-</content>
-<summary>﻿—layout: posttitle:  “My Observations about Being a Good/Bad Lecturer”date:   2019-06-22image: /images/lecturer/college-lecture.jpg—</summary>
-</entry>
-<entry>
-<title>Transferwise</title>
-<link href="https://samialperen.github.io/2019/06/14/transferwise.html" rel="alternate" type="text/html" title="Transferwise" />
-<published>2019-06-14T00:00:00-04:00</published>
-<updated>2019-06-14T00:00:00-04:00</updated>
-<id>https://samialperen.github.io/2019/06/14/transferwise</id>
-<content type="html" xml:base="https://samialperen.github.io/2019/06/14/transferwise.html">&lt;p&gt;﻿—
-layout: post
-title:  “TransferWise: Send Money Abroad at Lowest Possible Cost”
-date:   2019-06-14
-image: /images/transferwise/tw.webp
-—&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/transferwise/tw.webp&quot; alt=&quot;TransferWise&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Of course, all these points are relative. Maybe other students disagree with me, but anyway, I wanted to share my observations to not forget what I went through in my undergraduate life. Hopefully, I will not do the things I don’t like when I was student.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/lecturer/college-lecture.jpg" /><media:content medium="image" url="http://localhost:4000/images/lecturer/college-lecture.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">TransferWise: Send Money Abroad at Lowest Possible Cost</title><link href="http://localhost:4000/2019/06/14/transferwise.html" rel="alternate" type="text/html" title="TransferWise: Send Money Abroad at Lowest Possible Cost" /><published>2019-06-14T00:00:00-04:00</published><updated>2019-06-14T00:00:00-04:00</updated><id>http://localhost:4000/2019/06/14/transferwise</id><content type="html" xml:base="http://localhost:4000/2019/06/14/transferwise.html">&lt;p&gt;&lt;img src=&quot;/images/transferwise/tw.webp&quot; alt=&quot;TransferWise&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;TransferWise&lt;/strong&gt; is a UK-based money transfer service which allows its users to transfer money internationally at lowest possible transfer fee. It achieves this by using two local transfers instead of one international transaction.&lt;/p&gt;
 
@@ -357,23 +251,7 @@ image: /images/transferwise/tw.webp
 &lt;p&gt;Here is a simple diagram that shows how system works:
 &lt;img src=&quot;/images/transferwise/tw2.jpg&quot; alt=&quot;TransferWise 3&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;You don’t need to worry about the safety of the system. I personally used it and it works perfect. You can further search Google for user comments about TransferWise. Thanks to TransferWise, you don’t need to pay 45$ transaction fee for a 500$ transfer :) Boo &lt;strong&gt;Western Union&lt;/strong&gt;!!&lt;/p&gt;
-</content>
-<summary>﻿—layout: posttitle:  “TransferWise: Send Money Abroad at Lowest Possible Cost”date:   2019-06-14image: /images/transferwise/tw.webp—</summary>
-</entry>
-<entry>
-<title>Berlin Guide</title>
-<link href="https://samialperen.github.io/2019/06/02/berlin-guide.html" rel="alternate" type="text/html" title="Berlin Guide" />
-<published>2019-06-02T00:00:00-04:00</published>
-<updated>2019-06-02T00:00:00-04:00</updated>
-<id>https://samialperen.github.io/2019/06/02/berlin-guide</id>
-<content type="html" xml:base="https://samialperen.github.io/2019/06/02/berlin-guide.html">&lt;p&gt;﻿—
-layout: post
-title:  “Berlin Living &amp;amp; Travel Guide”
-date:   2019-06-02
-image: /images/berlin-guide/reichstag.jpg
-—
-&lt;img src=&quot;/images/berlin-guide/reichstag.jpg&quot; alt=&quot;Reichstag&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You don’t need to worry about the safety of the system. I personally used it and it works perfect. You can further search Google for user comments about TransferWise. Thanks to TransferWise, you don’t need to pay 45$ transaction fee for a 500$ transfer :) Boo &lt;strong&gt;Western Union&lt;/strong&gt;!!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/transferwise/tw.webp" /><media:content medium="image" url="http://localhost:4000/images/transferwise/tw.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Berlin Living &amp;amp; Travel Guide</title><link href="http://localhost:4000/2019/06/02/berlin-guide.html" rel="alternate" type="text/html" title="Berlin Living &amp; Travel Guide" /><published>2019-06-02T00:00:00-04:00</published><updated>2019-06-02T00:00:00-04:00</updated><id>http://localhost:4000/2019/06/02/berlin-guide</id><content type="html" xml:base="http://localhost:4000/2019/06/02/berlin-guide.html">&lt;p&gt;&lt;img src=&quot;/images/berlin-guide/reichstag.jpg&quot; alt=&quot;Reichstag&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In this post, I will try to give all necessary tips about living in Berlin, and I will also provide an awesome travel guide for you to discover the city.&lt;/p&gt;
 
@@ -413,8 +291,8 @@ image: /images/berlin-guide/reichstag.jpg
 &lt;p&gt;For Internet usage (both mobile or home), you need to be careful. You shouldn’t use Torrent or IPTV or you shouldn’t make illegal downloadings. Germany is quite strict about illegal downloadings. If you get caught, you might have to pay a fine (more than 1000€), so please be careful!&lt;/p&gt;
 
 &lt;h2 id=&quot;discover-the-city&quot;&gt;Discover the City&lt;/h2&gt;
-&lt;p&gt;### 1-)
-The first thing you should do to learn more about the City is attending a tour. You can attend &lt;strong&gt;SANDEMANs Free Tour of Berlin&lt;/strong&gt; which takes 3 hour. If you like it, you can take other paid tours as well. You can visit &lt;a href=&quot;https://www.neweuropetours.eu/sandemans-tours/berlin/free-tour-of-berlin/&quot;&gt;their website&lt;/a&gt; to learn tour dates and hours.&lt;/p&gt;
+&lt;h3 id=&quot;1-&quot;&gt;1-)&lt;/h3&gt;
+&lt;p&gt;The first thing you should do to learn more about the City is attending a tour. You can attend &lt;strong&gt;SANDEMANs Free Tour of Berlin&lt;/strong&gt; which takes 3 hour. If you like it, you can take other paid tours as well. You can visit &lt;a href=&quot;https://www.neweuropetours.eu/sandemans-tours/berlin/free-tour-of-berlin/&quot;&gt;their website&lt;/a&gt; to learn tour dates and hours.&lt;/p&gt;
 
 &lt;p&gt;The tour starts from &lt;strong&gt;Starbucks at Brandenburg Gate&lt;/strong&gt;. Look out people with &lt;strong&gt;Red Umbrella&lt;/strong&gt;, they are the guides.&lt;/p&gt;
 
@@ -430,7 +308,7 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/bebelplatz.jpg&quot; alt=&quot;Bebelplatz&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;2-)&lt;/h3&gt;
+&lt;h3 id=&quot;2-&quot;&gt;2-)&lt;/h3&gt;
 &lt;p&gt;You can visit &lt;strong&gt;Mauerpark&lt;/strong&gt; on Sundays. There are karaoke, street performance and lots of fun. It is definitely a great way to spend a lovely Sunday.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/mauerpark.jpg&quot; alt=&quot;Mauerpark 1&quot; /&gt;&lt;/p&gt;
@@ -439,17 +317,17 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/mauerpark3.jpeg&quot; alt=&quot;Mauerpark 3&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;3-)&lt;/h3&gt;
+&lt;h3 id=&quot;3-&quot;&gt;3-)&lt;/h3&gt;
 &lt;p&gt;Visit &lt;strong&gt;Klunkerkranich&lt;/strong&gt; to watch the sunset over the rooftops of Berlin. It is a rooftop bar with a fantastic view.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/klunkerkranich.jpg&quot; alt=&quot;Klunkerkranich&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-2&quot;&gt;4-)&lt;/h3&gt;
+&lt;h3 id=&quot;4-&quot;&gt;4-)&lt;/h3&gt;
 &lt;p&gt;See the &lt;strong&gt;Kaiser Wilhelm Memorial Church&lt;/strong&gt; which is damaged during the World War 2. You can enjoy the view from the terrace of &lt;strong&gt;Motel One&lt;/strong&gt;, &lt;strong&gt;Monkey Bar&lt;/strong&gt; or &lt;strong&gt;NENI BERLIN&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/kaiserwilhelm.jpg&quot; alt=&quot;Kaiser Wilhelm Memorial Church&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-3&quot;&gt;5-)&lt;/h3&gt;
+&lt;h3 id=&quot;5-&quot;&gt;5-)&lt;/h3&gt;
 &lt;p&gt;Visit &lt;strong&gt;East Side Gallery&lt;/strong&gt;: the longest air gallery in the world. Take a long walk along the East Side Gallery to learn the history of Berlin Wall and see amazing art work.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/east-side-gallery.jpg&quot; alt=&quot;East Side Gallery&quot; /&gt;&lt;/p&gt;
@@ -464,7 +342,7 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/burgermeister-view.png&quot; alt=&quot;Burgermeister View&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-4&quot;&gt;6-)&lt;/h3&gt;
+&lt;h3 id=&quot;6-&quot;&gt;6-)&lt;/h3&gt;
 &lt;p&gt;Visit &lt;strong&gt;Kruezberg Canal (Landwehr Canal/Urbanhafen)&lt;/strong&gt; and embrace the nature. Great place to take your drink and socialize with your friends. You can also visit &lt;strong&gt;Admiral Bridge&lt;/strong&gt; in the same area. It offers great atmosphere.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/landwehr1.JPG&quot; alt=&quot;Kreuzberg Canal&quot; /&gt;&lt;/p&gt;
@@ -475,7 +353,7 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/landwehr3.JPG&quot; alt=&quot;Kreuzberg Canal 3&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-5&quot;&gt;7-)&lt;/h3&gt;
+&lt;h3 id=&quot;7-&quot;&gt;7-)&lt;/h3&gt;
 &lt;p&gt;Berlin offers various cafes, pubs, clubs. Here are some near &lt;strong&gt;Görlitzer Park&lt;/strong&gt;. However, you should be careful and stay away from the park itself. Generally the park is unfortunately known for drugs.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Birgit &amp;amp; Beer&lt;/strong&gt; is a beer garden with exotic ambience.&lt;/p&gt;
@@ -497,19 +375,19 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/clubdervisionere.jpg&quot; alt=&quot;Club der Visionaere&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-6&quot;&gt;8-)&lt;/h3&gt;
+&lt;h3 id=&quot;8-&quot;&gt;8-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Viktoriapark&lt;/strong&gt; is a great public park with waterfalls and viewpoints to relax.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/viktoriapark.jpg&quot; alt=&quot;Viktoriapark&quot; height=&quot;800px&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-7&quot;&gt;9-)&lt;/h3&gt;
+&lt;h3 id=&quot;9-&quot;&gt;9-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Schlachtensee&lt;/strong&gt; is always a good idea to run away from the city. If you go summer, you will see that a lot of people swim in this lake. If you like biking, visiting this lake by bike would be perfect for you. If you feel a bit lazy, you can take your bike with you to SBahn/Ubahn and use your bike only to discover the lake. However, check that your train ticket involves the right to carry bike.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/schlachtensee.JPG&quot; alt=&quot;Schlachtensee&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/schlachtensee2.JPG&quot; alt=&quot;Schlachtensee 2&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-8&quot;&gt;10-)&lt;/h3&gt;
+&lt;h3 id=&quot;10-&quot;&gt;10-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Hackesche Höfe&lt;/strong&gt; is composed of historical small and sweet courtyards. After that you can taste rose shaped delicicious ice-creams of &lt;strong&gt;Amorino&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/hackeschehofe.jpg&quot; alt=&quot;Hackesche Höfe&quot; /&gt;&lt;/p&gt;
@@ -518,14 +396,14 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/hackeschehofe3.JPG&quot; alt=&quot;Amorino Icecreams&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-9&quot;&gt;11-)&lt;/h3&gt;
+&lt;h3 id=&quot;11-&quot;&gt;11-)&lt;/h3&gt;
 &lt;p&gt;Even if they are expensive, it is still delightful to visit shopping malls &lt;strong&gt;KaDeWe&lt;/strong&gt; and &lt;strong&gt;Bikini Berlin&lt;/strong&gt;. I personally like foodhall and suparmarket part of KaDeWe. Shops in Bikini Berlin are also charming.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/bikiniberlin.jpg&quot; alt=&quot;Bikini Berlin&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/kadewe2.jpg&quot; alt=&quot;KaDeWe Food Hall&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-10&quot;&gt;12-)&lt;/h3&gt;
+&lt;h3 id=&quot;12-&quot;&gt;12-)&lt;/h3&gt;
 &lt;p&gt;There is a small church named &lt;strong&gt;Nikolaikirche&lt;/strong&gt;. Behind this course, there exists a small area named &lt;strong&gt;Nikolaiviertel&lt;/strong&gt;. I really like narrow paths in this area with humble cafes.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/nikolaiviertel.jpg&quot; alt=&quot;Nikolaiviertel&quot; /&gt;&lt;/p&gt;
@@ -536,12 +414,12 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/nikolaiviertel4.jpg&quot; alt=&quot;Nikolaiviertel 4&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-11&quot;&gt;13-)&lt;/h3&gt;
+&lt;h3 id=&quot;13-&quot;&gt;13-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Clärchens Ballroom&lt;/strong&gt; could be a satisfactory choice for people who are looking for a classy German restaurant with live music.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/clarchens.jpg&quot; alt=&quot;Clärchens Ballroom&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-12&quot;&gt;14-)&lt;/h3&gt;
+&lt;h3 id=&quot;14-&quot;&gt;14-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Kastanienallee&lt;/strong&gt; is one of the hit regions of Berliners. You can find lots of cafe, restaurant throughout this region. It also provides great street views with fascinating architectures. Whether you are with your friend or alone, it is always a good idea to go for a walk in this region.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/kastanialle.jpg&quot; alt=&quot;Kastanienallee&quot; /&gt;&lt;/p&gt;
@@ -552,7 +430,7 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/kastanialle4.JPG&quot; alt=&quot;Kastanienallee 4&quot; height=&quot;800px&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-13&quot;&gt;15-)&lt;/h3&gt;
+&lt;h3 id=&quot;15-&quot;&gt;15-)&lt;/h3&gt;
 &lt;p&gt;You can visit &lt;strong&gt;Drachenberg&lt;/strong&gt; which offers a fantactic top-view of the City. After that you can go and visit &lt;strong&gt;Teufelsberg Spy Towers&lt;/strong&gt; which was a listening station during the Cold War.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/teufelsberg.JPG&quot; alt=&quot;Drachenberg&quot; /&gt;&lt;/p&gt;
@@ -565,7 +443,7 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/teufelsberg5.JPG&quot; alt=&quot;Teufelsberg Spy Towers 3&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-14&quot;&gt;16-)&lt;/h3&gt;
+&lt;h3 id=&quot;16-&quot;&gt;16-)&lt;/h3&gt;
 &lt;p&gt;Germany Parliament Building &lt;strong&gt;Reichstag&lt;/strong&gt;, which is still actively used, must be seen. If you book in advance (like 2-3 week before), you can visit characteristic glass dome &lt;strong&gt;Reichstag Dome&lt;/strong&gt; for free. It is the only place in Reichstag that Hitler never stepped foot in. You can also get quite informative audio guide for free.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/reichstag.jpg&quot; alt=&quot;Reichstag&quot; /&gt;&lt;/p&gt;
@@ -574,7 +452,7 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/reichstagdome.jpeg&quot; alt=&quot;Reichstag Dome 2&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-15&quot;&gt;17-)&lt;/h3&gt;
+&lt;h3 id=&quot;17-&quot;&gt;17-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Holzmarkt&lt;/strong&gt; is an excellent place near the river which has very exotic pubs and cafes. I like the bar &lt;strong&gt;Holzmarkt Pampa&lt;/strong&gt;’s atmosphere.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/holzmarkt.jpg&quot; alt=&quot;Holzmarkt&quot; /&gt;&lt;/p&gt;
@@ -583,21 +461,21 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/holzmarkt3.jpg&quot; alt=&quot;Holzmarkt 3&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-16&quot;&gt;18-)&lt;/h3&gt;
+&lt;h3 id=&quot;18-&quot;&gt;18-)&lt;/h3&gt;
 &lt;p&gt;You can visit rococo style &lt;strong&gt;Charlottenburg Palace&lt;/strong&gt; and its huge garden. Although there is an entrance fee for palace, beautiful garden can be discovered for free. Moreover, you can also visit all the palace for free in the last Sunday of each month. There is no nearby market to the Palace, so it is highly recommended that take your snacks and drinks with you before coming.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/charlottenburg.JPG&quot; alt=&quot;Charlottenburg Palace&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/charlottenburg2.JPG&quot; alt=&quot;Charlottenburg Palace 2&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-17&quot;&gt;19-)&lt;/h3&gt;
+&lt;h3 id=&quot;19-&quot;&gt;19-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Cafe am Engelbecken&lt;/strong&gt; is lovely, cosy and calming cafe which is located near a small lake. The prices are not too expensive especially if you think about its location. It might be a perfect place to read your book while enjoying your coffee.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/engelbecken2.jpg&quot; alt=&quot;Cafe am Engelbecken&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/engelbecken.jpg&quot; alt=&quot;Cafe am Engelbecken 2&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-18&quot;&gt;20-)&lt;/h3&gt;
+&lt;h3 id=&quot;20-&quot;&gt;20-)&lt;/h3&gt;
 &lt;p&gt;If you are looking for a boat ride, instead of paying money for touristic cruise tours, you can use &lt;strong&gt;BVG’s Ferry&lt;/strong&gt; with your BVG ticket that you use in SBahns, UBahns and buses. There is a great route for this purpose. You can go &lt;strong&gt;Wansee&lt;/strong&gt; using SBahn and then you can walk just 2 minutes to &lt;strong&gt;Wansee Station&lt;/strong&gt;. Take &lt;strong&gt;BVG F10 Ferry&lt;/strong&gt; which goes to &lt;strong&gt;Station Kladow&lt;/strong&gt;. &lt;strong&gt;Kladow&lt;/strong&gt; will welcome you with a great view and lovely cafes. After getting some snacks and drinks from supermarkets near Kladow Station, you can follow &lt;strong&gt;Imchenallee&lt;/strong&gt; street throughout river. If you are willing to go further, you deserve to enjoy a nice coffee in &lt;strong&gt;Sommercafé im Landhausgarten Dr. Max Fraenkel&lt;/strong&gt;. You can either walk or get on a bicycle, but if you are on foot, then it is better to return to Station Kladow by taking bus from the nearest bus stop &lt;strong&gt;Hottengrund&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;WARNING:&lt;/strong&gt; Don’t forget to check the last take off time of the ferrys from Station Kladow to Station Wansee!&lt;/p&gt;
@@ -620,7 +498,7 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/sunset2.JPG&quot; alt=&quot;Sunset at Wansee 2&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-19&quot;&gt;21-)&lt;/h3&gt;
+&lt;h3 id=&quot;21-&quot;&gt;21-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Treptower Park&lt;/strong&gt; is one of the biggest public parks in Berlin. In the middle of the park, there is &lt;strong&gt;Soviet War Memorial&lt;/strong&gt;, which is a cemetery for Soviet Soldiers in WW2. You can take pedal boats from here. There is a nearby &lt;strong&gt;Burger King&lt;/strong&gt; which offers great view of the park.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/treptow.jpg&quot; alt=&quot;Treptower Park&quot; /&gt;&lt;/p&gt;
@@ -631,19 +509,19 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/treptow4.JPG&quot; alt=&quot;Treptower Park 4&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-20&quot;&gt;22-)&lt;/h3&gt;
+&lt;h3 id=&quot;22-&quot;&gt;22-)&lt;/h3&gt;
 &lt;p&gt;Fill your stomach with yummy street food in &lt;strong&gt;Markthalle Neun&lt;/strong&gt; on Thursdays.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/markthalle.JPG&quot; alt=&quot;Markthalle Neun&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/markthalle2.JPG&quot; alt=&quot;Markthalle Neun 2&quot; height=&quot;800px&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-21&quot;&gt;23-)&lt;/h3&gt;
+&lt;h3 id=&quot;23-&quot;&gt;23-)&lt;/h3&gt;
 &lt;p&gt;Fastfood chain &lt;strong&gt;RISA&lt;/strong&gt; is like &lt;strong&gt;KFC&lt;/strong&gt;, but with better taste and cheaper price. Just try it and you are going to agree with me :).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/risa.jpg&quot; alt=&quot;RISA&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-22&quot;&gt;24-)&lt;/h3&gt;
+&lt;h3 id=&quot;24-&quot;&gt;24-)&lt;/h3&gt;
 &lt;p&gt;There are extremely many museums in Berlin. Specify the ones that get your attention. No need to say that &lt;strong&gt;Museum Island&lt;/strong&gt; and &lt;strong&gt;Berliner Dome&lt;/strong&gt; must be seen.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/museum.JPG&quot; alt=&quot;Museum Island&quot; /&gt;&lt;/p&gt;
@@ -684,19 +562,19 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;There is an annual event called &lt;strong&gt;Long Night Museum&lt;/strong&gt;. During one day, almost all museums in Berlin is open during the night as well. You can visit them with only one ticket. There is also shuttles between major museums. &lt;a href=&quot;https://www.lange-nacht-der-museen.de/en/&quot;&gt;Here&lt;/a&gt; is the event link.&lt;/p&gt;
 
-&lt;h3 id=&quot;section-23&quot;&gt;25-)&lt;/h3&gt;
+&lt;h3 id=&quot;25-&quot;&gt;25-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Botanical Gardens&lt;/strong&gt; is worth to visit if you like the nature.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/museum9.jpeg&quot; alt=&quot;botanical&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/museum10.jpeg&quot; alt=&quot;botanical 2&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-24&quot;&gt;26-)&lt;/h3&gt;
+&lt;h3 id=&quot;26-&quot;&gt;26-)&lt;/h3&gt;
 &lt;p&gt;Of course, it is impossible to not mention &lt;strong&gt;Tiergarten&lt;/strong&gt;, the biggest public park of the Berlin.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/tier.jpg&quot; alt=&quot;Tiergarten&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-25&quot;&gt;27-)&lt;/h3&gt;
+&lt;h3 id=&quot;27-&quot;&gt;27-)&lt;/h3&gt;
 &lt;p&gt;Visit &lt;strong&gt;Urban Nation Streetart Museum&lt;/strong&gt; near &lt;strong&gt;Nollendorfplatz&lt;/strong&gt;. You are going to see wonderful pieces even in the street of museum.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/urban.JPG&quot; alt=&quot;urban&quot; /&gt;&lt;/p&gt;
@@ -705,14 +583,14 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/urban3.JPG&quot; alt=&quot;urban 3&quot; height=&quot;800px&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-26&quot;&gt;28-)&lt;/h3&gt;
+&lt;h3 id=&quot;28-&quot;&gt;28-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Tempelhofer Feld&lt;/strong&gt; is a former airport which was built under Nazi regime. It is now a public park. It is definitely great place for bicyling, skating or flying a kite.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/tempelhof.JPG&quot; alt=&quot;Tempelhof&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/tempelhof2.JPG&quot; alt=&quot;Tempelhof2&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-27&quot;&gt;29-)&lt;/h3&gt;
+&lt;h3 id=&quot;29-&quot;&gt;29-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Sachsenhausen Concentration Camp&lt;/strong&gt; is the nearest concentration camp to Berlin. It is only one hour way and you can use Sbahn to arrive here. It must be seen to embrace humanity more!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/nazicamp.jpg&quot; alt=&quot;Nazi Camp&quot; /&gt;&lt;/p&gt;
@@ -721,7 +599,7 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/nazicamp3.JPG&quot; alt=&quot;Nazi Camp 3&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-28&quot;&gt;30-)&lt;/h3&gt;
+&lt;h3 id=&quot;30-&quot;&gt;30-)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Ritter Sport&lt;/strong&gt; is a German chocolate brand. It offers many different types of chocolates. For me, it is the best for its price. You can find these chocolates in every supermarket. However, they have their own shop named &lt;strong&gt;Ritter Sport Bunte Schokowelt Berlin&lt;/strong&gt;. If you want to buy lots of chocolate, this shop is the right place. You can also design your own chocolate in here.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/ritter2.jpg&quot; alt=&quot;Ritter&quot; /&gt;&lt;/p&gt;
@@ -745,24 +623,7 @@ The first thing you should do to learn more about the City is attending a tour. 
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/event7.jpg&quot; alt=&quot;Event7&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/berlin-guide/event6.jpg&quot; alt=&quot;Event6&quot; /&gt;&lt;/p&gt;
-</content>
-<summary>﻿—layout: posttitle:  “Berlin Living &amp;amp; Travel Guide”date:   2019-06-02image: /images/berlin-guide/reichstag.jpg—</summary>
-</entry>
-<entry>
-<title>Canada Studypermit</title>
-<link href="https://samialperen.github.io/2019/05/15/canada-studypermit.html" rel="alternate" type="text/html" title="Canada Studypermit" />
-<published>2019-05-15T00:00:00-04:00</published>
-<updated>2019-05-15T00:00:00-04:00</updated>
-<id>https://samialperen.github.io/2019/05/15/canada-studypermit</id>
-<content type="html" xml:base="https://samialperen.github.io/2019/05/15/canada-studypermit.html">&lt;p&gt;﻿—
-layout: post
-title:  “How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)”
-date:   2019-05-15
-image: /images/canada-studypermit/canada-flag.jpg
-—&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/canada-flag.jpg&quot; alt=&quot;Canada Flag&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/berlin-guide/event6.jpg&quot; alt=&quot;Event6&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/berlin-guide/reichstag.jpg" /><media:content medium="image" url="http://localhost:4000/images/berlin-guide/reichstag.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)</title><link href="http://localhost:4000/2019/05/15/canada-studypermit.html" rel="alternate" type="text/html" title="How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)" /><published>2019-05-15T00:00:00-04:00</published><updated>2019-05-15T00:00:00-04:00</updated><id>http://localhost:4000/2019/05/15/canada-studypermit</id><content type="html" xml:base="http://localhost:4000/2019/05/15/canada-studypermit.html">&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/canada-flag.jpg&quot; alt=&quot;Canada Flag&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;general-information-and-required-documents&quot;&gt;General Information and Required Documents&lt;/h3&gt;
 
@@ -774,28 +635,36 @@ image: /images/canada-studypermit/canada-flag.jpg
 
 &lt;p&gt;First of all, the school that you are accepted in Canada should be one of the designated learning institutions (DLI). According to the Canada Immigration and Citizenship website, a designated learning institution (DLI) is a school approved by a provincial or territorial government to host international students. You will need an acceptance letter from a DLI. Check whether your school is a DLI or not using &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html&quot;&gt;this&lt;/a&gt; link.&lt;/p&gt;
 
-&lt;p&gt;I prepared my documents by taking reference &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/get-documents.html&quot;&gt;Canada Immigration and Citizenship website document list&lt;/a&gt;. Here are the necessary documents:
-* Proof of acceptance (Acceptance letter from a DLI)
-* Valid Passport and Old Passports (if you have)
-* One Digital Biometric Photo
-* Proof of financial support: 
-    * A letter from the school giving you money. It should include the amount of funding you will get with tuition fee. (personally I had just one acceptance letter from the university. The funding amount is written on that, but Tuition isn’t) 
-    * My bank statements for the past 6 months
-    * Sponsorship Letter from my father. &lt;a href=&quot;/static/canada-studypermit/sponsorship-template.docx&quot;&gt;Here&lt;/a&gt; is the template to download. Change it according to your situation. I just provided it to give you a clue about its format.
-    * My sponsor’s 6 month salary roll
-    * My sponsor’s bank statements (I didn’t provide)
-    * House Title Deed (if applicable)
-    * Vehicle License (if applicable)
-* Letter of explanation: This is probably the most important document of yours. You need to clearly explain why you want to take study permit. You can attach any file you want to letter of explanation. Please don’t forget that this file is the only thing that gives you a chance to convince visa officer. It is stated as optional in the website, but I personally believe that it should be MUST! &lt;a href=&quot;/static/canada-studypermit/letter-of-explanation-template.docx&quot;&gt;Here&lt;/a&gt; is the template to download. I attached below files to my letter of explanation:
-    * Student Certificate
-    * TOEFL Score
-    * GRE Score
-    * Transcript
-    * Curriculum Vitae (CV)
-    * Criminal Record (e-devlet)
-    * Letter of Acceptance from Universities in other countries
-    * My previous passport
-    * My National ID (Turkey)&lt;/p&gt;
+&lt;p&gt;I prepared my documents by taking reference &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/get-documents.html&quot;&gt;Canada Immigration and Citizenship website document list&lt;/a&gt;. Here are the necessary documents:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Proof of acceptance (Acceptance letter from a DLI)&lt;/li&gt;
+  &lt;li&gt;Valid Passport and Old Passports (if you have)&lt;/li&gt;
+  &lt;li&gt;One Digital Biometric Photo&lt;/li&gt;
+  &lt;li&gt;Proof of financial support:
+    &lt;ul&gt;
+      &lt;li&gt;A letter from the school giving you money. It should include the amount of funding you will get with tuition fee. (personally I had just one acceptance letter from the university. The funding amount is written on that, but Tuition isn’t)&lt;/li&gt;
+      &lt;li&gt;My bank statements for the past 6 months&lt;/li&gt;
+      &lt;li&gt;Sponsorship Letter from my father. &lt;a href=&quot;/static/canada-studypermit/sponsorship-template.docx&quot;&gt;Here&lt;/a&gt; is the template to download. Change it according to your situation. I just provided it to give you a clue about its format.&lt;/li&gt;
+      &lt;li&gt;My sponsor’s 6 month salary roll&lt;/li&gt;
+      &lt;li&gt;My sponsor’s bank statements (I didn’t provide)&lt;/li&gt;
+      &lt;li&gt;House Title Deed (if applicable)&lt;/li&gt;
+      &lt;li&gt;Vehicle License (if applicable)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Letter of explanation: This is probably the most important document of yours. You need to clearly explain why you want to take study permit. You can attach any file you want to letter of explanation. Please don’t forget that this file is the only thing that gives you a chance to convince visa officer. It is stated as optional in the website, but I personally believe that it should be MUST! &lt;a href=&quot;/static/canada-studypermit/letter-of-explanation-template.docx&quot;&gt;Here&lt;/a&gt; is the template to download. I attached below files to my letter of explanation:
+    &lt;ul&gt;
+      &lt;li&gt;Student Certificate&lt;/li&gt;
+      &lt;li&gt;TOEFL Score&lt;/li&gt;
+      &lt;li&gt;GRE Score&lt;/li&gt;
+      &lt;li&gt;Transcript&lt;/li&gt;
+      &lt;li&gt;Curriculum Vitae (CV)&lt;/li&gt;
+      &lt;li&gt;Criminal Record (e-devlet)&lt;/li&gt;
+      &lt;li&gt;Letter of Acceptance from Universities in other countries&lt;/li&gt;
+      &lt;li&gt;My previous passport&lt;/li&gt;
+      &lt;li&gt;My National ID (Turkey)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Minimum amount of money that you need to show for financial support is stated as Tuition + 10.000 CAD per year for one  student (Outside Quebec, 2019 Year). You should check Canada Immigration website above to see the required amount applicable for you.&lt;/p&gt;
 
@@ -833,10 +702,12 @@ image: /images/canada-studypermit/canada-flag.jpg
 
 &lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/6.png&quot; alt=&quot;Documents to Submit&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;As you can see, there are some other extra documents to upload:
-* Application for Study Permit Made Outside of Canada (IMM1294)
-* Family Information (IMM5645)
-* Schedule 1 - Application for a Temporary Resident Visa Made Outside Canada (IMM5257)&lt;/p&gt;
+&lt;p&gt;As you can see, there are some other extra documents to upload:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Application for Study Permit Made Outside of Canada (IMM1294)&lt;/li&gt;
+  &lt;li&gt;Family Information (IMM5645)&lt;/li&gt;
+  &lt;li&gt;Schedule 1 - Application for a Temporary Resident Visa Made Outside Canada (IMM5257)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;You can download these documents by clicking document name.&lt;/p&gt;
 
@@ -858,76 +729,4 @@ image: /images/canada-studypermit/canada-flag.jpg
 
 &lt;p&gt;After giving Biometrics, there is nothing to do left. All you need to do is to wait. I got my study permit at my first attempt and it took exactly &lt;strong&gt;1 Month&lt;/strong&gt;. I paid &lt;strong&gt;150 CaD Study Permit Fee&lt;/strong&gt; and &lt;strong&gt;85 CaD Biometrics Fee&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;That’s all for this post. I wish you can get your visa at the first time you applied. If you have any questions, don’t hesitate to use comment section below. Study permit application might seem a bit complicated at first, but trust me it is not. Start to prepare documents early and don’t spend money on Visa Consultancy.&lt;/p&gt;
-
-</content>
-<summary>﻿—layout: posttitle:  “How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)”date:   2019-05-15image: /images/canada-studypermit/canada-flag.jpg—</summary>
-</entry>
-<entry>
-<title>Terminator: A Linux Terminal Emulator with Multiple Terminals in One</title>
-<link href="https://samialperen.github.io/2019/04/21/ubuntu-terminator.html" rel="alternate" type="text/html" title="Terminator: A Linux Terminal Emulator with Multiple Terminals in One" />
-<published>2019-04-21T00:00:00-04:00</published>
-<updated>2019-04-21T00:00:00-04:00</updated>
-<id>https://samialperen.github.io/2019/04/21/ubuntu-terminator</id>
-<content type="html" xml:base="https://samialperen.github.io/2019/04/21/ubuntu-terminator.html">&lt;p&gt;&lt;img src=&quot;/images/terminator/8.png&quot; alt=&quot;My Terminal with ROS&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As linux users, we all suffer from the default linux terminal when we try to call multiple terminals. We open new terminal each time and after some time, it becomes quite difficult to navigate between terminals. I had suffered from this during the time where I was trying to learn &lt;strong&gt;Robot Operating System (ROS)&lt;/strong&gt; because you need to call each script of ROS from another terminal, and default linux terminal made me crazy. Thanks to my friend Jean Pierre, I discovered an amazing Linux Terminal Emulator &lt;strong&gt;Terminator&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;The beauty about &lt;strong&gt;Terminator&lt;/strong&gt; is that it provides the ability to create multiple terminals in just one window. IT also allows you to change other terminal properties such as fonts, fonts colours, background color etc. In this post, I will try to explain installation of Terminator in Linux and give some tips that I frequently use.&lt;/p&gt;
-
-&lt;h3 id=&quot;installation&quot;&gt;Installation&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ubuntu-Based Distributions
-&lt;code class=&quot;highlighter-rouge&quot;&gt;
-$ sudo apt-get install terminator
-&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fedore &amp;amp; Other Derivatives
-&lt;code class=&quot;highlighter-rouge&quot;&gt;
-$ dnf install terminator
-&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That’s it. It is installed successfully.&lt;/p&gt;
-
-&lt;h3 id=&quot;usage--tips&quot;&gt;Usage &amp;amp; Tips&lt;/h3&gt;
-
-&lt;p&gt;After installation, just call the terminal with &lt;code class=&quot;highlighter-rouge&quot;&gt;CTRL + ALT + T&lt;/code&gt; 
-&lt;img src=&quot;/images/terminator/1.png&quot; alt=&quot;Initial Terminator Startup&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Right click to terminal and choose split-horizontally or vertically.
-&lt;img src=&quot;/images/terminator/2.png&quot; alt=&quot;Split&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As you can see, now we have two terminals in one window. You can navigate between terminals using &lt;code class=&quot;highlighter-rouge&quot;&gt;ALT+Arrow Keys&lt;/code&gt;
-&lt;img src=&quot;/images/terminator/3.png&quot; alt=&quot;Multiple Terminals&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You can further split terminals.
-&lt;img src=&quot;/images/terminator/4.png&quot; alt=&quot;Further Split&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Right click to &lt;strong&gt;Preferences&lt;/strong&gt;. You can customize your terminal as you wish.
-&lt;img src=&quot;/images/terminator/5.png&quot; alt=&quot;Preferences&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When you go &lt;strong&gt;Keybindings&lt;/strong&gt; tab, you will see that there is a keyboard shortcut for almost every operation. I prefer to use default shortcuts, but you can change if you want. 
-&lt;img src=&quot;/images/terminator/6.png&quot; alt=&quot;Keyboard Shortcuts&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here are some shortcuts that I use commonly:
-* Ctrl + Shift + O  –&amp;gt; Split Horizontally
-* Ctrl + Shift + E  –&amp;gt; Split Vertically
-* Ctrl + Shift + W  –&amp;gt; Close the Selected Terminal Window
-* Alt + Arrow Keys –&amp;gt; Navigate Between Terminal Windows
-* Ctrl + Shift + X –&amp;gt; (De)Maximise the Selected Terminal Window
-* Alt + A –&amp;gt; Select all Terminals (For example, very useful when you try to connect using ssh and you need more terminals)
-* Alt + G –&amp;gt; Deselect all Terminals&lt;/p&gt;
-
-&lt;p&gt;My terminal looks like below while I am working with ROS.
-&lt;img src=&quot;/images/terminator/7.png&quot; alt=&quot;My Terminal with ROS&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;That’s all for this post. I wish it would be useful :)&lt;/p&gt;
-</content>
-<summary></summary>
-</entry>
-</feed>
+&lt;p&gt;That’s all for this post. I wish you can get your visa at the first time you applied. If you have any questions, don’t hesitate to use comment section below. Study permit application might seem a bit complicated at first, but trust me it is not. Start to prepare documents early and don’t spend money on Visa Consultancy.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/canada-studypermit/canada-flag.jpg" /><media:content medium="image" url="http://localhost:4000/images/canada-studypermit/canada-flag.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
