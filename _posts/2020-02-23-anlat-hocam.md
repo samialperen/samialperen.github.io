@@ -9,3 +9,6 @@ image: /images/anlat-hocam/1.png
 
 {% include youtubePlayer.html id="aFQ40Mgse7Q" %}
 
+For English, scroll down.
+
+
