@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-16T19:00:05-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">Mathpix Snip: Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot.</title><link href="http://localhost:4000/2020/02/16/mathpix.html" rel="alternate" type="text/html" title="Mathpix Snip: Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot. " /><published>2020-02-16T00:00:00-05:00</published><updated>2020-02-16T00:00:00-05:00</updated><id>http://localhost:4000/2020/02/16/mathpix</id><content type="html" xml:base="http://localhost:4000/2020/02/16/mathpix.html">&lt;p&gt;&lt;img src=&quot;/images/mathpix/1.png&quot; alt=&quot;Ubuntu Logo&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-02T18:27:43-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Personal Blog of Sami Alperen Akgün</title><subtitle>Welcome to my personal blog! In this blog, I will try to share my experience and thoughts about academic life, travel, literature technology, music, movies and TV-series. You can use/share any information in here as long as you provide reference. </subtitle><entry><title type="html">ODTÜ ELEKTRİK ELEKTRONİK MÜHENDİSLİĞİ - Bölüm Tanıtımı</title><link href="http://localhost:4000/2020/02/23/anlat-hocam.html" rel="alternate" type="text/html" title="ODTÜ ELEKTRİK ELEKTRONİK MÜHENDİSLİĞİ - Bölüm Tanıtımı" /><published>2020-02-23T00:00:00-05:00</published><updated>2020-02-23T00:00:00-05:00</updated><id>http://localhost:4000/2020/02/23/anlat-hocam</id><content type="html" xml:base="http://localhost:4000/2020/02/23/anlat-hocam.html">&lt;p&gt;&lt;img src=&quot;/images/anlat-hocam/2.png&quot; alt=&quot;Anlat Hocam&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For English, scroll down.&lt;/p&gt;
+
+&lt;p&gt;2019 Mayıs ayında kaydedilen, içinde benim de bulunduğum (Basketbol tişörtlü benim) Orta Doğu Teknik Üniversitesi (ODTÜ) Elektrik Elektronik Mühendisliği Bölüm tanıtım videosunu aşağıda bulabilirsiniz. İyi seyirler!&lt;/p&gt;
+
+&lt;div class=&quot;auto-resizable-iframe&quot;&gt;
+  &lt;div&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/aFQ40Mgse7Q&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The video seen above is about ODTU/METU Electrical and Electronics Engineering Department, which is the place where I got my undergrad degree. The video includes an interview with me as well (I am the guy with basketball t-shirt). Unfortunately, there has not been any English subtitle, so I am so sorry about that. I just explained it in case you wonder :)&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/anlat-hocam/2.png" /><media:content medium="image" url="http://localhost:4000/images/anlat-hocam/2.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mathpix Snip: Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot.</title><link href="http://localhost:4000/2020/02/16/mathpix.html" rel="alternate" type="text/html" title="Mathpix Snip: Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot. " /><published>2020-02-16T00:00:00-05:00</published><updated>2020-02-16T00:00:00-05:00</updated><id>http://localhost:4000/2020/02/16/mathpix</id><content type="html" xml:base="http://localhost:4000/2020/02/16/mathpix.html">&lt;p&gt;&lt;img src=&quot;/images/mathpix/1.png&quot; alt=&quot;Ubuntu Logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Although LaTeX and Overleaf makes your life easy when it comes to write a document and cite many papers, managing equations in LaTeX might be cumbersome sometimes. At least, that is the case for me nowadays. The problem about LaTeX and equations is even if you know all the syntax, you still need to waste a lot of time to type them into the document.&lt;/p&gt;
 
@@ -623,110 +636,4 @@ I believe even one example is enough.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/berlin-guide/event7.jpg&quot; alt=&quot;Event7&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/berlin-guide/event6.jpg&quot; alt=&quot;Event6&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/berlin-guide/reichstag.jpg" /><media:content medium="image" url="http://localhost:4000/images/berlin-guide/reichstag.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)</title><link href="http://localhost:4000/2019/05/15/canada-studypermit.html" rel="alternate" type="text/html" title="How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)" /><published>2019-05-15T00:00:00-04:00</published><updated>2019-05-15T00:00:00-04:00</updated><id>http://localhost:4000/2019/05/15/canada-studypermit</id><content type="html" xml:base="http://localhost:4000/2019/05/15/canada-studypermit.html">&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/canada-flag.jpg&quot; alt=&quot;Canada Flag&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;general-information-and-required-documents&quot;&gt;General Information and Required Documents&lt;/h3&gt;
-
-&lt;p&gt;If you are going to Canada for educational purposes like language school, undergraduate/graduate studies, and you are going to stay more than 6 months, then you need to take a &lt;strong&gt;Study Permit&lt;/strong&gt;. Of course, this depends on your home country.&lt;/p&gt;
-
-&lt;p&gt;In this post, I am going to share my experience about getting Canada Study Permit. My hometown is &lt;strong&gt;Turkey&lt;/strong&gt;, so all information in here will be related to application from Turkey. Yet, general procedure is pretty much same. Only some documents might differ.&lt;/p&gt;
-
-&lt;p&gt;I followed &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html&quot;&gt;Canada Immigration and Citizenship website&lt;/a&gt; as a main source. You should check it out for more information.&lt;/p&gt;
-
-&lt;p&gt;First of all, the school that you are accepted in Canada should be one of the designated learning institutions (DLI). According to the Canada Immigration and Citizenship website, a designated learning institution (DLI) is a school approved by a provincial or territorial government to host international students. You will need an acceptance letter from a DLI. Check whether your school is a DLI or not using &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html&quot;&gt;this&lt;/a&gt; link.&lt;/p&gt;
-
-&lt;p&gt;I prepared my documents by taking reference &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/get-documents.html&quot;&gt;Canada Immigration and Citizenship website document list&lt;/a&gt;. Here are the necessary documents:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Proof of acceptance (Acceptance letter from a DLI)&lt;/li&gt;
-  &lt;li&gt;Valid Passport and Old Passports (if you have)&lt;/li&gt;
-  &lt;li&gt;One Digital Biometric Photo&lt;/li&gt;
-  &lt;li&gt;Proof of financial support:
-    &lt;ul&gt;
-      &lt;li&gt;A letter from the school giving you money. It should include the amount of funding you will get with tuition fee. (personally I had just one acceptance letter from the university. The funding amount is written on that, but Tuition isn’t)&lt;/li&gt;
-      &lt;li&gt;My bank statements for the past 6 months&lt;/li&gt;
-      &lt;li&gt;Sponsorship Letter from my father. &lt;a href=&quot;/static/canada-studypermit/sponsorship-template.docx&quot;&gt;Here&lt;/a&gt; is the template to download. Change it according to your situation. I just provided it to give you a clue about its format.&lt;/li&gt;
-      &lt;li&gt;My sponsor’s 6 month salary roll&lt;/li&gt;
-      &lt;li&gt;My sponsor’s bank statements (I didn’t provide)&lt;/li&gt;
-      &lt;li&gt;House Title Deed (if applicable)&lt;/li&gt;
-      &lt;li&gt;Vehicle License (if applicable)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Letter of explanation: This is probably the most important document of yours. You need to clearly explain why you want to take study permit. You can attach any file you want to letter of explanation. Please don’t forget that this file is the only thing that gives you a chance to convince visa officer. It is stated as optional in the website, but I personally believe that it should be MUST! &lt;a href=&quot;/static/canada-studypermit/letter-of-explanation-template.docx&quot;&gt;Here&lt;/a&gt; is the template to download. I attached below files to my letter of explanation:
-    &lt;ul&gt;
-      &lt;li&gt;Student Certificate&lt;/li&gt;
-      &lt;li&gt;TOEFL Score&lt;/li&gt;
-      &lt;li&gt;GRE Score&lt;/li&gt;
-      &lt;li&gt;Transcript&lt;/li&gt;
-      &lt;li&gt;Curriculum Vitae (CV)&lt;/li&gt;
-      &lt;li&gt;Criminal Record (e-devlet)&lt;/li&gt;
-      &lt;li&gt;Letter of Acceptance from Universities in other countries&lt;/li&gt;
-      &lt;li&gt;My previous passport&lt;/li&gt;
-      &lt;li&gt;My National ID (Turkey)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Minimum amount of money that you need to show for financial support is stated as Tuition + 10.000 CAD per year for one  student (Outside Quebec, 2019 Year). You should check Canada Immigration website above to see the required amount applicable for you.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; I personally didn’t provide any accommodation arrangement or flight tickets to get study permit.&lt;/p&gt;
-
-&lt;h3 id=&quot;how-to-apply&quot;&gt;How to Apply?&lt;/h3&gt;
-
-&lt;p&gt;You can apply for study permit in either &lt;strong&gt;online&lt;/strong&gt; or via &lt;strong&gt;VFS Global&lt;/strong&gt;. VFS Global is a legal intermediary establishment for Canada visa applications. Depending on your country, there might be another establishment rather than VFS Global.&lt;/p&gt;
-
-&lt;p&gt;I preferred to apply online since it is easy and you don’t have to give extra money to VFS Global. To apply online, first visit &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html&quot;&gt;this&lt;/a&gt; link to create an account.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/1.png&quot; alt=&quot;Sign Up Options&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There are two different sign up options: via &lt;strong&gt;Sign-in Partner&lt;/strong&gt; or via &lt;strong&gt;GCkey&lt;/strong&gt;. Sign-in Partner option is for the people who have a Canadian bank account. Use GCkey if you don’t have Canadian bank account or a partner bank account (which is probably your case if you are applying in Turkey).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/2.png&quot; alt=&quot;GCkey Sign Up&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;During sign-up process, please be careful and provide necessary information correctly. Moreover, you need to create some security questions with answers for yourself. These questions and answers will be super important since you are going to use one of them at each time you enter the &lt;strong&gt;CiC&lt;/strong&gt; website. Therefore, don’t forget to take a note!&lt;/p&gt;
-
-&lt;p&gt;After signing in to your account, you need to create a new application. For this purpose, scroll down &lt;strong&gt;Start an Application&lt;/strong&gt; section and click &lt;strong&gt;Apply to come to Canada&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/3.png&quot; alt=&quot;Start an Application&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Click &lt;strong&gt;Visitor visa, study and/or work permit&lt;/strong&gt; button.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/4.png&quot; alt=&quot;Study Permit Button&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Now you will need to fill out a survey to find out whether you are eligible to apply a study permit. This survey at the end creates a personalized document checklist for your account to upload necessary documents.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/5.png&quot; alt=&quot;Application Survey&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You can save your answers and exit the survey anytime you want using &lt;strong&gt;Save and Exit Questionnaire&lt;/strong&gt; button at the bottom left. You can proceed next pages of survey using &lt;strong&gt;Next&lt;/strong&gt; button at the bottom right.&lt;/p&gt;
-
-&lt;p&gt;After completion of the survey, you should be able to see &lt;strong&gt;Documents to Submit&lt;/strong&gt; page like below.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/6.png&quot; alt=&quot;Documents to Submit&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As you can see, there are some other extra documents to upload:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Application for Study Permit Made Outside of Canada (IMM1294)&lt;/li&gt;
-  &lt;li&gt;Family Information (IMM5645)&lt;/li&gt;
-  &lt;li&gt;Schedule 1 - Application for a Temporary Resident Visa Made Outside Canada (IMM5257)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can download these documents by clicking document name.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; You need to use new versions of &lt;strong&gt;Adobe Reader&lt;/strong&gt; to open and edit these documents.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; You need to upload &lt;strong&gt;Letter of Explanation&lt;/strong&gt; with its attachments to &lt;strong&gt;Client Information&lt;/strong&gt; part.&lt;/p&gt;
-
-&lt;p&gt;After uploading all the documents, you will pay the visa application fee online and your application will be completed. When there is an update about your document, you will receive an email to check your &lt;strong&gt;CiC&lt;/strong&gt; account.&lt;/p&gt;
-
-&lt;p&gt;To read the message, you need to enter your account and click &lt;strong&gt;Check Full Application Status&lt;/strong&gt; under &lt;strong&gt;Vie the applications you submitted&lt;/strong&gt; part.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/8.png&quot; alt=&quot;Check Full Applcation Status&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Scrool down to &lt;strong&gt;Messages about your application&lt;/strong&gt; part and you will see the messages regarding your application. Click them to read.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/canada-studypermit/7.png&quot; alt=&quot;CiC Messages&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you haven’t been in Canada before, you may need to give &lt;strong&gt;Biometrics&lt;/strong&gt;. Thanks to survey you have filled out, if you need to give biometrics, you are going to pay necessary &lt;strong&gt;Biometrics Fee&lt;/strong&gt; and after a few days (for ex, 1 day for my application) you will receive a message &lt;strong&gt;Biometrics Collection Letter&lt;/strong&gt; which requests biometrics of yours. You need to visit &lt;strong&gt;VFS Global&lt;/strong&gt; to give biometrics. All detailed information is covered in received &lt;strong&gt;Biometrics Collection Letter&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;After giving Biometrics, there is nothing to do left. All you need to do is to wait. I got my study permit at my first attempt and it took exactly &lt;strong&gt;1 Month&lt;/strong&gt;. I paid &lt;strong&gt;150 CaD Study Permit Fee&lt;/strong&gt; and &lt;strong&gt;85 CaD Biometrics Fee&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;That’s all for this post. I wish you can get your visa at the first time you applied. If you have any questions, don’t hesitate to use comment section below. Study permit application might seem a bit complicated at first, but trust me it is not. Start to prepare documents early and don’t spend money on Visa Consultancy.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/canada-studypermit/canada-flag.jpg" /><media:content medium="image" url="http://localhost:4000/images/canada-studypermit/canada-flag.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/berlin-guide/event6.jpg&quot; alt=&quot;Event6&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/berlin-guide/reichstag.jpg" /><media:content medium="image" url="http://localhost:4000/images/berlin-guide/reichstag.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
