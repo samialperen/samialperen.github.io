@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "How to Find a Flat in Europe (Specifically in Berlin)?"
+author: Alperen
 date:   2019-03-02
 image: /images/accommodation_berlin/berlinfromreichstag.JPG
+categories:
+  - Travel
 ---
 ![Berlin Cover](/images/accommodation_berlin/berlinfromreichstag.JPG)
 <center> Picture 1: View from the top of Reichstag Building </center>

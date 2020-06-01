@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Terminator: A Linux Terminal Emulator with Multiple Terminals in One"
+author: Alperen
 date:   2019-04-21
 image: /images/terminator/8.png
+categories:
+  - Software
 ---
 ![My Terminal with ROS](/images/terminator/8.png)
 

@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "How to study for the TOEFL? Where to Start?"
+author: Alperen
 date:   2019-03-08
 image: /images/toefl/toefl.png
+categories:
+  - Academic
 ---
 ![TOEFL](/images/toefl/toefl.png)
 

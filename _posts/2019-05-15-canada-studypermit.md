@@ -1,8 +1,12 @@
 ﻿---
 layout: post
 title:  "How to Get Canada Study Permit? (Kanada Öğrenci Vizesi Nasıl Alınır?)"
+author: Alperen
 date:   2019-05-15
 image: /images/canada-studypermit/canada-flag.jpg
+categories: 
+  - Travel
+  - Seyahat
 ---
 
 ![Canada Flag](/images/canada-studypermit/canada-flag.jpg)

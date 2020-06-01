@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "How to Apply a Graduate Program?"
+author: Alperen
 date:   2019-04-03
 image: /images/graduate-application/grad-school.jpg
+categories: 
+  - Academic
 ---
 ![Graduate Application](/images/graduate-application/grad-school.jpg)
 

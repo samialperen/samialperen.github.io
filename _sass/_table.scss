@@ -1,0 +1,39 @@
+#samialperentable {
+	width: 100%;
+	margin-bottom: 15px;
+	border-collapse: collapse; 
+
+}
+
+#samialperentable caption {
+	font-weight: bold;
+	padding-bottom: 5px;
+} 
+
+#samialperentable th {
+	font-weight: bold;
+	color: #fff;
+	border-bottom: 1px #ddd solid;
+	background: $clemson-purple;
+	padding: 7px 3px 7px 10px
+}
+
+
+#samialperentable td {
+	padding: 3px 3px 3px 10px;	
+	border-bottom: 1px #ddd solid;
+}
+
+#samialperentable tr:nth-child(even) {background: #f9f9f9}
+#samialperentable tr:nth-child(odd) {background: #fdfdfd}
+
+
+#stargazer table {
+  margin: 0px auto;
+}
+
+
+#stargazer td {
+  padding-left: 10px;
+  padding-right: 10px;
+}

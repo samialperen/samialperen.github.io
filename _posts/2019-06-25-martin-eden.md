@@ -1,8 +1,11 @@
 ﻿---
 layout: post
 title:  "Jack London - Martin Eden Kitabı ve Sosyal Sınıflar Üzerine"
+author: Alperen
 date:   2019-06-25
 image: /images/martin-eden/martin.jpg
+categories:
+  - Edebiyat
 ---
 
 ![Lecturer](/images/martin-eden/martin.jpg)

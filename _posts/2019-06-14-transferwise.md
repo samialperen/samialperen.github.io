@@ -1,8 +1,13 @@
 ﻿---
 layout: post
 title:  "TransferWise: Send Money Abroad at Lowest Possible Cost"
+author: Alperen
 date:   2019-06-14
 image: /images/transferwise/tw.webp
+categories:
+  - Travel 
+  - Other
+
 ---
 
 ![TransferWise](/images/transferwise/tw.webp)

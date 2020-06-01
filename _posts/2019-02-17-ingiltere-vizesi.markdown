@@ -1,10 +1,12 @@
 ﻿---
-
 layout: post
 title:  "İngiltere Erasmus Stajı Vizesi Nasıl Alınır? (Tier 5 Vize Başvurusu)"
+author: Alperen
 date:   2019-02-17
 image: /images/erasmus-staji-ingiltere/trafalgar.JPG
-
+categories:
+  - Travel
+  - Seyahat
 ---
 
 ![trafalgar square](/images/erasmus-staji-ingiltere/trafalgar.JPG)

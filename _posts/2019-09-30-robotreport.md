@@ -1,8 +1,11 @@
 ﻿---
 layout: post
 title:  "The Robot Report: Website to Explore News related to Robotics Applications"
+author: Alperen
 date:   2019-09-30
 image: /images/robot-report/1.jpg
+categories:
+  - Academic
 ---
 
 ![The Robot Report](/images/robot-report/1.jpg)

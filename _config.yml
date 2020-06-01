@@ -1,4 +1,5 @@
-title: Personal Blog of Sami Alperen Akgün
+# WebSite settings
+title: S. Alperen Akgün
 email: sami.alperen.akgun@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Welcome to my personal blog! In this blog, I will
@@ -11,13 +12,15 @@ url: "https://samialperen.github.io"
 # Social media 
 github_username:  samialperen
 linkedin_username: sami-alperen-akgun
+google_scholar_id: 22An24AAAAAJ
 
+# Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 
 # Add comments
-disqus:
-    shortname: https-samialperen-github-io
+#disqus:
+#    shortname: https-samialperen-github-io
     
 # Add google-analytics
 google_analytics: UA-138872115-1   
@@ -25,3 +28,13 @@ google_analytics: UA-138872115-1
 # Improve google search result
 plugins_dir:
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+# Other options
+permalink: blog/:year/:month/:title/
+jobtitle: "Master of Applied Science Student"
+excerpt_separator: "<!--more-->"
+
+
+#exclude: ['*.Rmd']

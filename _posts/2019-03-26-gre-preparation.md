@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "How to Study for the GRE?"
+author: Alperen
 date:   2019-03-26
 image: /images/gre/gre-logo.jpg
+categories:
+  - Academic
 ---
 ![GRE](/images/gre/gre-logo.jpg)
 

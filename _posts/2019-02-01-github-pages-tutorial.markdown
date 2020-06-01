@@ -1,9 +1,13 @@
 ﻿---
 layout: post
 title:  "How to Create Your Own Blog with Github Pages and Jekyll"
+author: Alperen
 date:   2019-02-01 11:49:13 +0300
 comments: true
 image: /images/github-pages-tutorial/github-pages-cover.jpeg
+categories:
+  - Software
+  - Academic
 ---
 
 ![Github Pages Cover](/images/github-pages-tutorial/github-pages-cover.jpeg)

@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "ODTÜ ELEKTRİK ELEKTRONİK MÜHENDİSLİĞİ - Bölüm Tanıtımı"
+author: Alperen
 date:   2020-02-23
 image: /images/anlat-hocam/2.png
+categories:
+  - Other
 ---
 
 ![Anlat Hocam](/images/anlat-hocam/2.png)

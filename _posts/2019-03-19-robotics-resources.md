@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Best Sources to Follow Robotics Research and Stay Tuned"
+author: Alperen
 date:   2019-03-19
 image: /images/robotics-sources/Robotics2.jpg
+categories:
+  - Academic
 ---
 ![Robotics](/images/robotics-sources/Robotics2.jpg)
 

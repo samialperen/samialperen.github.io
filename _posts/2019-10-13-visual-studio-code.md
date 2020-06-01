@@ -1,8 +1,11 @@
 ﻿---
 layout: post
 title:  "Visual Studio Code: Free Source-Code Editor for All Languages"
+author: Alperen
 date:   2019-10-13
 image: /images/visual-studio-code/1.jpg
+categories:
+  - Software
 ---
 
 ![Visual Studio Code](/images/visual-studio-code/1.jpg)

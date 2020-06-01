@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Best Free Online Courses (Especially for ECE, CS and ME Students)"
+author: Alperen
 date:   2019-04-10
 image: /images/best-courses/best-courses.jpg
+categories:
+  - Academic
 ---
 ![Best Courses](/images/best-courses/best-courses.jpg)
 

@@ -1,8 +1,11 @@
 ﻿---
 layout: post
 title:  "Berlin Living & Travel Guide"
+author: Alperen
 date:   2019-06-02
 image: /images/berlin-guide/reichstag.jpg
+categories:
+  - Travel
 ---
 ![Reichstag](/images/berlin-guide/reichstag.jpg)
 
