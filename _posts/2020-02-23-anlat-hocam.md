@@ -14,7 +14,8 @@ For English, scroll down.
 
 2019 Mayıs ayında kaydedilen, içinde benim de bulunduğum (Basketbol tişörtlü benim) Orta Doğu Teknik Üniversitesi (ODTÜ) Elektrik Elektronik Mühendisliği Bölüm tanıtım videosunu aşağıda bulabilirsiniz. İyi seyirler!
 
-{% include youtubePlayer.html id="aFQ40Mgse7Q" %}
+<iframe width="100%" height="478" src="https://www.youtube.com/embed/aFQ40Mgse7Q" frameborder="0" allowfullscreen></iframe>
+<br />
 
 The video seen above is about ODTU/METU Electrical and Electronics Engineering Department, which is the place where I got my undergrad degree. The video includes an interview with me as well (I am the guy with basketball t-shirt). Unfortunately, there has not been any English subtitle, so I am so sorry about that. I just explained it in case you wonder :) 
 
