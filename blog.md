@@ -4,6 +4,16 @@ title: Blog
 permalink: /blog/
 ---
 
+I try to blog about everything and share my experience. Although I mostly focus on academic life, robotics and software development, this is not a professional blog, so it is not surprising to encounter various topics in this blog. 
+
+You can find full list of my blog posts chronically from most recent to oldest below. If you are interested in posts related to specific topic, here is the link to see posts divided based on categories: 
+
+<a href="/categories">Categories on my Blog</a>
+
+Here is a list of all categories with number of blog posts:
+
+{% assign sorted_cats = site.categories | sort  %}{% for category in sorted_cats %}{% if forloop.last == true %}and {% endif %}<a href="/categories/#{{category[0]}}" style="font-weight:normal;"> {{category[0] | camelcase }}</a> ({{ category[1].size  }}){% if forloop.last == false %}, {% endif %}{% endfor %} 
+
 
 <ul id="archive">
 {% for post in site.posts %}
