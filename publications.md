@@ -6,6 +6,15 @@ permalink: /publications/
 
 <hr style="clear:both;visibility: hidden;" />
 
-O. OZDEMIR, S. A. AKGUN, and U. ACIKGOZ.  ”Mobile Robotic Platform Design for Mapping and Autonomous Navigation Research”.  In Turkish National Robotic Conference(ToRK 2019), Istanbul, Turkey, 2019.  
+* **Sami Alperen Akgun**, Moojan Ghafurian, Mark Crowley, and Kerstin Dautenhahn. 2020.  
+"[Using Emotions to Complement Multi-Modal Human-Robot Interaction in Urban Search and Rescue Scenarios](https://dl.acm.org/doi/10.1145/3382507.3418871)"  
+22nd ACM International Conference on Multimodal Interaction
 
-M. ÇETİNKAYA, S. A. AKGÜN, A. M. ERKMEN and İ. ERKMEN, "[Exact Kalman Filtering of Respiratory Motion](https://doi.org/10.1109/CEIT.2018.8751860)," 2018 6th International Conference on Control Engineering & Information Technology (CEIT), Istanbul, Turkey, 2018, pp. 1-6.
+* Oguz Ozdemir, **Sami Alperen Akgun**, and Ugur Acikgoz. 2019.  
+  ”Mobile Robotic Platform Design for Mapping and Autonomous Navigation Research”  
+  Turkish National Robotic Conference (ToRK 2019)  
+
+* Mehmet Cetinkaya, **Sami Alperen Akgun**, Aydan M. Erkmen and Ismet Erkmen. 2018.  
+"[Exact Kalman Filtering of Respiratory Motion](https://doi.org/10.1109/CEIT.2018.8751860)"  
+6th International Conference on Control Engineering & Information Technology (CEIT)
+

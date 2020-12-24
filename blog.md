@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-I try to blog about everything and share my experience. Although I mostly focus on academic life, robotics and software development, this is not a professional blog, so it is not surprising to encounter various topics in this blog. 
+I try to blog about everything and share my experience here. Although I mostly focus on academic life, robotics and software development, you can read blog posts on various topics here. 
 
 You can find full list of my blog posts chronically from most recent to oldest below. If you are interested in posts related to specific topic, here is the link to see posts divided based on categories:
 <a href="/categories" style="font-size:150%">Posts Based on Categories</a>
