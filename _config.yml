@@ -38,3 +38,8 @@ excerpt_separator: "<!--more-->"
 
 
 #exclude: ['*.Rmd']
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name
