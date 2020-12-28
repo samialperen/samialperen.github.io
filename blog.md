@@ -29,8 +29,9 @@ You can find full list of my blog posts chronically from most recent to oldest b
 
 {% endif %} <!-- {{ post.categories | first }} -->
 <strong style="font-size:150%; font-family: 'Titillium Web', sans-serif; float:right; padding-right: .5em">{{ post.date | date: '%d %b %Y' }}</strong> 
-
-{% if post.image %}<a href="{{ post.url | prepend: site.baseurl }}" ><img src="{{ post.image }}" /></a>{% endif %}
+<p style="text-align:center">
+{% if post.image %}<a href="{{ post.url | prepend: site.baseurl }}" ><img src="{{ post.image }}" style="width:80%;" /></a>{% endif %}
+</p>
 </span> 
 
 </li>
