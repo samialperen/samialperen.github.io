@@ -10,7 +10,7 @@ image: /images/project-images/bachelor-slam/robot.jpg
 This project was my bachelor capstone project. We were asked to design and implement a mobile robot
 to create the map of an unknown indoor environment. 
 
-The project is about:
+Keywords about the project:
 * Custom made cost-effective LIDAR 
     * Communication with ROS
 * Simultaneous Localization and Mapping (SLAM)
@@ -27,8 +27,17 @@ The project is about:
 * PCB Design
 * 3D Printing
 
+We got the following awards with this project:
+* Second Best Research Project
+    * University Students Research Projects Competition
+    * The Scientific and Technological Research Council of Turkey (TUBITAK)
+* Advanced Hardware Design Award
+    * METU EEE Capstone Project Fair
 
-Here is a mapping result after robot autonomosly navigated in the unknown area:
+<br />
+
+
+Here is a mapping result after robot autonomosly navigated in an unknown area:
 ![mapping-result](/images/project-images/bachelor-slam/mapping-result.jpg)
 
 Here is a video of the robot in action:
