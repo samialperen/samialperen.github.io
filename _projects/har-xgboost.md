@@ -31,6 +31,6 @@ Keywords about the project:
     * seaborn
 
 # More Information
-To learn more about the project, you can read the report [Human Activitiy Recognition Using XGBoost and PCA](https://github.com/samialperen/har_xgboost/blob/master/doc/HAR_using_XGBoost.pdf) that I wrote before.  
+To learn more about the project, you can read the report [Human Activitiy Recognition Using XGBoost and PCA](https://github.com/samialperen/har_xgboost/blob/master/doc/HAR_using_XGBoost.pdf).
 
 

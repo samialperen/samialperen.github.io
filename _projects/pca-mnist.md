@@ -23,6 +23,6 @@ Keywords about the project:
 
 
 # More Information
-To learn more about the project, you can read the report [Implementation of Principal Component Analysis (PCA) with Python and Dimensionality Reduction with MNIST Dataset](https://github.com/samialperen/pca_mnist/blob/master/doc/Implementation_of_Principal_Component_Analysis_PCA__and_Understanding_PCA_with_MNISTDataset.pdf) that I wrote before.  
+To learn more about the project, you can read the report [Implementation of Principal Component Analysis (PCA) with Python and Dimensionality Reduction with MNIST Dataset](https://github.com/samialperen/pca_mnist/blob/master/doc/Implementation_of_Principal_Component_Analysis_PCA__and_Understanding_PCA_with_MNISTDataset.pdf). 
 
 
