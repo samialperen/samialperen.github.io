@@ -55,25 +55,25 @@ The approach followed for this purpose:
 
 * Read original image and adjust contrast 
 <p float="left">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/computer_vision/original_img.jpg" width="45%" height="45%" alt="Original Image">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/computer_vision/contrast.jpg" width="45%" height="45%"> 
+  <img src="/images/project-images/rop-classification/computer_vision/original_img.jpg" width="45%" height="45%" alt="Original Image">
+  <img src="/images/project-images/rop-classification/computer_vision/contrast.jpg" width="45%" height="45%"> 
 </p>
 * Filter edges and apply local threshold 
 <p float="left">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/computer_vision/edges.jpg" width="45%" height="45%">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/computer_vision/local_threshold.jpg" width="40%" height="40%"> 
+  <img src="/images/project-images/rop-classification/computer_vision/edges.jpg" width="45%" height="45%">
+  <img src="/images/project-images/rop-classification/computer_vision/local_threshold.jpg" width="40%" height="40%"> 
 </p>
 * Bridge the gaps with morphological operations and finally select the longest/thickest vessels to obtain final image
 <p float="left">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/computer_vision/fill_gaps.jpg" width="45%" height="45%">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/computer_vision/biggest_vessels.jpg" width="45%" height="45%"> 
+  <img src="/images/project-images/rop-classification/computer_vision/fill_gaps.jpg" width="45%" height="45%">
+  <img src="/images/project-images/rop-classification/computer_vision/biggest_vessels.jpg" width="45%" height="45%"> 
 </p>
 
 
 
 ### 2-) Segmenting Using Convolutional Neural Network U-Net with Transfer Learning
 * A CNN architecture aimed for segmentation named **U-Net** (as shown below) was used 
-<img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/CNN/unet.png" width="50%" height="50%">
+<img src="/images/project-images/rop-classification/CNN/unet.png" width="50%" height="50%">
 
 * Train it with [Imagenet](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras)
 
@@ -82,13 +82,13 @@ The approach followed for this purpose:
 
 * Here are example input-output pairs where left image is the original image and right image is the output of U-Net
 <p float="left">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/CNN/input1.jpg" width="40%" height="40%">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/CNN/output1.png" width="40%" height="40%">
+  <img src="/images/project-images/rop-classification/CNN/input1.jpg" width="40%" height="40%">
+  <img src="/images/project-images/rop-classification/CNN/output1.png" width="40%" height="40%">
 </p>
 
 <p float="left">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/CNN/input2.jpg" width="40%" height="40%">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/CNN/output2.jpg" width="38%" height="38%">
+  <img src="/images/project-images/rop-classification/CNN/input2.jpg" width="40%" height="40%">
+  <img src="/images/project-images/rop-classification/CNN/output2.jpg" width="38%" height="38%">
 </p>
 
 ## Diagnosis of Retinopath of Prematurity (ROP) Using Segmented Vessels
@@ -96,7 +96,7 @@ The approach followed for this purpose:
 ### Marking App to Collect Training Data from ROP Specialists
 In order to classify retinal images into three categories depending on the level of ROP (plus, preplus and normal/healthy), the [marking app](https://github.com/samialperen/rop_disease_classification/tree/master/marking_app_for_doctors) was developed. It is a GUI to allow medical doctors to manually label retina images as plus, preplus or normal/healthy. This approach allows us to collect enough training data for classification. 
 
-<img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/marking_app/gui.png" width="50%" height="50%">
+<img src="/images/project-images/rop-classification/marking_app/gui.png" width="50%" height="50%">
 
 ### Classification of ROP Disease
 * Previously trained U-Net (with Imagenet) network was trained with segmented version of data that we collected. 
@@ -104,16 +104,16 @@ In order to classify retinal images into three categories depending on the level
 
 * Correctly predicted examples: (Normal, Preplus and Plus Starting from Left to Right)
 <p float="left">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/diagnosis/correct_normal.jpg" width="30%" height="30%">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/diagnosis/correct_preplus.jpg" width="30%" height="30%">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/diagnosis/correct_plus.jpg" width="30%" height="30%">
+  <img src="/images/project-images/rop-classification/diagnosis/correct_normal.jpg" width="30%" height="30%">
+  <img src="/images/project-images/rop-classification/diagnosis/correct_preplus.jpg" width="30%" height="30%">
+  <img src="/images/project-images/rop-classification/diagnosis/correct_plus.jpg" width="30%" height="30%">
 </p>
 
 * Wrong predictions: (Left: Normal Predicted as Preplus;  Middle: Preplus Predicted as Normal;  Right: Preplus Predicted as Plus)
 <p float="left">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/diagnosis/normal_predicted_preplus.jpg" width="30%" height="30%">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/diagnosis/preplus_predicted_normal.jpg" width="30%" height="30%">
-  <img src="https://github.com/samialperen/rop_disease_classification/blob/master/media/diagnosis/preplus_predicted_plus.jpg" width="30%" height="30%">
+  <img src="/images/project-images/rop-classification/diagnosis/normal_predicted_preplus.jpg" width="30%" height="30%">
+  <img src="/images/project-images/rop-classification/diagnosis/preplus_predicted_normal.jpg" width="30%" height="30%">
+  <img src="/images/project-images/rop-classification/diagnosis/preplus_predicted_plus.jpg" width="30%" height="30%">
 </p>
 
 
