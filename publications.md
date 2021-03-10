@@ -26,7 +26,7 @@ permalink: /publications/
 # Manuscripts in Preperation, or Under Review
 * **Sami Alperen Akgun**, Hamza Mahdi, Shahed Saled and Kerstin Dautenhahn. 2021.  
   "A Systematic Literature Review of The History of Social Robots — Past, Present and Future"  
-  In preperation.
+  In preperation
 
 * **Sami Alperen Akgun**, Hamza Mahdi, Shahed Saleh, Moojan Ghafurian, Mark Crowley, and Kerstin Dautenhahn. 2021.  
   "Design and Implementation of Affective Expressions for Appearance Constrained Robots"  
