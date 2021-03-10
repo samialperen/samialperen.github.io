@@ -7,7 +7,7 @@ permalink: /publications/
 <hr style="clear:both;visibility: hidden;" />
 
 * **Sami Alperen Akgun**, Moojan Ghafurian, Mark Crowley and Kerstin Dautenhahn. 2021.    
-  "Integrating Affective Expressions into the Search and Rescue Context in order to Improve Non-Verbal Human-Robot Interaction"
+  "Integrating Affective Expressions into the Search and Rescue Context in order to Improve Non-Verbal Human-Robot Interaction"  
   At Exploring Applications for Autonomous Non-Verbal Human-Robot Interactions Workshop of ACM/IEEE International Conference on Human-Robot Interaction 2021 (HRI'21)
 
 * **Sami Alperen Akgun**, Moojan Ghafurian, Mark Crowley, and Kerstin Dautenhahn. 2020.  
