@@ -52,7 +52,7 @@ $ g++ --version
             "args": [
                 "-g",
                 "-std=c++17",
-                "${file}",
+                "${fileDirname}/*.cpp", // to allow compilation of all cpp files in the same folder
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
