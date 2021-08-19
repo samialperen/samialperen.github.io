@@ -6,6 +6,10 @@ permalink: /publications/
 
 <hr style="clear:both;visibility: hidden;" />
 
+* Moojan Ghafurian, **Sami Alperen Akgun**, Mark Crowley and Kerstin Dautenhahn. 2021.    
+  "Recognition of a Robot’s Affective Expressions under Conditions with Limited Visibility"  
+  18th International Conference promoted by the IFIP Technical Committee 13 on HCI (INTERACT 2021)
+
 * **Sami Alperen Akgun**, Moojan Ghafurian, Mark Crowley and Kerstin Dautenhahn. 2021.    
   "Integrating Affective Expressions into the Search and Rescue Context in order to Improve Non-Verbal Human-Robot Interaction"  
   Exploring Applications for Autonomous Non-Verbal Human-Robot Interactions Workshop of ACM/IEEE International Conference on Human-Robot Interaction 2021 (HRI'21)
