@@ -6,6 +6,10 @@ permalink: /publications/
 
 <hr style="clear:both;visibility: hidden;" />
 
+* Austin Kothig, John Munoz, **Sami Alperen Akgun**, Alexander M. Aroyo and Kerstin Dautenhahn. 2021.    
+  "Connecting Humans and Robots Using Physiological Signals - Closing-The-Loop in HRI"  
+  30th IEEE International Conference on Robot and Human Interactive Communication, RO-MAN 2021
+
 * Moojan Ghafurian, **Sami Alperen Akgun**, Mark Crowley and Kerstin Dautenhahn. 2021.    
   "Recognition of a Robot’s Affective Expressions under Conditions with Limited Visibility"  
   18th International Conference promoted by the IFIP Technical Committee 13 on HCI (INTERACT 2021)
@@ -30,7 +34,7 @@ permalink: /publications/
 # Manuscripts in Preperation, or Under Review
 * **Sami Alperen Akgun**, Hamza Mahdi, Shahed Saled and Kerstin Dautenhahn. 2021.  
   "A Systematic Literature Review of The History of Social Robots — Past, Present and Future"  
-  In preperation
+  Under review
 
 * **Sami Alperen Akgun**, Hamza Mahdi, Shahed Saleh, Moojan Ghafurian, Mark Crowley, and Kerstin Dautenhahn. 2021.  
   "Design and Implementation of Affective Expressions for Appearance Constrained Robots"  
