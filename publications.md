@@ -6,12 +6,16 @@ permalink: /publications/
 
 <hr style="clear:both;visibility: hidden;" />
 
+* **Sami Alperen Akgun**. 2021.    
+  "[Integrating Affective Expressions into Robot-Assisted Search and Rescue to Improve Human-Robot Communication](https://uwspace.uwaterloo.ca/handle/10012/17380)"    
+  UWSpace, Master's of Applied Science Thesis.
+
 * Austin Kothig, John Munoz, **Sami Alperen Akgun**, Alexander M. Aroyo and Kerstin Dautenhahn. 2021.    
-  "Connecting Humans and Robots Using Physiological Signals - Closing-The-Loop in HRI"  
+  "[Connecting Humans and Robots Using Physiological Signals - Closing-The-Loop in HRI](https://ieeexplore.ieee.org/abstract/document/9515383)"  
   30th IEEE International Conference on Robot and Human Interactive Communication, RO-MAN 2021
 
 * Moojan Ghafurian, **Sami Alperen Akgun**, Mark Crowley and Kerstin Dautenhahn. 2021.    
-  "Recognition of a Robot’s Affective Expressions under Conditions with Limited Visibility"  
+  "[Recognition of a Robot’s Affective Expressions under Conditions with Limited Visibility](https://link.springer.com/chapter/10.1007/978-3-030-85613-7_31)"  
   18th International Conference promoted by the IFIP Technical Committee 13 on HCI (INTERACT 2021)
 
 * **Sami Alperen Akgun**, Moojan Ghafurian, Mark Crowley and Kerstin Dautenhahn. 2021.    
