@@ -10,4 +10,4 @@ categories:
 In today's **Agile** software development environment where there are frequent changes to code and more dynamic infrastructure usage, **DevOps** approaches become handy. The post [Understanding DevOps](https://www.redhat.com/en/topics/devops) by Red Hat gives a nice overview. 
 
 
-In case the posts are not available anymore, [here](/docs/understanding-ros/Understanding DevOps.pdf) is the pdf version.
+In case the posts are not available anymore, [here](/docs/understanding-devops/Understanding DevOps.pdf) is the pdf version.
