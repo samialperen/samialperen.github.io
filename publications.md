@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 <hr style="clear:both;visibility: hidden;" />
+* Hamza Mahdi, **Sami Alperen Akgun**, Shahed Saleh and Kerstin Dautenhahn. 2022.    
+  "[A survey on the design and evolution of social robots — Past, present and future](https://www.sciencedirect.com/science/article/pii/S0921889022001117)"  
+  Robotics and Autonomous Systems Journal Volume 156
 
 * **Sami Alperen Akgun**. 2021.    
   "[Integrating Affective Expressions into Robot-Assisted Search and Rescue to Improve Human-Robot Communication](https://uwspace.uwaterloo.ca/handle/10012/17380)"    
@@ -36,10 +39,6 @@ permalink: /publications/
 
 
 # Manuscripts in Preperation, or Under Review
-* **Sami Alperen Akgun**, Hamza Mahdi, Shahed Saled and Kerstin Dautenhahn. 2021.  
-  "A Systematic Literature Review of The History of Social Robots — Past, Present and Future"  
-  Under review
-
 * **Sami Alperen Akgun**, Hamza Mahdi, Shahed Saleh, Moojan Ghafurian, Mark Crowley, and Kerstin Dautenhahn. 2021.  
   "Design and Implementation of Affective Expressions for Appearance Constrained Robots"  
   In preparation
