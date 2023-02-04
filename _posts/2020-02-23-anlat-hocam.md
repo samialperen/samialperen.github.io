@@ -19,4 +19,6 @@ For English, scroll down.
 
 The video seen above is about ODTU/METU Electrical and Electronics Engineering Department, which is the place where I got my undergrad degree. The video includes an interview with me as well (I am the guy with basketball t-shirt). Unfortunately, there has not been any English subtitle, so I am so sorry about that. I just explained it in case you wonder :) 
 
-
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

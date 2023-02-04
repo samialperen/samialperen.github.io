@@ -13,3 +13,7 @@ categories:
 **The Robot Report** is an amazing robotics news website. If you are interested
 in robotics, you should definitely check it out. It is different than other 
 sources that I mentioned in my previous [post](https://samialperen.github.io/2019/03/19/robotics-resources.html). This website focuses on newest robotics applications from business perspective. It introduces companies and their work related to robotics. Even if you are not interested in business side, I believe it is still useful to follow it in order to have a better understanding of your research and broaden your horizon. Checking coolest robots and autonomous systems in the morning while enjoying your coffee is a good start for the day :). You can check the website using [this link](https://www.therobotreport.com/).
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

@@ -34,3 +34,7 @@ Here is a simple diagram that shows how system works:
 ![TransferWise 3](/images/transferwise/tw2.jpg)
 
 You don't need to worry about the safety of the system. I personally used it and it works perfect. You can further search Google for user comments about TransferWise. Thanks to TransferWise, you don't need to pay 45$ transaction fee for a 500$ transfer :) Boo **Western Union**!!
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

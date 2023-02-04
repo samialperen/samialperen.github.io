@@ -14,6 +14,10 @@ better design our ROS packages make them easy to use by other projects.
 
 In case his website goes down, [here](/docs/Building_Modular_ROS_Packages.pdf) is the pdf version of his post.
 
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>
+
 
 
 

@@ -108,7 +108,9 @@ After giving Biometrics, there is nothing to do left. All you need to do is to w
 
 That's all for this post. I wish you can get your visa at the first time you applied. If you have any questions, don't hesitate to use comment section below. Study permit application might seem a bit complicated at first, but trust me it is not. Start to prepare documents early and don't spend money on Visa Consultancy.
 
-
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>
 
 
 

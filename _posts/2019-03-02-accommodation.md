@@ -55,6 +55,10 @@ The procedure will be more or less same with other cities. I personally applied 
 
 I wish good luck for your seeking. You can see pictures of Bulowstrasse and Dennewitzplatz, where my shared room was located. I found this place two weeks before of my arrival to Berlin, so whatever happens, do not give up hope!
 
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>
+
 ![Bulowstrasse](/images/accommodation_berlin/bulowstrasse.jpg)
 <center> Picture 2: Bulowstrasse - Schoneberg </center>
 ![Dennewitzplatz](/images/accommodation_berlin/dennewitzplatz.jpg)

@@ -46,6 +46,10 @@ Lastly, I would like to talk about **ResearchGate** website. I can simply say th
 
 That's all for this post. I hope you like it. If you know other sources, feel free to use comment section.
 
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>
+
 
 
 

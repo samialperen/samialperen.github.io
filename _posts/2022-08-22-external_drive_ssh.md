@@ -43,3 +43,7 @@ $ cd /media/$USER/USB-exfat
 
 # You can copy from/to from this location (external drive) to the device you are connected via ssh
 ```
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

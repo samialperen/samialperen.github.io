@@ -168,3 +168,6 @@ Correct TF tree configuration for my case can be seen below:
 
 **Important NOTE:** You can also use my launcher with a real data without saving as a rosbag file. LIDAR should publish to /scan topic by default, but it can be changed by modifying launch files mentioned before. However, one should set **/use_sim_time** parameter as **false** while **using real time data**. On the other hand, it should be set **true** to **use with rosbag** files. 
 
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

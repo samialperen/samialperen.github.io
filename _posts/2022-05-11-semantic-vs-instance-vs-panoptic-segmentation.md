@@ -12,3 +12,7 @@ The post [Semantic vs Instance vs Panoptic: Which Image Segmentation Technique T
 
 
 In case the posts are not available anymore, [here](/docs/instance-semantic-panoptic-segmentation/Semantic vs Instance vs Panoptic: Which Image Segmentation Technique To Choose.pdf) is the pdf version.
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

@@ -29,3 +29,7 @@ If you are working with offline data, I highly suggest to use **compressed** or 
 ```
 
 **IMPORTANT NOTE:** If you happen to use compressed topics, the default configuration of image_transport might result in **low fps** values. To solve that, before recording your data, do NOT forget to change compression level using parameters ```<base_topic>/compressed/png_level```. By default, it is set to 9 meaning max compression to save space. You might need to decrease it. For more information, check parameters section of [compressedDepth](http://wiki.ros.org/compressed_depth_image_transport) and [compressed](http://wiki.ros.org/compressed_image_transport) plugins.
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

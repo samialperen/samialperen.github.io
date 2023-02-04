@@ -56,3 +56,7 @@ $ source ~/.bashrc
 **NOTE:** If you want to use the old CMake, make sure that you removed ```$HOME/cmake-install``` from ```PATH``` as well as ```CMAKE_PREFIX_PATH```.
 
 I hope this helps someone to save time :) 
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

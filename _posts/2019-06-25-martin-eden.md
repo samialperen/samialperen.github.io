@@ -44,11 +44,9 @@ Canım ailem zamanında bana hiç hissettirmemeye çalışsa da görece yoksul b
 
 Her insanın başka bir insandan öğreneceği bir şeyler olduğunan inanan ben kendi elimizle yarattığımız bu sosyal normlardan ve sınıflardan toplum olarak kurtulacağımız günü iple çekiyorum, her ne kadar pek umutlu olmasam da. Buralara kadar okuyan olur mu bilmiyorum ama gelen kişiye de bir [şarkı](https://www.youtube.com/watch?v=Ituzi_-9RJI) bırakayım madem. Sevgiyle kalın...
 
-
-
-
-
-
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>
 
 
 

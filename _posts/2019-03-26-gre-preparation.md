@@ -45,3 +45,7 @@ Lastly, I can recommend some apps to install on your mobile phone for GRE prepar
 If you are good at math, you can prepare for GRE within one or two week easily. If your math is not very good (which is totally fine), it may take up to 2-3 months to fully prepare for the exam depending on your level. 
 
 I wish this post will be useful, and you will be able to reach your target score! 
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

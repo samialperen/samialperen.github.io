@@ -120,6 +120,10 @@ Tier 5 ile ilgili ekstra bilgi için [**gov.uk**'in yayınladığı dosyalara ba
 
 Bol şans diliyorum :)
 
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>
+
 ![HP Potions Room](/images/erasmus-staji-ingiltere/potion_room_hp.JPG)
 
 

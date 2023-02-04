@@ -228,3 +228,7 @@ https://briancaffey.github.io/2016/03/17/jekyll-tutorial.html).
 That's all for this tutorial. I hope it helps for anybody who wants to create
 his/her own blog without having too much trouble. The best thing about github
 pages is that it is totally free. :)
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

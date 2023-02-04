@@ -20,3 +20,7 @@ Every once in a while, I came across with a great course, but I keep forgetting 
 * **[Book - Foundation of Robotics: A Multidisciplinary Approach with Python and ROS](https://foundations-of-robotics.org/):** This book seems like a easy read. I am planing to skim it to make sure that I do not have a gap in my knowlodge about robotics fundementals.
 * **[Coursera - First Principles of Computer Vision Specialization by Colombia University](https://www.coursera.org/specializations/firstprinciplesofcomputervision):** This coursera specialization seems to be a great way to learn the theory behind the general computer vision.
 * **[Udacity -- Become a Sensor Fusion Engineer Nanodegree Program]:** This nanodegree program is more tailored towards obstacle detection, especially for robotics applications. It explains how to fuse LIDAR, RADAR and camera data with Kalman filters.
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

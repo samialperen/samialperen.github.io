@@ -15,3 +15,7 @@ After getting familiar with ROS2 ecosystem and **colcon build**, I was looking f
 ...
 
 If you want to learn more about the differences, check [catkin tools official webpage](https://catkin-tools.readthedocs.io/en/latest/migration.html). Maybe we should start changing ROS1 tutorials a bit! :) 
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

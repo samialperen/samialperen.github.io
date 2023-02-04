@@ -78,3 +78,7 @@ If everything is okay you should be able to see the rviz output like below:
 <center> Cartographer Rviz Output </center>
 
 **NOTE:** The example bag file starts to publish data after some time. Therefore, if you see **no mapping received** warning in Rviz, please wait some time. However, if you can not see anything at the end even rosbag comes to end, then this means there is a problem about either installation or launch.
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

@@ -12,3 +12,6 @@ Foxglove's blog post [Understanding ROS Transforms](https://foxglove.dev/blog/un
 
 In case the posts are not available anymore, [here](/docs/ros-transforms/ros-transforms.pdf) is the pdf version.
 
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

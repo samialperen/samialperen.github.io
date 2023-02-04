@@ -10,3 +10,7 @@ categories:
 When I first started programming with C, I always wondered what happens before **main()**. The post [A General Overview of What Happens Before main()](https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/) by Phillip Johnston explains behind the scenes of a **C/C++** program. 
 
 In case the posts are not available anymore, [here](/docs/before-main/A General Overview of What Happens Before main() - Embedded Artistry.pdf) is the pdf version.
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>

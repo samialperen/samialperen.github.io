@@ -365,6 +365,10 @@ Visit **Urban Nation Streetart Museum** near **Nollendorfplatz**. You are going 
 ### BONUS
 Berlin is a great city with so much to offer for every kind of people. There are always an event, festival, concert etc. Follow Facebook events related to Berlin and use **MeetUp** application to socialize and find events according to your interest.
 
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>
+
 ![Event](/images/berlin-guide/event.jpeg)
 
 ![Event2](/images/berlin-guide/event2.jpeg)

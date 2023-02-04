@@ -11,3 +11,7 @@ In today's **Agile** software development environment where there are frequent c
 
 
 In case the posts are not available anymore, [here](/docs/understanding-devops/Understanding DevOps.pdf) is the pdf version.
+
+<center> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
+</center>
