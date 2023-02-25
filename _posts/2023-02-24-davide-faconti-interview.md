@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Atlas Gets a Grip | Boston Dynamics"
+title:  "Interview with Davide Faconti, Robotic Architect at PickNik Robotics"
 author: Alperen
 date:   2023-02-24
 categories:
