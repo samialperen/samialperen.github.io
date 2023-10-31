@@ -4,10 +4,9 @@ title:  "Modern CMake"
 author: Alperen
 date:   2023-10-30
 categories:
-  - Software
   - Robotics
+  - Software
 ---
-
 
 If you've ever explored blog articles or CMake documentation, you might have encountered the term "contemporary CMake" being frequently referenced. Modern CMake is an approach to configuring CMake that emphasizes the consistent and meticulous use of CMake components.
 
