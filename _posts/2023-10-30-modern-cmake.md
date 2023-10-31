@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modern/Contemporary CMake"
+title:  "Modern CMake"
 author: Alperen
 date:   2023-10-30
 categories:
