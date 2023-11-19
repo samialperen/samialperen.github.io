@@ -21,6 +21,8 @@ Toronto offers so many activities to do. It is impossible to list all of them, b
   * Trampoline Hall This is Not the Show: Think this one as a big social mediated party. There is a faciliator who makes sure that you are going to talk about things that interests you with the likeminded people. It is such an amazing experience! 
 * [Shut Up & Write](https://www.meetup.com/shutupandwritetoronto/): If you like writing and want to be around writers and creative people, then this group is definitely for you! You do not have to be professional author at all to attend. Usually it is organized through *MeetUp* application.
 * [Repair Café](https://repaircafetoronto.ca/): Repair Café Toronto is a grassroots, volunteer group that organizes events where neighbours help neighbours learn how to repair. It does not have a fixed location. You can either volunteer for them or go to one of these cafe's to learn how to fix that thingy you have been keeping in your garage forever! :)
+* [JAM Sports](https://toronto.jamsports.com/sportsoffered/): Jam sports organizes leagues for various team sports based on your level. They also have clinics that teaches you the basics. If you like playing sports, you should try registering for one of the leagues and go for the championship!
+* [Hot Docs Ted Rogers Cinema](https://maps.app.goo.gl/JT1EVhw29Y6eKSwx7): Old restored movie theatre screen documentaries & independent movies. Annual membership is quite affordable and they always host interesting weekly events and workshops.
 
 
 ## Coffee Shops
@@ -45,7 +47,14 @@ If you are like me who prefers coffee shops over bars, then Toronto is the right
 * [Chez Nous](https://goo.gl/maps/nn9ZFoyjqhCoK7fv6): Nice queen east bar, bottle of wines are half price after midnight. Perfect place for date nights. 
 * [Prenup Bar](https://goo.gl/maps/JP45znyHFdwL7qTW7): Their side patio is what you need during summer in Toronto. You have no idea how difficult it is to find a patio which is not on a main street. It is still a good place to visit during winter too due to their vast beer selection.
 * [CineCycle](https://maps.app.goo.gl/BBioztaUVrvFLfMV6): This place gives me Berlin vibes. It is funky coffee bar, bicycle repair shop & cinema. They screen quite old movies and they host interesting events. If you like underground places, this place is for you!
+* [The Chefs' House](https://maps.app.goo.gl/4x8ZCFgNLUcvbSU26): The restaurant on King Street East is operated by students from George Brown College's Culinary School. It features a cafe, a restaurant, and a bakery.
+* [Cafe Landwer](https://maps.app.goo.gl/jcbFmrKtK7kbJvH78): You should try their Shakshuka. It goes well anytime of the day, but I see that most of the people prefer it as a brunch. 
+* [Khao San Road](https://maps.app.goo.gl/pyLjJvHVbG8mmzop9): Nice Thai restaurant. Pad thai plus thai iced tea is a killer combo to try!
+* [Salad King](https://maps.app.goo.gl/v5uCPyKzNF8pA41fA): Not as good as Khao San Road, but Islamic Noodles which is not on the menu is similar to pad thai and portions are huge!
 * [Juicy Dumpling](https://goo.gl/maps/qw4bSLnLLgeRpjTFA): Cheap and tasy Shanghai-style dumplings in Kensignton area. I do not suggest eating in here. Rather order to go and enjoy it outside. 
+* [The Grapefruit Moon](https://maps.app.goo.gl/Sbfoxaqmq6PavE5v9): Your cozy breakfast and brunch place located in Annex area. 
+* [The Riviera at Toronto Island](https://maps.app.goo.gl/9WRqpDYp7PC2LVsb7): This place reminds me of beer gardens in Germany. It is located in Ward's Island that is to me the best part of Toronto Island. Great place to end a summer day with cold drinks.
+* [Unionville](https://maps.app.goo.gl/w1dazTivKG3xihv59): This cute town in Markham is the perfect place to spend a day. It has bunch of nice patios and restaurants. Do not forget to hike/cycle on Rouge Valley Trail.
 
 
 ## Museums/Galleries
@@ -54,6 +63,12 @@ For galleries, I have a hot take. In my opinion, the ones in Distillery District
 * [Gallery Arcturus](https://goo.gl/maps/ithyQmDdULDzn7wf8): Free art gallery with lots of rooms to check out their art books and chill. They organize some workshops too.
 * [TD Gallery of Indigenous Art](https://goo.gl/maps/Ay9yFyDEhycocQjr8): Free gallery of indigenous art. If you do not know about the indigenous culture and dark side of Canadian History, you should check this gallery. 
 
+## Outdoor/Nature
+* [Mount Pleasant Cemetery](https://maps.app.goo.gl/UgshEhFn4p7m67Rm8): The cemetery between Eglington and St. Clair is such a peaceful place to go for walks and enjoy the nature. It is lovely at every season, but in my opinion, it is the best during autumn season.
+* [Evergreen Brick Works](https://maps.app.goo.gl/ywHh6wjdWvB9iSmN8): If you like cycling, then you will enjoy the biking trails at this area. There is a little of going up and down though. Just heads up! :)
+* [Tommy Thompson Park](https://maps.app.goo.gl/KuTseuVnUK1QFvfx8): I can not believe how underrated this great natural park is. It is huge and there is no car access. Get ready for a long bike ride or walk. I promise you won't be disappointed once you reach to the end with lighthouse. Highly recommended place for sunset/sunrise!
+* [Martin Goodman Trail](https://maps.app.goo.gl/N1hgnDmYTPecasQ87): One day you should try to cycle from harbourfront all the way to High Park. If you can not do that, at least walk on this trail around Marilyn Bell Park. You won't believe we have such a hidden gem in Toronto. Feels more like Vancouver to me!
+* [Bond Lake](https://maps.app.goo.gl/EDzP1xLjTqNk6K9q7): Bond Lake in North York is the perfect get away from the city. It is less than an hour drive from downtown to go there (without traffic). Unfortunately, not the best place to go with public transit.
 
 <center> 
   <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript' style="text-align:center">kofiwidget2.init('Buy Me a Coffee', '#e08428', 'V7V3IDOGW');kofiwidget2.draw();</script> 
