@@ -36,7 +36,7 @@ If you are like me who prefers coffee shops over bars, then Toronto is the right
 * [Carbonic Coffee](https://goo.gl/maps/vKdBfzXACn5pvwQW7): I like this coffee shop a lot since it gives me a little bit of Mediterranean vibes due to its decor. It has comfy corners. It is a good place to spend time by yourself Promixity to UofT definitely give it good student vibes. IT has delicious and refreshing summer drinks without alcohol.
 * [Moss Park Espresso](https://goo.gl/maps/dny8jXHP21yXpiYk8): Italian small local coffee shop sharing the same space with a plant shop. No laptop policy, so not the best place to study or read. They do not allow you to hangout there too long since it has a limited seating place, but great place to get nice coffee and meet your friend on your way to main event. Owner is a great guy. They also make yummy Gelato! Lastly, they have some Jazz nights and other community events.
 * [FIKA Cafe](https://maps.app.goo.gl/5vC7E3paVuE1NbjT7): This place is in Kensignton area. It has a nice patio and its interior design is also unique. Nice place to grab a coffee with friends, but not the best place to hang out by yourself. 
-
+* [Sumach Espresso](https://maps.app.goo.gl/iyjZJrnmPxGE694s5): Local coffee shop in Corktown. I do not like their indoor seating much since they have only wood stools and chairs. However, their outdoor seating is decent. Give it a chance during warm weather.
 
 ## Bars/Restaurants 
 
@@ -54,6 +54,7 @@ If you are like me who prefers coffee shops over bars, then Toronto is the right
 * [Juicy Dumpling](https://goo.gl/maps/qw4bSLnLLgeRpjTFA): Cheap and tasy Shanghai-style dumplings in Kensignton area. I do not suggest eating in here. Rather order to go and enjoy it outside. 
 * [The Grapefruit Moon](https://maps.app.goo.gl/Sbfoxaqmq6PavE5v9): Your cozy breakfast and brunch place located in Annex area. 
 * [The Riviera at Toronto Island](https://maps.app.goo.gl/9WRqpDYp7PC2LVsb7): This place reminds me of beer gardens in Germany. It is located in Ward's Island that is to me the best part of Toronto Island. Great place to end a summer day with cold drinks.
+* [C'est What](https://maps.app.goo.gl/1kSbTNFiae5MuFvJA): Cozy bar located at Front East. If you need a place to get drinks with friends after work during a workday, you should try this place. They have a lot of cozy seating, but the most unique part is they have an indoor fireplace where you can sit around and hangout with your friends. Imagine it is winter and snowing outside. You worked at the office whole day and finally ready for a drink. You are calling your friends and all of you are gathering together around the fireplace and sipping your beers. What else can you ask? It also have boardgames and billard.
 * [Unionville](https://maps.app.goo.gl/w1dazTivKG3xihv59): This cute town in Markham is the perfect place to spend a day. It has bunch of nice patios and restaurants. Do not forget to hike/cycle on Rouge Valley Trail.
 
 
